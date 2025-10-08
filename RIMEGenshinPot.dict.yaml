@@ -1,0 +1,149 @@
+# Rime dictionary
+# encoding: utf-8
+# 原神词库 由 水塔很懒 编辑更新
+# 本词库应在 {用户文件夹}\{输入方案名称}.dict.yaml 中引入。
+# 重新部署后生效
+
+---
+name: RIMEGenshinPot # 词库名
+version: "V6.01"	# 词库版本，2025-10-09
+sort: original # 排序依据：按照权重
+...
+
+尘歌壶	chen ge hu	1
+## 须弥家具
+妙彩宝瓶	miao cai bao ping	1
+素净宝瓶	su jing bao ping	1
+渔采的市易之地	yu cai de shi yi zhi di	1
+渔采的修旧利废	yu cai de xiu jiu li fei	1
+渔采的延贮之法	yu cai de yan zhu zhi fa	1
+渔采的远售良方	yu cai de yuan shou liang fang	1
+智慧之城	zhi hui zhi cheng	1
+智慧之城的泛常	zhi hui zhi cheng de fan chang	1
+智慧之城的坚刚	zhi hui zhi cheng de jian gang	1
+智慧之城的兼罗	zhi hui zhi cheng de jian luo	1
+智慧之城的讬贸	zhi hui zhi cheng de tuo mao	1
+智慧之城的瞻望	zhi hui zhi cheng de zhan wang	1
+智慧之城的榰柱	zhi hui zhi cheng de zhi zhu	1
+智慧之城的轻盾	zhi hui zhi cheng de qing dun	1
+智慧之城的青屏	zhi hui zhi cheng de qing ping	1
+茶歇的阴凉	cha xie de yin liang	1
+澄寂宫园的茶香	cheng ji gong yuan de cha xiang	1
+
+## 纳塔家具
+火山岩定向石凳	huo shan yan ding xiang shi deng	1
+诚勇伟力之绘	cheng yong wei li zhi hui	1
+
+固定火炬	gu ding huo ju	1
+卫护	wei hu	1
+
+丛茂的片段	cong mao de pian duan	1
+
+花卉盆栽	hua hui pen zai	1
+盛放的曙红	sheng fang de shu hong	1
+辉木	hui mu	1
+辉木白本置物架	hui mu bai ben zhi wu jia	1
+辉木布顶百用店	hui mu bu ding bai yong dian	1
+辉木朴质雕栊墙	hui mu pu zhi diao long qiang	1
+辉木织物箱台	hui mu zhi wu xiang tai	1
+辉木重型制陶架	hui mu zhong xing zhi tao jia	1
+辉木自紧酒桶	hui mu zi jin jiu tong	1
+
+## 纳塔摆设
+沃陆棚屋	wo lu peng wu	1
+临时之选	lin shi zhi xuan	1
+
+## 挪德卡莱家具
+隐而不宣的界线	yin er bu xuan de jie xian	1
+生锈的铁皮工作台	sheng xiu de tie pi gong zuo tai	1
+
+## 赠礼套装
+言谈之前的沉思	yan tan zhi qian de chen si	1
+竞技场的欢聚胜饮	jing ji chang de huan ju sheng yin	1
+安寝吧，于那舒适的梦乡	an qin ba yu na shu shi de meng xiang	1
+忙碌市集的潮流风物	mang lu shi ji de chao liu feng wu	1
+于最灼热的炉火中诞生	yu zui zhuo re de lu huo zhong dan sheng	1
+「流泉之众」的悠然	liu quan zhi zhong de youu ran	1
+「悬木人」的实践	xuan mu ren de shi jian	1
+「花羽会」的征途	hua yu hui de zheng tu	1
+「烟谜主」的安适	yan mi zhu de an shi	1
+「沃陆之邦」的勇进	wo lu zhi bang de yong jin	1
+伙伴与家园	huo ban yu jia yuan	1
+
+## 活动限定家具
+若荒漠化为林野	ruo huang mo hua wei lin ye	1
+映影海报	ying ying hai bao	1
+映影	ying ying	1
+咪呜呜宝座	mi wu wu bao zuo	1
+呼噜噜宝座	hu lu lu bao zuo	1
+花团锦屏	hua tuan jin ping	1
+玉簪金壁	yu zan jin bi	1
+震晓云天鼓	zhen xiao yun tian gu	1
+花灯戏台	hua deng xi tai	1
+笙歌鼎沸	sheng ge ding fei	1
+佳节香扆	jia jie xiang yi	1
+栈山航海	zhan shan hang hai	1
+金相玉质	jin xiang yu zhi	1
+清泉之心	qing quan zhi xin	1
+铳枪影业获奖留念	chong qiang ying ye huo jiang liu nian	1
+大炖肉火焰	da dun rou huo yan	1
+愿此刻永远留驻	yuan ci ke yong yuan liu zhu	1
+小家伙教导我们的事	xiao jia huo jiao dao wo men de shi	1
+特别蹦蹦嘟嘟可	te bie beng beng du du ke	1
+水妖王子	shui yao wang zi	1
+稳像机关	wen xiang ji guan	1
+哭哭球球	ku ku qiu qiu	1
+祀珑赐像	si long ci xiang	1
+温舒雅谈	wen shu ya tan	1
+巧炼瓮釜	qiao lian weng fu	1
+万策制剂	wan ce zhi ji	1
+鳄鳄炮炮	e e pao pao	1
+久等了，我的神明	jiu deng le wo de shen ming	1
+快快醒来	kuai kuai xing lai	1
+小家伙大英雄！	xiao jia huo da ying xiong	1
+吉语摩拉	ji yu mo la	1
+华庄严果	hua zhuang yan guo	1
+砰砰大魔王	peng peng da mo wang	1
+舞兽戏服	wu shou xi fu	1
+嗷嗷威猊	ao ao wei ni	1
+猊兽	ni shou	1
+舞兽玩偶	wu shou wan ou	1
+懒懒困猊	lan lan kun ni	1
+
+遗予神骸定幽冥	yi yu shen hai ding you ming	1
+金狸狸奖杯	jin li li jiang bei	1
+神之嗅觉	shen zhi xiu jue	1
+不倒狐狐	bu dao hu hu	1
+真实厨艺	zhen shi chu yi	1
+不倒狸狸	bu dao li li	1
+
+归于烈火，归于一途	gui yu lie huo gui yu yi tu	1
+
+游艺布景	you yi bu jing	1
+分身幻梦	fen shen huan meng	1
+秋津羽球	qiu jin yu qiu	1
+美梦如是	mei meng ru shi	1
+白鹭流光之簪	bai lu liu guang zhi zan	1
+瓶中瑰景	ping zhong gui jing	1
+幸运荧光	xing yun ying guang	1
+理想准度	li xiang zhun du	1
+悠悠海兽之勺	you you hai shou zhi shao	1
+精装童话	jing zhuang tong hua	1
+
+同行赠礼	tong xing zeng li	1
+
+酸甜果汁小姐	suan tian guo zhi xiao jie	1
+浪浪鲨鲨	lang lang sha sha	1
+高跳蹦床	gao tiao beng chuang	1
+劲凉的焰火	jin liang de yan huo	1
+阿夏滚筒	a xia gun tong	1
+
+## 世界任务摆设
+离别亦是下一次重逢的开始	li bie yi shi xia yi ci chong feng de kai shi	1
+创龙点睛奇象	chuang long dian jing qi xiang	1
+花型机关零件	hua xing ji guan ling jian	1
+
+## 纪行摆设
+狂欢节拍	kuang huan jie pai	1
+热舞乐台	re wu yue tai	1
+
