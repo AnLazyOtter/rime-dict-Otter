@@ -1,13 +1,16 @@
-#绝区零字典
+# 绝区零字典
+
 # 创建于：2025年6月7日
 
 ---
+
 name: RIMEZZZ  # 词库名
 version: "20250607"  # 词库版本
 sort: by_weight # 排序依据：按照权重
 ...
 
 #通用
+
 绝区零	jue qu ling	1
 绝区零	zzz	1
 Zenless Zone Zero	zzz	1
@@ -16,163 +19,649 @@ Zenless Zone Zero	zzz	1
 法厄同	fa e tong	1
 法厄同纪事	fa e tong ji shi	1
 绳匠	sheng jiang	1
-绳网	sheng wang	1
 金绳匠奖	jin sheng jiang jiang	1
+绳网	sheng wang	1
+墨提斯	mo ti si	1
+墨提斯情报屋	mo ti si qing bao wu	1
+空洞调查协会	kong dong diao cha xie hui	10
+Hollow Investigative Association	hia	1
+H.I.A俱乐部	hia	1
 
-#地名
+# 战斗术语
+
+连携技	lian xie ji	1
+失衡值	shi heng zhi	1
+喧响值	xuan xiang zhi	1
+闪避支援	shan bi zhi yuan	1
+极限支援	ji xian zhi yuan	1
+快速支援	kuai su zhi yuan	1
+极限闪避	ji xian shan bi	1
+极限视域	ji xian shi yu	1
+支援突击	zhi yuan tu ji	1
+魔障化	mo zhang hua	1
+闪避增强	shan bi zeng qiang	1
+玛瑟尔迷宫	ma se er mi gong	1
+
+# 地名与人物
+
+## 六分街地名与人物
+
 新艾利都	xin ai li du	1
 艾利都	ai li du	1
 六分街	liu fen jie	1
 嗷呜报刊亭	ao wu bao kan ting	1
 汀曼大师	ting man da shi	1
-喵吉	miao ji	1
-实战模拟室	shi zhan mo ni shi	1
-专业挑战室	zhuan ye tiao zhan shi	1
+瀑汤谷锦鲤	pu tang gu jin li	1
+锦鲤面馆	jin li mian guan	1
+
+音像店	yin xiang dian	1
+吟游唱针	yin you chang zhen	1
+埃珐	ai fa	1
 拟真鏖战试炼	ni zhen ao zhan shi lian	1
-斯科特哨站	si ke te shao zhan	1
+鏖战高塔	ao zhan gao ta	1
+鏖战试炼	ao zhan shi lian	1
+
 
 测试机	ce shi ji	1
 蛇对蛇	she dui she	1
 噬魂犬	shi hun quan	1
 
+热望角	re wang jiao	1
+
 黑雁工地旧址	hei yan gong di jiu zhi	1
+斯科特哨站	si ke te shao zhan	1
+定期清剿	ding qi qing jiao	1
+
+## 光映广场地名与人物
+
+光映广场	guang ying guang chang	1
+治安局	zhi an jue	1
+引力电影院	yin li dian ying yuan	1
+
+杜伊老爹	du yi lao die	1
+杜伊	du yi	1
+
+伏尔甘区	fu er gan qu	1
+伏尔甘	fu er gan	1
+
+
+芭莱大厦	ba lai da sha	1
+厄匹斯港	e pi si gang	1
+海鸦巢	hai ya chao	1
+
+## 芭莱大厦人物
+双子舞者	shuang zi wu zhe	1
+罗德	luo de	1
+
+
+星环	xing huan	1
+流光大厅	liu guang da ting	1
+
+## 卡吕冬之子地名与人物
+旧油井区	jiu you jing qu	1
+野火镇	ye huo zhen	1
+芝托邦	zhi tuo bang	1
+猪突猛进	zhu tu meng jin	1
+
+獾笑镇	huan xiao zhen	1
+弃车坟场	qi che fen chang	1
+
+赫利俄斯机关	he li e si ji guan	1
+大裂谷	da lie gu	1
+密涅瓦区	mi nie wa qu	1
+索恩区	suo en qu	1
+卡洛丝	ka luo si	1
+阿尔娜	a er na	1
+
+
+## 云岿山地名与人物
 
 云岿山	yun kui shan	1
 随便观	sui bian guan	1
+阿朔	a shuo	1
+解卦	jie gua	1
+藏卦集	cang gua ji	1s
+曦炎相济	xi yan xiang ji	1
+震霆殛妄	zhen ting ji wang	1
+
+
+澄辉坪	cheng hui ping	1
+澄辉	cheng hui	1
 饮茶仙	yin cha xian	1
 好物铺	hao wu pu	1
 德丰大押	de feng da ya	1
-云岿弟子	yun kui di zi	1
 云岿	yun kui	1
+云岿弟子	yun kui di zi	1
+仪绛	yi jiang	1
+青冥剑	qing ming jian	1
+叶释渊	ye shi yuan	1
+莱姆尼安	lai mu ni an	1
+辉映道	hui ying dao	1
+辉岭石	hui ling shi	1
+辉瓷市集	hui ci shi ji	1
+辉瓷	hui ci	1
+浮啦飞	fu la fei	1
+墩儿	dun er	1
+释诡斋	shi gui zhai	1
+栖蝉巷	qi chan xiang	1
+平心堂	ping xin tang	1
+
+泽尼希	ze ni xi	1
+航天城	hang tian cheng	1
+钟塔广场	zhong ta guang chang	1
+泅珑围	qiu long wei	1
 
 
-#代理人
+# 代理人
+## 玲的时装
+曦色玲珑	xi se ling long	1
+夏日晴空	xia ri qing kong	1
+
+## 哲的时装
+鹤唳青霄	he li qing xiao	1
+浪影闲庭	lang ying xian ting	1
+
 代理人	dai li ren	1
+合作者档案	he zuo zhe dang an	1
+希人	xi ren	1
+熊希人	xiong xi ren	1
+鼠希人	shu xi ren	1
+
 阿劳恩	a lao en	1
 阿佩卡	a pei ka	1
-埃珐	ai fa	1
-艾莲	ai lian	1
-艾莲乔	ai lian qiao	1
 
+## 狡兔屋代理人
 狡兔屋	jiao tu wu	1
 安比	an bi	1
-妮可	ni ke	1
-猫的失物	mao de shi wu	1
+妮可	ni ke	11
+妮可·德玛拉	ni ke	1
+德玛拉	de ma la	1
+狡黠甜心	jiao xia tian xin	1
+
 猫宫又奈	mao gong you nai	1
 猫又	mao you	1
 比利	bi li	1
+闪亮登场	shan liang deng chang	1
+游斗射术	you dou she shu	1
+失落技术构造体	shi luo ji shu gou zao ti	1
+英雄时刻	ying xiong shi ke	1
+星徽骑士的教导	xing hui qi shi de jiao dao	1
+惩戒弹药	cheng jie dan yao	1
 
+
+## 白祇重工代理人
 白祇重工	bai qi zhong gong	1
 安东	an dong	1
 安东伊万诺夫	an dong yi wan nuo fu	1
 珂蕾妲	ke lei da	1
 珂蕾妲贝洛伯格	ke lei da bei luo bo ge	1
+霍尔斯	huo er si	1
 本比格	ben bi ge	1
+格莉丝	ge li si	1
+格莉丝霍华德	ge li si huo hua de	1
 
+## 对空六课代理人
 对空六课	dui kong liu ke	1
-朱鸢	zhu yuan	1
+H.S.O.S.6	dui kong liu ke	1
+
 苍角	cang jiao	1
 星见雅	xing jian ya	1
+砺世澄沧	li shi cheng cang	1
 
+月城柳	yue cheng liu	1
+休心沐月	xiu xin mu yue	1
+
+浅羽悠真	qian yu you zhen	1
+甲乙矢	jia yi shi	1
+电囚	dian qiu	1
+电壶	dian hu	1
+
+
+## 刑侦特勤组代理人
+刑侦特勤组	xing zhen te qin zu	1
+简·杜	jian du	1
+简杜	jian du	1
+青衣	qing yi	1
+朱鸢	zhu yuan	1
+赛斯	sai si	1
+赛斯洛威尔	sai si luo wei er	1
+
+## 卡吕冬之子代理人
 卡吕冬之子	ka lv dong zhi zi	1
 派派	pai pai	1
 派派韦尔	pai pai wei er	1
+莱特	lai te	1
+柏妮思	bo ni si	1
+柏妮思·怀特	bo ni si huai te	1
+凯撒	kai sa	1
+波可娜	bo ke na	1
+露西	lu xi	1
+露西亚娜	lu xi ya na	1
+露西亚娜·德·蒙特夫	lu xi ya na	1
+
+## 维多利亚家政代理人
 维多利亚家政	wei duo li ya jia zheng	1
+冯莱卡恩	feng lai ka en	1
 莱卡恩	lai ka en	1
+狼叔	lang shu	1
 可琳	ke lin	1
 可琳威克斯	ke lin wei ke si	1
-格莱特	ge lai te	1
-格莉丝	ge li si	1
-格莉丝霍华德	ge li si huo hua de	1
-冯莱卡恩	feng lai ka en	1
+艾莲	ai lian	1
+艾莲乔	ai lian qiao	1
+从周一到周五	cong zhou yi dao zhou wu	1
 丽娜	li na	1
 亚历山德丽娜	ya li shan de li na	1
-青衣	qing yi	1
+莎芭丝缇安	sha ba si ti an	1
+格莱特	ge lai te	1
 
-#代理人秘闻
+天琴座	tian qin zuo	1
+伊芙琳	yi fu lin	1
+舒瓦利耶	shu wa li ye	1
+舍勒之青	she le zhi qing	1
+
+耀嘉音	yao jia yin	1
+水晶灯下	shui jing deng xia	1
+
+## 奥波勒斯小队代理人
+奥波勒斯小队	ao bo le si xiao dui	1
+奥波勒斯	ao bo le si	1
+扳机	ban ji	1
+
+白银小队	bai yin xiao dui	1
+零号安比	ling hao an bi	1
+
+席德	xi de	1
+奥菲斯	ao fei si	1
+
+
+## 反舌鸟代理人
+反舌鸟	fan she niao	1
+雨果	yu guo	1
+雨果·维拉德	yu guo wei la de	1
+薇薇安	wei wei an	1
+
+## 云岿山代理人
+
+仪玄	yi xuan	1
+墨形影踪	mo xing ying zong	1
+玄墨	xuan mo	1
+霄云劲	xiao yun jin	1
+霄云	xiao yun	1
+墨影凝云	mo ying ning yun	1
+玄墨极阵	xuan mo ji zhen	1
+青溟震击	qing ming zhen ji	1
+隐云身法	yin yun shen fa	1
+凌云破	ling yun po	1
+清霄同游	qing xiao tong you	1
+除祟一击	chu sui yi ji	1
+流云影身	liu yun ying shen	1
+清霄劲	qing xiao jin	1
+清霄	qing xiao	1
+霄云迅击	xiao yun xun ji	1
+烬影诀	jin ying jue	1
+墨痕化形	mo hen hua xing	1
+凝云术	ning yun shu	1
+墨烬影消	mo jin ying xiao	1
+青溟	qing ming	1
+青溟云影	qing ming yun ying	1
+符法千重	fu fa qian chong	1
+
+
+潘引壶	pan yin hu	1
+橘福福	ju fu fu	1
+
+
+## 怪啖屋代理人
+怪啖屋	guai dan wu	1
+浮波柚叶	fu bo you ye	1
+柚叶	you ye	1
+晴空化狸	qing kong hua li	1
+戏语幽谭	xi yu you tan	1
+奇巧缤纷	qi qiao bin fen	1
+人多乐趣大	ren duo le qu da	1
+恶作剧合战	he zuo ju he zhan	1
+狸之爪	li zhi zhua	1
+狸之帐	li zhi zhang	1
+硬糖射击	ying tang she ji	1
+彩糖花火	cai tang hua huo	1
+狸之助	li zhi zhu	1
+甜点时间	tian dian shi jian	1
+趣能补给	qu neng bu ji	1
+软糖轰击	ruan tang hong ji	1
+甜蜜惊吓	tian mi jing xia	1
+十人十色	shi ren shi se	1
+不投降就捣乱	bu tou xiang jiu dao luan	1
+幸运体质	xing yun ti zhi	1
+趣友云集	qu you yun ji	1
+幽城童话	you cheng tong hua	1
+坠落魔法	zhui luo mo fa	1
+残冬梦迹	can dong meng ji	1
+落地生根	luo di sheng gen	1
+
+
+爱丽丝	ai li si	1
+百里香之海	hai li xiang zhi hai	1
+馥草芳誓	fu cao fang shi	1
+
+卢西娅	lu xi ya	1
+
+伊德海莉	yi de hai li	1
+
+
+# 代理人秘闻
+
 代理人秘闻	dai li ren mi wen	1
+而英雄总是归于幕后	er ying xiong zong shi gui yu mu hou	1
+直到您彻底遗忘	zhi dao nin che di yi wang	1
+此地长眠者	ci di chang mian zhe	1
+白银的复苏	bai yin de fu su	1
 
-#邦布
+
+# 音擎
+
+音擎	yin qing	1
+
+## S级音擎
+
+牺牲洁纯	xi sheng jie chun	1
+钢铁肉垫	gang tie rou dian	1
+硫磺石	liu huang shi	1
+奔袭獠牙	ben xi liao ya	1
+霰落星殿	xian luo xing dian	1
+燃狱齿轮	ran yu chi lun	1
+焰心桂冠	yan xin gui guan	1
+灼心摇壶	zhuo xin yao hu	1
+嵌合编译器	qian he bian yi qi	1
+深海访客	shen hai fang ke	1
+残心青囊	can xin qing nang	1
+拘缚者	ju fu zhe	1
+时流贤者	shi liu xian zhe	1
+啜泣摇篮	chuo qi yao lan	1
+索魂影眸	suo hun ying mou	1
+飞鸟星梦	fei niao xing meng	1
+心弦夜响	xin xian ye xiang	1
+玲珑妆匣	ling long zhuang xia	1
+青溟笼舍	qing ming long she	1
+淬锋钳刺	cui feng qian ci	1
+玉壶青冰	yu hu qing bing	1
+防爆者	fang bao zhe	1
+千面日陨	qian mian ri yun	1
+奔袭獠牙	ben xi liao ya	1
+福虓炉炉	fu xiao lu lu	1
+福虓炉炉	fu lu lu	1
+狸法七变化	li fa qi bian hua	1
+狸法	li fa
+十方锻星	shi fang duan xing	1
+霞落星殿	xia luo xing dian	1
+霜染寒星	shuang han han xing	1
+
+
+## 其他音擎
+月相	yue xiang	1
+残响	can xiang	1
+湍流	tuan liu	1
+恒等式	heng deng shi	1
+电磁爆	dian ci bao	1
+灰烬	hui jin	1
+
+旋钻机	xuan zuan ji	1
+逍遥游球	xiao yao you qiu	1
+加农转子	jia nong zhuan zi	1
+震元奇枢	zhen yuan qi shu	1
+裁纸刀	cai zhi dao	1
+轰鸣座驾	hong ming zuo jia	1
+维序者	wei xu zhe	1
+好斗的阿炮	hao dou de a pao	1
+含羞恶面	han xiu e mian	1
+比格气缸	bi ge qi gang	1
+左轮转子	zuo lun zhuan zi	1
+仿制星辉引擎	fang zhi xing hui yin qing	1
+聚宝箱	ju bao xiang	1
+街头巨星	jie tou ju xing	1
+家政员	jia zheng yuan	1
+雨林饕客	yu lin tao ke	1
+星辉引擎	xing hui yin qing	1
+人为刀俎	ren wei dao zu	1
+贵重骨核	gui zhong gu he	1
+正版变身器	zheng ban bian shen qi	1
+双生泣星	shuang sheng qi xing	1
+时光切片	shi guang qie pian	1
+兔能环	tu neng huan	1
+春日融融	chun ri rong rong	1
+幻变魔方	huan bian mo fang	1
+鎏金花信	liu jin hua xin	1
+电波漫步	dian bo man bu	1
+强音热望	qiang yin re wang	1
+光影刻刀	guang ying ke dao	1
+德玛拉电池	de ma la dian chi	1
+触电唇彩	chu dian chun cai	1
+
+# 邦布
+
 邦布	bang bu	1
 邦巢	bang chao	1
 嗯呢	en ne	1
+观测布	guan ce bu	1
 黄金邦布	huang jin bang bu	1
 伊埃斯	yi ai si	1
+飞靶布	fei ba bu	1
+不良布	bu liang bu	1
+插头布	cha tou bu	1
+纸袋布	zhi dai bu	1
+企鹅布	qi e bu	1
+寻宝布	xun bao bu	1
+泪眼布	lei yan bu	1
+电击布	dian ji bu	1
+鲨牙布	sha ya bu	1
+阿全	a quan	1
+巴特勒	ba te le	1
+艾米莉安	ai mi li an	1
+飙速布	biao su bu	1
+共鸣布	gong ming bu	1
+赤红莫库斯	chi hong mo ku si	1
+阿崔巡查	a cui xun cha	1
+左轮布	zuo lun bu	1
+格列佛探员	ge lie fo tan yuan	1
+咔嚓仔	ka cha zai	1
+罗宾	luo bin	1
+狮耶	shi ye	1
+狮哉	shi zai	1
+招财布	zhao cai bu	1
+扑击布	pu ji bu	1
+纸壳布	zhi ke bu	1
+果核布	guo he bu	1
+磁力布	ci li bu	1
+气压布	qi ya bu	1
+加班布	jia ban bu	1
+格斗布	ge dou bu	1
+骑士布	qi shi bu	1
+恶魔布	e mo bu	1
+艾丝弥小姐	ai si mi xiao jie	1
+艾丝弥	ai si mi	1
 
-#音擎
-音擎	yin qing	1
+## 剧情邦布
+拉杆布	la gan bu	1
+滋脆布	zi cui bu	1
+壳哩布	ke li bu	1
+工程布	gong cheng bu	1
+水兵布	shui bing bu	1
+圣剑布	sheng jian bu	1
 
+# 驱动盘
 
-#战斗术语
-连携技	lian xie ji	1
-失衡值	shi heng zhi	1
+驱动盘	qu dong pan	1
+穿透值	chuan tou zhi	
+啄木鸟电音	zhuo mu niao dian yin	1
+獠牙重金属	liao ya zhong jin shu	1
+极地重金属	ji di zhong jin shu	1
+雷暴重金属	lei bao zhong jin shu	1
+混沌重金属	hun dun zhong jin shu	1
+炎狱重金属	yan yu zhong jin shu	1
+摇摆爵士	yao bai jue shi	1
+灵魂摇滚	ling hun yao gun	1
+激素朋克	ji su peng ke	1
+自由蓝调	zi you lan diao	
+震星迪斯科	zhen xing di si ke	1
+河豚电音	he tun dian yin	1
+原始朋克	yuan shi peng ke	1
+混沌爵士	hun dun jue shi	1
+静听嘉音	jing ting jia yin	1
+折枝剑歌	zhe zhi jian ge	1
+如影相随	ru ying xiang sui	1
+法厄同之歌	fa e tong zhi ge	1
+云岿如我	yun kui ru wo	1
+山大王	shan da wang	1
 
-#敌人
-纵火犯	zong huo fan	1
+# 敌人
+
+实战模拟室	shi zhan mo ni shi	1
 重装炮手	chong zhuang pao shou	1
 重装侵袭者	chong zhuang qin xi zhe	1
-轻装猎兵	qing zhuang lie bing	1
-贪婪射手	tan lan she shou	1
-死路屠夫	si lu tu fu	1
+
+
+
 未知复合侵蚀体	wei zhi fu he qin shi ti	1
 骸蜂	hai feng	1
 奥波勒斯小队	ao bo le si xiao dui	1
 暴徒	bao tu	1
 被侵蚀者	bei qin shi zhe	1
-恶毒打手	e du da shou	1
 恶灵	e ling	1
-以骸	yi hai	1
 以太	yi tai	1
+
+以骸	yi hai	1
 以太异形	yi tai yi xing	1
-狂乱暴徒	kuang luan bao tu	1
+死路屠夫	si lu tu fu	1
+塔纳托斯	ta na tuo si	1
+杜拉罕	du la han	1
+离子体纳塞勒亚	li zi ti na sai le ya	1
+离子体瑟托迪亚	li zi ti se tuo di ya	1
+泰拉斯奎祸车	tai la si kui huo che	1
+萨提尔	sa ti er	1
+提尔锋	ti er feng	1
+眼魔引擎	yan mo yin qing	1
+霍巴	huo ba	1
+
+
+暴徒	bao tu	1
+怒汉	nu han	1
 魁梧打手	kui wu da shou	1
 魁梧施虐者	kui wu shi nue zhe	1
+袭击者	xi ji zhe	1
+偷猎者	tou lie zhe	1
+纵火犯	zong huo fan	1
 掠夺者	lue duo zhe	1
-掠袭猎兵	lue xi lie bing	1
 
-#主线剧情
-##序章
+侵蚀体	qin shi ti	1
+凶心疯汉	xiong xin feng han	1
+狂乱暴徒	kuang luan bao tu	1
+贪婪射手	tan lan she shou	1
+恶毒打手	e du da shou	1
+
+叛军	pan jun	1
+卫士	wei shi	1
+重装炮手	zhong zhuang pao shou	1
+捷足巡游者	jie zu xun you zhe	1
+重装侵袭者	zhong zhuang qin xi zhe	1
+猎兵	lie bing	1
+掠袭猎兵	lue xi lie bing	1
+轻装猎兵	qing zhuang lie bing	1
+新晋猎兵	xin jin lie bing	1
+戍卫猎兵	shu wei lie bing	1
+护戍盾卫	hu shu dun wei	1
+
+专业挑战室	zhuan ye tiao zhan shi	1
+提丰挑战者型	ti feng tiao zhan zhe xing	1
+装甲哈提	zhuang jia ha ti	1
+通缉打手	tong ji da shou	1
+汉斯	han si	1
+提丰	ti feng	1
+蛮横力士	man heng li shi	1
+多佩冈亚・简	duo pei gang ya jian	1
+多佩冈亚	duo pei gang ya	1
+伐木机	fa mu ji	1
+色雷斯人	se lei si ren	1
+秽息蚀者	hui xi shi zhe	1
+阿瓦鲁斯	a wa lu si	1
+
+颂礼赞者	song li zan zhe	1
+秉火领颂	bing huo ling song	1
+赫斯克龙	hui si ke long	1
+阿卡沃尔	a ka wo er	1
+班尼雷克	ban ni lei ke	1
+
+
+# 主线剧情
+## 独家视界
+独家视界	du jia shi jie	1
+虚拟杀机	xu ni sha ji	1
+六课的大脑	liu ke de da nao	1
+卧底蓝调	wo di lan diao	1
+主演遁入夜幕	zhu yan dun ru ye mu	1
+闪耀的此刻	shan yao de ci ke	1
+攸兰	you lan	11
+攸兰・缔文特	you lan	1
+霍布森	huo bu sen	1
+
+## 序章
 兔与绳	tu yu sheng	1
 物流事故	wu liu shi gu	1
 绳与兔	sheng yu tu	1
-##第一季
-###第一章
+## 第一季
+### 第一章
 猫的失物	mao de shi wu	1
 逃出生天	tao chu sheng tian	1
 火爆末班车	huo bao mo ban che	1
 逃生早鸟票	tao sheng zao niao piao	1
 紧急救援	jin ji jiu yuan	1
 在空洞的中心呼唤	zai kong dong de zhong xin hu huan	1
-###第二章
+珀尔曼	po er man	1
+### 第二章
 小小大失控	xiao xiao da shi kong	1
 机性的爱	ji xing de ai	1
 疾速追机	ji su zhui ji	1
 追本溯源	zhui ben su yuan	1
-###第二章间章
+### 第二章间章
 非常任务	fei chang ren wu	1
+布林格	bu lin ge	1
+笼外狂鸭	long wai kuang ya	1
 隐形帮手	yin xing bang shou	1
 危险使命	wei xian shi ming	1
-###第三章
+### 第三章
 危楼夜寻踪	wei lou ye xun zong	1
 诡异的来信	gui yi de lai xin	1
 舞步上行	wu bu shang xing	1
 黑暗中的足迹	hei an zhong de zu ji	1
 拯救大黑客芮恩	zheng jiu da hei ke rui en	1
 芮恩	rui en	1
-###第四章
+卧底蓝调	wo di lan diao	1
+### 第四章
 火狱骑行	huo yu qi xing	1
+卡萨	ka sa	1
+阳燧	yang sui	1
+
 急中生智的自救	ji zhong sheng zhi de zi jiu	1
 意想不到的挑战	yi xiang bu dao de tiao zhan	1
+巴罗姆	ba luo mu	1
+
+燃晶火湖	ran jing huo hu	1
+卢修斯	lu xiu si	1
+凯旋者	kai xuan zhe	1
+捷足先登的买手	jie zu xian deng de mai shou	1
 背叛与否的终点	bei pan yu fou de zhong dian	1
 英雄诞生的骑行	ying xiong dan sheng de qi xing	1
-###第五章
+### 第五章
 星流霆击	xing liu ting ji	1
 空洞奇妙日	kong dong qi miao ri	1
 失踪的证人	shi zong de zheng ren	1
+星见宗一郎	xing jian zong yi lang	1
 死路直通车	si lu zhi tong che	1
 紧急追捕	jin ji zhui bu	1
-###第一季尾音
+### 第一季尾音
+悠然插曲	you ran cha qu	1
+金翅雀逃跑计划	jin chi que tao bao ji hua	1
 将眼泪与过往一同埋葬	jiang yan lei yu guo wang yi tong mai zang	1
+卡修斯	ka xiu si	1
+
 如获新生	ru huo xin sheng	1
 宿命的重逢	su ming de chong feng	1
 诅咒，礼物和爱	zu zhou li wu he ai	1
@@ -182,89 +671,225 @@ Zenless Zone Zero	zzz	1
 雨果的心魔	yu guo de xin mo	1
 以身作局	yi shen zuo ju	1
 称颂与空洞	cheng song yu kong dong	1
-##第二季
-###第一章
+## 第二季
+### 第一章
 云霞同归处	yun xia tong gui chu	1
 云岿山常服	yun kui shan chang fu	1
 阴影中的袭击	yin ying zhong de xi ji	1
 艰难举证	jian nan ju zheng	1
+帕罗	pa luo	1
+狛野真斗	bo ye zhen dou	1
+洛尔	luo er	1
+埃里克	ai li ke	1
+
 阴影涌动之处	yin ying yong dong zhi chu	1
 祸患之夜	huo huan zhi ye	1
+不意之灾今日至	bu yi zhi zai jin ri zhi	1
 云岿弟子再出山	yun kui di zi zai chu shan	1
+余波暗涌	yu bo an yong	1
+
+### 第二章
+迟吟的浪涌	chi yin de lang yong	1
+
+### 第三章
+不要温和地走入那良夜	bu yao wen he de zou ru na liang ye	1
 
 
-##绳网委托
+## 绳网委托
+
 只是录像店平凡的一天	zhi shi lu xiang dian ping fan de yi tian	1
+邦布之狱	bang bu zhi yu	1
+后厨是燃烧的原野	hou chu shi ran shao de yuan ye	1
+阿比盖尔	a bi gai er	1
+小甜菜头	xiao tian cai tou	1
+菲拉	fei la	1
+杰夫	jie fu	1
+一桩疑案两段录像三人在场	yi zhuang yi an liang duan lu xiang san ren zai chang	1
+汝之弃子，彼之坚持	ru zhi qi zi bi zhi jian chi	1
 
-#丽都纪事
+不拼怎么赢	bu pin zen me ying	1
+邦布黄金城	bang bu huang jin cheng	1
+上班补锅回忆录	shang ban bu guo hui yi lu	1
+职场补锅罗曼史	zhi chang bu guo luo man shi	1
+
+诺帕尔	nuo pa er	1
+仙人掌花的邀约	xian ren zhang hua de yao yue	1
+
+
+夜雨的请托	ye yu de qing tuo	1
+谜影寻迹	mi ying xun ji	1
+群星照亮旷野	qun xing zhao liang kuang ye	1
+随便观复兴计划	sui bian guan fu xing ji hua	1
+凋荣十载随便一观	diao rong shi zai sui bian yi guan	1
+委托来自茶话间	wei tuo lai zi cha hua jian	1
+旧土与春芽	jiu tu yu chun ya	1
+早蒹	zao jian	1
+故友与新朋	gu you yu xin peng	1
+神秘的机器	shen mi de ji qi	1
+我与老钱	wo yu lao qian	1
+伏汐会	fu xi hui	1
+飞笺	fei jian	1
+
+
+称愿笺	cheng yuan jian	1
+百通宝	bai tong bao	1
+云纹徽	yun wen hui	1
+
+# 丽都纪事
+
 丽都纪事	li du ji shi	1
 花语未明之言	hua yu wei ming zhi yan	1
 厄匹斯	e pi si	1
 厄匹斯极钓大师赛	e pi si ji diao da shi sai	1
+极钓	ji diao	1
+贵族料理的食用方式	gui zu liao li de shi yong fang shi	1
+真意藏于水下	zhen yi cang yu shui xia	1
+
 如愿璀璨之日	ru yuan cui can zhi ri	1
 知道苍白荒秽之地	zhi dao cang bai huang hui zhi di	1
 「霸主」的欢宴	ba zhu de huan yan	1
+牛仔出现在百叶门后	niu zai chu xian zai bai ye men hou	1
+应急食品的味道	ying ji shi pin de wei dao	1
+风滚草捎来了她的信	feng gun cao shao lai le ta de xin	1
+食评客	shi ping ke	1
+轰隆隆驶向日落	hong long long shi xiang ri luo	1
+
 断层之谜	duan ceng zhi mi	1
 
-#版本活动
+# 版本活动
+
 台前试镜	tai qian shi jing	1
 丽都城募	li du cheng mu	1
+「嗯呢」从天降	en ne cong tian jiang	1
 
-##2.0版本活动
+热门卡司	re men ka si	1
+常驻频段	chang zhu pin duan	1
+独家频段	du jia pin duan	1
+福福生威	fu fu sheng wei	1
+荣焰桂冠	rong yan gui guan	1
+
+音擎频段	yin qing pin duan	1
+灿烂和声	can lan he sheng	1
+璀璨韵律	cui can yun lv	1
+
+邦布频段	bang bu pin duan	1
+卓越搭档	zhuo yue da dang	1
+
+喵吉	miao ji	1
+再建丽都	zai jian li du	1
+丽都有布	li du you bu	1
+
+## 2.0版本活动
+
 澄辉礼函	cheng hui li han	1
 钢魂	gang hun	1
 黄金之绊	huang jin zhi ban	1
+美食大作战	mei shi da zuo zhan	1
+缘于引力的邂逅	yuan yu yin li de xie hou	1
+吾本如斯	wu ben ru si	1
+诡宅怨脂	gui zhai yuan zhi	1
+流浪的足迹	liu lang de zu ji	1
+波特山	bo te shan	1
+大空洞	da kong dong	1
+最后一次飞行	zui hou yi ci fei xing	1
+仙境游记	xian jing you ji	1
+小身材大危机	xiao shen cai da wei ji	1
+星徽	xing hui	1
+星徽骑士	xing hui qi shi	1
+另一位骑士	ling yi wei qi shi	1
+十万次心跳	shi wan ci xin tiao	1
+咖啡伴侣	ka fei ban lu	1
+露天电影	lu tian dian ying	1
 
-#空洞
+
+## 2.1版本活动
+仲夏游梦绮谭	zhong xia you meng qi tan	1
+绮梦度假村	qi meng du jia cun	1
+特蕾莎	te lei sha	1
+伊吉	yi ji	1
+绮梦之夏	qi meng zhi xia	1
+环岛射击	huan dao she ji	1
+远海极钓	yuan hai ji diao	1
+热焰冲浪	re yan chong lang	1
+管浪驾乘	guan lang jia cheng	1
+
+「嗯呢」棋闻录	en ne qi wen lu	1
+幽灵船大冒险	you ling chuan da mao xian	1
+乔乔的太空探秘	qiao qiao de tai kong tan mi	1
+拼出澄辉夏日	pin chu cheng hui xia ri	1
+最靓鱼档传说	zui liang yu dang chuan shuo	1
+## 2.2版本活动
+音潮跃动	yin chao yue dong	1
+
+# 成就
+邦布代班	bang bu dai ban	1
+关于致富的尝试	guan yu zhi fu de chang shi	1
+工作难找丁尼少	gong zuo nan zhao ding ni shao	1
+
+# 纪念名片
+千愿流霞	qian yuan liu xia	1
+享受搦战时刻	xiang shou nuo zhan shi ke	1
+
+# 空洞
 空洞	kong dong	1
+墨利诺厄	mo li nuo e	1
+曜变之核	yao biao zhi he	1
+
 式舆防卫战	shi yu fang wei zhan	1
 艾利都防线	ai li du fang xian	1
-恶名狩猎	e ming shou lie	1
 危局强袭战	wei ju qiang xi zhan	1
 零号空洞	ling hao kong dong	1
+迷失之地	mi shi zhi di	1
 厄影弥途	e ying mi tu	1
+
+恶名狩猎	e ming shou lie	1
+初生死路屠夫	chu sheng si lu tu fu	1
+未知复合侵蚀体	wei zhi fu he qin shi ti	1
+冥宁芙	ming ning fu	1
+霸主侵蚀体	ba zhu qin shi ti	1
+庞培	pang pei	1
+
+牲鬼	sheng gui	1
+塑炼	su lian	1
+秽息司祭	hui xi si ji	1
+秽息	hui xi	1
 
 
 地精	di jing	1
-杜拉罕	du la han	1
 法布提	fa bu ti	1
-光映广场	guang ying guang chang	1
+
 哈提	ha ti	1
-汉斯	han si	1
 霍普利泰	huo pu li tai	1
-简杜	jian du	1
-捷足巡游者	jie zu xun you zhe	1
 俱乐部	ju le bu	1
 雷蛛	lei zhu	1
-离子体纳塞勒亚	li zi ti na sai le ya	1
-离子体瑟托迪亚	li zi ti se tuo di ya	1
 零异事件	ling yi shi jian	1
-露西	lu xi	1
 曼德拉	man de la	1
-冥宁芙	ming ning fu	1
 尼尼微	ni ni wei	1
-怒汉	nu han	1
-叛军	pan jun	1
-瀑汤谷锦鲤	pu tang gu jin li	1
-侵蚀体	qin shi ti	1
-萨提尔	sa ti er	1
-赛斯	sai si	1
-赛斯洛威尔	sai si luo wei er	1
+
 盛怒恶霸	sheng nu e ba	1
-戍卫猎兵	shu wei lie bing	1
-塔纳托斯	ta na tuo si	1
-泰拉斯奎祸车	tai la si kui huo che	1
-提尔锋	ti er feng	1
-提丰挑战者型	ti feng tiao zhan zhe xing	1
 铁道地精	tie dao di jing	1
-偷猎者	tou lie zhe	1
-卫士	wei shi	1
-袭击者	xi ji zhe	1
-希人	xi ren	1
-新晋猎兵	xin jin lie bing	1
-刑侦特勤组	xing zhen te qin zu	1
-凶心疯汉	xiong xin feng han	1
-眼魔引擎	yan mo yin qing	1
-吟游唱针	yin you chang zhen	1
+
 游魂	you hun	1
-装甲哈提	zhuang jia ha ti	1
+
+# 其他势力
+
+橘子网络	ju zi wang luo	1
+敲敲通信	qiao qiao tong xin	1
+怀斯塔学会	huai si ta xue hui	1
+怀斯塔	huai si ta	1
+称颂会	cheng song hui	1
+始主	shi zhu	1
+
+梅若拉可	mei ruo la ke	1
+梅弗劳尔	mei fu lao er	1
+朽峰矿业	xiu feng kuang ye	1
+辉晶美克	hui jing mei ke	1
+达米安	da mi an	1
+卡丽德安	ka li de an	1
+拉文洛克	la wen luo ke	1
+
+# 绝区零音乐
+原色	yuan se	1
+绝望吧台	jue wang ba ta	1
+制服・剪刀・鲨鱼尾	zhi fu jian dao sha yu wei	1
+乐园梦游计	le yuan meng you ji	1
