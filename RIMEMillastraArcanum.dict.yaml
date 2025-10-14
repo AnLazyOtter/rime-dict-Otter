@@ -1,0 +1,45 @@
+# Rime dictionary
+# encoding: utf-8
+# 原神词库 由 水塔很懒 编辑更新
+# 本词库应在 {用户文件夹}\{输入方案名称}.dict.yaml 中引入。
+# 重新部署后生效
+
+---
+name: RIMEMillastraArcanum # 词库名
+version: "V1.0"	# 词库版本，2025-10-09
+sort: original # 排序依据：按照权重
+...
+
+# 基本信息
+千星奇域	qian xing qi yu	111
+Millastra Arcanum	qian xing qi yu	1
+纪游	ji you	1
+天空纪游	tian kong ji you	1
+诸界纪游	zhu jie ji you	1
+诸界史诗	zhu jie shi shi	1
+
+
+# 颂愿	
+颂愿	song yuan	1
+常驻颂愿	chang zhu song yuan	1
+奇遇回声	qi yu hui sheng	1
+活动颂愿	huo dong song yuan	1
+世象凝核	shi xiang ning he	1
+重现晶簇	chong xian jing cu	1
+绮刻之楔	qi ke zhi xie	1
+明丽珍材	ming li zhen cai	1
+刻印片形	ke yin pian xing	1
+强耀片形	qiang yao pian xing	1
+升炼	sheng lian	1
+
+奇域	qi yu	1
+奇域人偶	qi yu ren ou	1
+奇域大厅	qi yu da ting	1
+人气奇域	ren qi qi yu	1
+
+# 主题大厅
+主题大厅	zhu ti da ting	1
+
+# 套装
+蔷薇叹息	qiang wei tan xi	1
+欧科塔维亚	ou ke ta wei ya	1
