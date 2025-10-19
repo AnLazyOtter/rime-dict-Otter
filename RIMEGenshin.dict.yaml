@@ -1,6 +1,6 @@
-# Rime dictionary	1
+# Rime dictionary
 # encoding: utf-8
-# 原神词库 由 水塔很懒 编辑更新	1
+# 原神词库 由 水塔很懒 编辑更新
 # 本词库应在 {用户文件夹}\{输入方案名称}.dict.yaml 中引入。
 # 重新部署后生效
 # 索引
@@ -20,11 +20,13 @@
 
 ---
 name: RIMEGenshin # 词库名
-version: "V5.7-1"	# 词库版本，2025-06-07
+version: "V6.0.2"	# 词库版本，2025-10-20
 sort: original # 排序依据：按照权重
 ...
 原神	yuan shen	1
 Genshin Impact	yuan shen	1
+千星奇域	qian xing qi yu	1
+Millastra Arcanum	qian xing qi yu	1
 阿丑	a chou	1
 阿德菲	a de fei	1
 阿尔邦	a er bang	1
@@ -335,7 +337,6 @@ Genshin Impact	yuan shen	1
 苍翠之风	cang cui zhi feng	1
 苍风高地	cang feng gao di	1
 藏弓待用	cang gong dai yong	1
-藏金盗宝鼬	cang jin dao bao you	1
 苍晶螺	cang jing luo	1
 藏镜仕女	cang jing shi nv	1
 仓鹫庇卫	cang jiu bi wei	1
@@ -449,8 +450,6 @@ Genshin Impact	yuan shen	1
 澄净如莲	cheng jing ru lian	1
 成捆的木材	cheng kun de mu cai	1
 称名少年事件簿	cheng ming shao nian shi jian bu	1
-柽木	cheng mu	1
-柽木紧凑桌案	cheng mu jin cou zhuo an	1
 乘胜追击	cheng sheng zhui ji	1
 尺度	chi du	1
 赤楯座	chi dun zuo	1
@@ -609,7 +608,6 @@ Genshin Impact	yuan shen	1
 大枫丹湖	da feng dan hu	1
 大风纪官	da feng ji guan	1
 大幻梦	da huan meng	1
-大黄金盗宝鼬	da huang jin dao bao you	1
 大黄金吮指鸡	da huang jin shun zhi ji	1
 大火宽油	da huo kuan you	1
 大将旗指物	da jiang qi zhi wu	1
@@ -657,7 +655,7 @@ Genshin Impact	yuan shen	1
 丹书金铁券	dan shu jin tie quan	1
 丹书立约	dan shu li yue	1
 但饮	dan yin	1
-刀镡	dao chan	1
+刀镡	dao xin	1
 道成林	dao cheng lin	1
 刀风	dao feng	1
 稻光	dao guang	1
@@ -3984,7 +3982,6 @@ Genshin Impact	yuan shen	1
 信使	xin shi	1
 心识蕴藏之种	xin shi yun cang zhi zhong	1
 新手长枪	xin shou chang qiang	1
-新手盗宝鼬	xin shou dao bao you	1
 新叶效果	xin ye xiao guo	1
 新叶状态	xin ye zhuang tai	1
 心意注入	xin yi zhu ru	1
@@ -5071,6 +5068,9 @@ Genshin Impact	yuan shen	1
 十连双金	shi lian shuang jin	1
 十连三金	shi lian san jin	1
 
+## 6.1版本活动
+回望湮灭的月光	hui wang yan mie de yue guang	1
+
 
 ##  6.0版本活动
 虹旅藏金	hong lv cang jin	1
@@ -5082,6 +5082,22 @@ Genshin Impact	yuan shen	1
 缘谷紫	yuan gu zi	1
 游逸旅账	you yi lv zhang	1
 逸闻印签	yi wen yin qian	1
+定格回忆的赠礼	ding ge hui yi de zeng li	1
+月华牧歌	yue hua mu ge	1
+馈赠之喜	kui zeng zhi xi	1
+异物相吸	yi wu xiang xi	1
+咏月静思	yong yue jing si	1
+机巧重拳	ji qiao zhong quan	1
+光华一掬	guang hua yi ju	1
+钢铁之握	gang tie zhi wo	1
+异邦暇兴	yi bang xia xing	1
+乐园假日	le yuan jia ri	1
+咫尺之约	zhi chi zhi yue	1
+铁皮骑士	tie pi qi shi	1
+铁罐畅饮	tie guan chang yin	1
+轨道之外	gui dao zhi wai	1
+孤灯远望	gu deng yuan wang	1
+定格温暖的约定	ding ge wen nuan de yue ding	1
 
 ##  5.8版本活动
 谛踪匿行	di zong ni xing	1
@@ -5401,6 +5417,9 @@ Genshin Impact	yuan shen	1
 秋暮之火	qiu mu zhi huo	1
 无头的科奎塔奥	wu tou de ke kui ta ao	1
 燃素锻造记事	ran su duan zao ji shi	1
+## 挪德卡莱书籍
+大盗雷德・米勒传奇	da dao lei de mi le chuan qi	1
+海螺的回响	hai luo de hui xiang	1
 
 # 小道具
 流明晶石	liu ming jing shi	1
@@ -5600,6 +5619,10 @@ Genshin Impact	yuan shen	1
 圣龙	sheng long	1
 圣龙之心	sheng long zhi xin	1
 荒泷派的邀请函	huang long pai de yao qing han	1
+识者之证	shi zhe zhi zheng	1
+谋识者的面影	mou shi zhe de mian ying	1
+织识者的倾醉	bian shi zhe de qing zui	1
+
 梅蒂的欠条	mei di de qian tiao	
 梅蒂的笔记	mei di de bi ji	1
 
@@ -5636,6 +5659,7 @@ Genshin Impact	yuan shen	1
 仙速瓶	xian su ping	1
 对局邀请函	dui ju yao qing han	1
 幸运牌币	xing yun pai bi	1
+蛋卷螺栓	dan juan luo shuan	1
 
 散失的风神瞳	san shi de feng shen tong	1
 散失的岩神瞳	san shi de yan shen tong	1
@@ -5645,6 +5669,7 @@ Genshin Impact	yuan shen	1
 散失的火神瞳	san shi de huo shen tong	1
 散失的冰神瞳	san shi de bing shen tong	1
 绯红玉髓	fei hong yu sui	1
+散失的月神瞳	san shi de yue shen tong	1
 
 风之印	feng zhi yin	1
 岩之印	yan zhi yin	1
@@ -5756,7 +5781,7 @@ Genshin Impact	yuan shen	1
 乌鸦还是乌鸫	wu ya hai shi wu dong	1
 人间剧	ren jian ju	1
 盛宴之后	sheng yan zhi hou	1
-
+柔灯铃的花语	rou deng ling de hua yu	1
 
 
 ###  纳塔天地万象
@@ -5824,6 +5849,7 @@ Genshin Impact	yuan shen	1
 流彩的踪迹	liu cai de zong ji	1
 梦中的帕伊提提	meng zhong de pa yi ti ti	1
 这里曾有一条归家之路	zhe li ceng you yi tiao gui jia zhi lu	1
+阿亚尔的继承者	a ya er de ji cheng zhe	1
 
 ###  挪德卡莱天地万象
 你所无法想象的爱	ni suo wu fa xiang xiang de ai	1
@@ -5836,7 +5862,19 @@ Genshin Impact	yuan shen	1
 蕴光之茧	yun guang zhi jian	1
 诗与歌的女儿们	shi yu ge de nv er men	1
 「地隐会」的黑暗秘密	di yin hui de hei an mi mi	1
-
+人类灭绝之后	ren lei mie jue zhi hou	1
+至冬域外的色彩	zhi dong yu wai de se cai	1
+武库巨鸭的坠落	wu ku ju ya de zhui luo	1
+潮流逆转	chao liu ni zhuan	1
+无声指令	wu sheng zhi ling	1
+现在是我的了	xian zai shi wo de le	1
+异国相逢，优惠放送？	yi guo xiang feng you hui fang song	1
+月光下的少女	yue guang xia de shao nv	1
+电光幻梦	dian guang huan meng	1
+寂静的春天	ji jing de chun tian	1
+废土工程学	fei tu gong cheng xue	1
+当极光闪耀	dang ji guang shan yao	1
+谁之罪	shui zhi zui	1
 ###  至冬天地万象
 
 挑战者	tiao zhan zhe	1
@@ -5893,6 +5931,8 @@ Genshin Impact	yuan shen	1
 
 ## 神射手之誓
 
+## 挑战者
+
 挑战者	tiao zhan zhe	1
 ###  挑战者第一辑
 
@@ -5922,17 +5962,17 @@ Genshin Impact	yuan shen	1
 殊形之龙	shu xing zhi long	1
 
 对决者	dui jue zhe	1
-###  对决者第三辑
+##  对决者第三辑
 微末	wei mo	1
 尖峰	jian feng	1
 雷吉	lei ji	1
 「战羊」与「铁爪」	zhan yang yu tie zhao	1
 图普的繁茂	tu pu de fan mao	1
 
-###  秘境与深境螺旋第一辑
+##  秘境与深境螺旋第一辑
 
-###  幻想真境剧诗
-
+##  幻想真境剧诗
+伟业的遂成	wei ye de sui cheng	1
 
 
 ## Olah！ 
@@ -5990,9 +6030,24 @@ Genshin Impact	yuan shen	1
 旋律行进的方向	xuan lv xing jin de fang xiang	1
 轮唱的艺术	lun chang de yi shu	1
 公园、长椅与奏鸣	gong yuan chang yi yu zou ming	1
-###  唱片-专辑-千音雅集
+##  唱片-专辑-千音雅集
+### 相遇专辑-漫漫旅途之忆
+漫漫旅途之忆	man man lv tu zhi yi	1
+未行之路	wei xing zhi lu	1
+经过	jing guo	1
+天净先借风作籁	tian jing xian jie feng zuo lai	1
+风仪之舞	feng yi zhi wu	1
+骄阳炽燎	jiao yang chi liao	1
+海露欢游	hai lu huan you	1
+灼火之心	zhuo huo zhi xin	1
+伫立而侍	zhu li er shi	1
+幽谷舟咏	you gu zhou yong	1
+烬火	jin huo	1
+皎洁的笑颜	jiao jie de xiao yan	1
+纯真的歌谣	chun zhen de ge yao	1
+
+### 纳塔专辑2
 流火陨坠之野	liu huo yun zhui zhi ye	1
-炽炎交逐之原	chi yan jiao zhu zhi yuan	1
 祛疾的清风	qu ji de qing feng	1
 饫沃坡野	yu wo po ye	1
 健体之海	jian ti zhi hai	1
@@ -6003,11 +6058,35 @@ Genshin Impact	yuan shen	1
 勤倦之畛	qin juan zhi zhen	1
 夜诞的花冠	ye dan de hua guan	1
 镜中日暖	jing zhong ri nuan	1
+### 纳塔专辑1
+炽炎交逐之原	chi yan jiao zhu zhi yuan	1
 
 火与战争	huo yu zhan zheng	1
 天青之诗	tian qing zhi shi	1
+### 枫丹专辑
+白露澈明之泉	bai lu che ming zhi quan	1
 
-漫漫旅途之忆	man man lv tu zhi yi	1
+### 谱面主题
+谱面	pu mian	1
+幻戏瑰意	huan xi gui yi	1
+静思浮梦	jing si fu meng	1
+韬玉天星	tao yu tian xing	1
+疏影引蝶映梅红	shu ying yin die ying mei hong	1
+诉理明谕	su li ming yu	1
+流连欢宴	liu lian huan yan	1
+谧海的冰牙	mi hai de bing ya	1
+风与自由	feng yu zi you	1
+岩与契约	yan yu qi yue	1
+雷与永恒	lei yu yong heng	1
+草与智慧	cao yu zhi hui	1
+水与正义	shui yu zheng yi	1
+火与战争	huo yu zhan zheng	1
+天青之诗	tian qing zhi shi	1
+无念恒梦	wu nian heng meng	1
+炽烈的隼翼	chi lie de sun yi	1
+慧心霜樱	hui xin shuang ying	1
+焮赩节拍	xin xi jie pai	1
+曜火焚晦	yao huo fen hui	1
 
 ## 地区成就
 圣龛巡礼	sheng kan xun li	1
@@ -6108,6 +6187,10 @@ Genshin Impact	yuan shen	1
 远渡苍夜的霜林	yuan du cang ye de shuang lin	1
 谁之罪	shui zhi zui	1
 月灵盈藏之地	yue ling ying cang zhi di	1
+正午审判	zheng wu shen pan	1
+渠道为王	qu dao wei wang	1
+灯也会有影子	deng ye hui you ying zi	1
+罪人降临	zui ren jiang lin	1
 
 # 任务
 ## 魔神任务
@@ -6302,11 +6385,22 @@ Genshin Impact	yuan shen	1
 于月光下重逢	yu yue guang xia chong feng	1
 在夜的阴影中	zai ye de yin ying zhong	1
 
-#### 空月之歌 第二幕
-月之二 	yue zhi er	1
 尘与灯的挽歌	chen yu deng de wan ge	1
 轰鸣与暗涌	hong ming yu an yong	1
 索西	suo xi	1
+卡乌洛	ka wu luo	1
+莫季佳	mo ji jia	1
+萨塔贾卡	sa ta jia ka	1
+科尔霍宁	ke er huo ning	1
+
+窥见记忆的暗面	kui jian ji yi de an mian	1
+曾有人追猎月亮	ceng you ren zhui lie yue liang	1
+灰白的秩序熊熊燃烧	hui bai de zhi xu xiong xiong ran shao	1
+遥不可及的安息	yao bu ke ji de an xi	1
+
+#### 空月之歌 第二幕
+月之二 	yue zhi er	1
+回望湮灭的月光	hui wang yan mie de yue guang	1
 ## 世界任务
 世界任务	shi jie ren wu	1
 ### 蒙德世界任务
@@ -6419,8 +6513,8 @@ Genshin Impact	yuan shen	1
 
 ### 枫丹世界任务
 蒸汽鸟报	zheng qi niao bao	1
-蒸气鸟	zheng qi niao	1
-蒸气鸟报社	zheng qi niao bao she	1
+蒸汽鸟	zheng qi niao	1
+蒸汽鸟报社	zheng qi niao bao she	1
 烦恼杀手	fan nao sha shou	1
 图形对抗学	tu xing dui kang xue	1
 早早失败的「图形对抗学」	zao zao shi bai de tu xing dui kang xue	1
@@ -6438,6 +6532,16 @@ Genshin Impact	yuan shen	1
 莫蒂西娅	mo di xi ya	1
 夜后咏叹调	ye hou yong tan diao	1
 漂亮朋友	piao liang peng you	1
+
+无格律的自由诗	wu ge lv de zi you shi	1
+西哈诺	xi ha nuo	1
+自由之剑	zi you zhi jian	1
+佩妮	pei ni	1
+娜娜	na na	1
+流浪华尔兹	liu lang hua er zi	1
+鲁热	lu re	1
+弗里曼	fu li man	1
+
 
 真是让人垂涎欲滴	zhen shi rang ren chui xian yu di	1
 在开满鲜花的草地上	zai kai man xian hua de cao di shang	1
@@ -6507,7 +6611,7 @@ Genshin Impact	yuan shen	1
 
 觐山之路	jin shan zhi lu	1
 碎岩及其往事	sui yan ji qi wang shi	1
-###  紫色嵴锋龙，来袭
+####  紫色嵴锋龙，来袭
 
 朝向炎崖之路	chao xiang yan ya zhi lu	1
 纳华钦之跃	na hua qin zhi yue	1
@@ -6538,12 +6642,25 @@ Genshin Impact	yuan shen	1
 
 终有独行之日	zhong you du xing zhi ri	1
 
+#### 悠悠度假村世界任务
 古遗迹的调查者	gu yi ji de diao cha zhe	1
 提提岛奇遇	ti ti dao qi yu	1
 厄尔齐丽之舞	e er qi li zhi wu	1
 美梦帕伊提提	mei meng pa yi ti ti	1
 
 月亮升起的地方	yue liang sheng qi de di fang	1
+
+阿亚尔	a ya er	1
+阿亚尔英雄杯	a ya er ying xiong bei	1
+纳瓦特拉利	na wa te la li	1
+图瓦哈克	tu wa ha ke	1
+破盾者	po dun zhe	1
+卡欣妲	ka xin da	1
+恩库巴	en ku ba	1
+恩库巴的七矛	en ku ba de qi mao	1
+七矛	qi mao	1
+穆温达	mu wen da	1
+伊帕库拉	yi pa ku la	1
 
 ### 挪德卡莱世界任务
 
@@ -6560,12 +6677,37 @@ Genshin Impact	yuan shen	1
 餐食大事	can shi da shi	1
 
 月谕的半步舞	yue yu de ban bu wu	1
-居于门户之石	jun yu men hu xhi shi	1
+居于门户之石	jun yu men hu zhi shi	1
 为一座绿色的岛屿	wei yi zuo lv se de dao yu	1
+克莱卡	ke lai ka	1
+维娜琴卡	wei na qin ka	1
+事犹未了	shi you wei liao	1
+维拉莫之泉	wei la mo zhi quan	1
+图奥内塔尔	tu ao nei ta er	1
+索洛维	suo luo wei	1
+爱依菈	ai yi la	1
+娄维娅	lou wei ya	1
+安洛丝	an luo si	1
+厄布拉	e bu la	1
+厄布拉神柱	e bu la shen zhu	1
+
+鞋匠的孩子总是光脚	xie jiang de hai zi zong shi guang jiao	1
+月导靴	yue dao xue	1
+涅朵奇卡	nie duo qi ka	1
+影鼬	ying you	1
+
+##### 鹡鸰	ji ling	1
+金翅雀	jin chi que	
+霜雪鸮	shuang xue xiao	1
+拉斯科尔尼科夫	la si ke er ni ke fu	1
+斯塔拉诺夫	si ta la nuo fu	1
+
 
 莫雷谷的伙伴们	mo lei gu de huo ban men	1
 
 问题分拣机器人	wen ti fen jian ji qi ren	1
+阿莎莎	a sha sha	1
+郎勃罗	lang bo luo	1
 
 旧世界的蓝调	jiu shi jie de lan diao	1
 科研的动力	ke yan de dong li	1
@@ -6579,6 +6721,18 @@ Genshin Impact	yuan shen	1
 
 月之东，日之西	yue zhi dong ri zhi xi	1
 告密的心	gao mi de xin	1
+星星果	xing xing guo	1
+谢斯特宁	xie si te ning	1
+丹尤莎	dan you sha	1
+卓里克	zhuo li ke	1
+托尔芬	tuo er fen	1
+蒂涅	di nie	1
+扳手老爹	ban shou lao die	1
+章鱼中士	zhang yu zhong shi	1
+铁鲸上校	tie jing shang xiao	1
+赫洛瓦捷	he luo wa jie	1
+
+浪底的低语	lang di de di yu	1
 
 镜子、迷宫与国王	jing zi mi gong yu guo wang	1
 派莫诺夫娜	pai mo nuo fu na	1
@@ -6587,6 +6741,24 @@ Genshin Impact	yuan shen	1
 图瓦道茨基之石	tu wa dao ci ji zhi shi	1
 梅蒂	mei di	1
 
+蜃楼之获	shen lou zhi huo	1
+
+飞向天空的约定	fei xiang tian kong de yue ding	1
+花缨水母	hua ying shui mu	1
+
+是谨慎派还是悟性派	shi yan jin pai hai shi wu xing pai	1
+安妮兹卡	an ni zi ka	1
+马科拉	ma ke la	1
+德兹斯拉沃	de zi si la wo	1
+博比克	bo bi ke	1
+阿洛契卡	a luo qi ka	1
+
+援助小队的述说	yuan zhu xiao dui de shu shuo	1
+
+
+褴褛之刃	lan lv zhi ren	1
+佩科	pei ke	1
+泥染的刀镡	ni ran de dao xin	1
 
 ## 委托任务
 
@@ -6802,6 +6974,10 @@ Genshin Impact	yuan shen	1
 比夫茏	bi fu long	1
 没有硝烟的战争	mei you xiao yan de zhan zheng	1
 
+## 伴月纪闻
+伴月纪闻	ban yue ji wen	1
+新月之拥	xin yue zhi yong	1
+
 # 地名
 冒险家协会	mao xian jia xie hui	1
 
@@ -6979,6 +7155,8 @@ Genshin Impact	yuan shen	1
 圣火竞技场	sheng huo jing ji chang	1
 皈依熔炉	gui yi rong lu	1
 锻石之轮	duan shi zhi lun	1
+锻石	duan shi	1
+锻石之火	duan shi zhi huo	1
 倦意之屋	juan yi zhi wu	1
 龙遗物研究协会	long yi wu yan jiu xie hui	1
 扎坎	zha kan	1
@@ -7143,6 +7321,7 @@ Genshin Impact	yuan shen	1
 
 浪浪湾	lang lang wan	1
 浪浪打靶	lang lang da ba	1
+游彩化形	you cai hua xing	1
 
 
 提提岛	ti ti dao	1
@@ -7173,27 +7352,33 @@ Nod-Krai	nuo de ka lai	1
 斯佩兰扎	si pei lan zha	1
 叮铃哐啷	ding ling kuang lang	1
 蛋卷工坊	dan juan gong fang	1
+叮铃哐啷蛋卷工坊	ding ling kuang lang dan juan gong fang	1
 轰隆隆月矩力能量炮	hong long long yue ju li neng liang pao	1
 好运速转	hao yun su zhuan	1
 霜月之坊	shuang yue zhi fang	1
 坚果与螺钉	jian guo yu luo ding	1
 春景花房	chun jing hua fang	1
+丽切娅	li qie ya	1
+
 罗素姆工坊	luo su mu gong fang	1
 罗素姆	luo su mu	1
+辛查	xin cha	1
 德米安	de mi an	1
 安瓦蒂尼尔湖	an wa di ni er hu	1
 伏尼契商会	fu ni qi shang hui	1
 塔尔诺	ta er nuo	1
 糖雕	tang diao	1
 乌娜亚塔	wu na ya ta	1
-
+秘谜书屋 	mi mi shu wu	1
 秘闻馆	mi wen guan	1
 阿舍鲁	a she lu	1
+莫雷谷	mo lei gu	1
+苔原之隙	tai yuan zhi xi	1
 
 帕哈岛	pa ha dao	1
 月矩力	yue ju li	1
 月矩力试验设计局	yue ju li shi yan she ji ju	1
-莫雷谷	mo lei gu	1
+
 
 希汐岛	xi xi dao	1
 霜月之坊	shuang yue zhi fang	1
@@ -7201,7 +7386,13 @@ Nod-Krai	nuo de ka lai	1
 沐光之台	mu guang zhi tai	1
 银月之庭	yin yue zhi ting	1
 初谕之庭	chu yu zhi ting	1
+遗誓者的圣所	yi shi zhe de sheng suo	1
 雷图礁	lei tu jiao	1
+
+苔骨荒原	tai gu huang yuan	1
+刻拉蒂之眼	ke la di zhi yan
+终夜长茔	zhong ye chang ying	1
+绝海之下	jue hai zhi xia	1
 
 蓝珀湖	lan po hu	1
 空寂走廊	kong ji zou lang	1
@@ -7210,7 +7401,8 @@ Nod-Krai	nuo de ka lai	1
 ##  至冬地名
 
 海屑镇	hai xie zhen	1
-
+新基捷城	xin ji jie cheng	1
+皮拉米达城	pi la mi da cheng	1
 
 
 # 植物、材料
@@ -7299,6 +7491,7 @@ Nod-Krai	nuo de ka lai	1
 
 ##  游鱼
 钓鱼协会	diao yu xie hui	1
+海德薇卡	hai de wei ka	1
 
 花鳉	hua jiang	1
 蓝染花鳉	lan ran hua jiang	1
@@ -7362,6 +7555,16 @@ Nod-Krai	nuo de ka lai	1
 伪装鲨鲨独角鱼	wei zhuang sha sha du jiao yu	1
 疑似宝石独角鱼	yi si bao shi du jiao yu	1
 
+巨斧鱼	ju fu yu	1
+炽铁巨斧鱼	chi tie ju fu yu	1
+冷冽巨斧鱼	leng lie ju fu yu	1
+无奇巨斧鱼	wu qi ju fu yu	1
+凶凶鲨	xiong xiong sha	1
+素素凶凶鲨	su su xiong xiong sha	1
+虹光凶凶鲨	hong guang xiong xiong sha	1
+明眼鱼	ming yan yu	1
+蓝昼明眼鱼	lan zhou ming yan yu	1
+夜色明眼鱼	ye se ming yan yu	1
 
 ###   秘源机关
 巡戒使	xun jie shi	1
@@ -7379,8 +7582,11 @@ Nod-Krai	nuo de ka lai	1
 维护机关频闪诱饵	wei hu ji guan pin shan you er	1
 澄晶果粒饵	cheng jing guo li er	1
 温火饵	wen huo er	1
+槲梭饵	hu suo er	1
+清白饵	qing bai er	1
 
-##  禽鸟
+
+##  禽鸟 飞禽
 团雀	tuan que	1
 赤团雀	chi tuan que	1
 金团雀	jin tuan que	1
@@ -7405,9 +7611,17 @@ Nod-Krai	nuo de ka lai	1
 游炎古琵鹭	you yan gu pi lu	1
 朱羽古团雀	zhu yu gu tuan que	1
 长翎鹮	chang ling huan	1
+丹颈长翎鹮	dan jing chang ling huan	1
+
 
 ##  走兽
 野猪	ye zhu	1
+新手盗宝鼬	xin shou dao bao you	1
+大黄金盗宝鼬	da huang jin dao bao you	1
+藏金盗宝鼬	cang jin dao bao you	1
+盗宝鼬	dao bao you	1
+守宝鼬	shou bao you	1
+
 ###   璃月走兽
 玉璜古龟	yu huang gu gui	1
 
@@ -7438,6 +7652,14 @@ Nod-Krai	nuo de ka lai	1
 水色古石螺	shui se gu shi luo	1
 岩居蟹	yan ju xie	1
 碧蓝岩居蟹	bi lan yan ju xie	1
+凛角鹿	lin jiao lu	1
+帔髦獾	pei mao huan	1
+栗栗羊	li li yang	1
+暮暮羊	mu mu yang	1
+海崖鹦	hai ya ying	1
+
+
+
 # 原魔
 原魔	yuan mo	1
 
@@ -7547,7 +7769,9 @@ Nod-Krai	nuo de ka lai	1
 疗愈师	liao yu shi	1
 巡陆艇	xun lu ting	1
 尖端全能攻坚型	jian duan quan neng gong jian xing	1
+强侦	qiang zhen	1
 强侦斥候型	qiang zhen chi hou xing	1
+强侦攻坚型	qiang zhen gong jian xing	1
 
 蕴光奇羊	yun guang qi yang	1
 蕴光璇蛸	yun guang xuan xiao	1
@@ -8951,6 +9175,7 @@ VARESA	wa lei sha	1
 克里洛	ke li luo	1
 诡灯陌影	gui deng mo ying	1
 执灯士	zhi deng shi	1
+执灯人	zhi deng ren	1
 
 拨开雪翳之幕	bo kai xue yi zhi mu	1
 渡越魍魉之墙	du yue wang liang zhi qiang	1
@@ -9254,6 +9479,8 @@ VARESA	wa lei sha	1
 掘金之锹	jue jin zhi qiao	1
 乌髓孑灯	wu sui jie deng	1
 罗网勾针	luo wang gou zhen	1
+织月者的曙色	zhi yue zhe de shu se	1
+秘银的血告	mi yin de xue gao	1
 
 ## 至冬武器
 苍耀	cang yao	1
@@ -9499,6 +9726,11 @@ VARESA	wa lei sha	1
 小小阿夏包	xiao xiao a xia bao	1
 娜娜丝梨饼	na na si li bing	1
 双果卷	shuan guo juan	1
+## 挪德卡莱料理
+挪德卡莱热狗	nuo de ka lai re gou	1
+白灵果酿鸡	bai ling guo niang ji	1
+夏槲蛋糕	xia hu dan gao	1
+脆脆烤肉	cui cui kao rou	1
 
 ## 联动料理
 肉肉盛宴餐	rou rou sheng yan can	1
@@ -9956,6 +10188,8 @@ VARESA	wa lei sha	1
 因提	yin ti	1
 夏日留影角	xia ri liu ying jiao	1
 韦涅季克特	wei nie ji ke te	1
+卡伦莱	ka lun lai	1
+
 ## 挪德卡莱人物
 拉蒂米尔	la di mi er	1
 契切林	qi qie lin	1
@@ -9966,7 +10200,10 @@ VARESA	wa lei sha	1
 玫熙	mei xi	1
 
 ## 愚人众人物
+队长	dui zhang	1
 卡皮塔诺	ka pi ta nuo	1
+木偶	mu ou	1
+桑多涅	sang duo nie	1
 
 
 
@@ -9991,6 +10228,7 @@ VARESA	wa lei sha	1
 莱茵多特	lai yin duo te	1
 猎月人	lie yue ren		1
 雷利尔	lei li er		1
+渎死之罪	du si zhi zui	1
 
 ## 魔女会
 
@@ -10052,16 +10290,24 @@ VARESA	wa lei sha	1
 眬瞳	long tong	1
 寂宁	ji ning	1
 万种	wan zhong	1
+灼燃	zhuo ran	1
+锻轮	duan lun	1
+
 
 ## 活动其他信息
 奇货匣	qi huo xia	1
 奇货大礼包	qi huo da li bao	1
 恒月	heng yue	1
-红月	hong yue	1
+恒月女神	heng yue nv shen	1
+艾莉亚	ai li ya	1
+虹月	hong yue	1
 霜月	shuang yue	1
+葬火之战	zang huo zhi zhan	1
 赤月	chi yue	1
 新月	xin yue	1
 黑日	hei ri	1
+三重月	san chong yue	1
+塔科贾・雅尼奎宁	ta ke jia ya ni kui ning	1
 
 
 ## 稻妻其他信息
@@ -10176,6 +10422,8 @@ VARESA	wa lei sha	1
 ## 纳塔其他信息
 受龙所选者	shou long suo xuan zhe	1
 龙选者	long xuan zhe	1
+魂附	hun fu	1
+魂烛	hun zhu	1
 织卷	zhi juan	1
 灵谜	ling mi	1
 灵谜体	ling mi ti	1
@@ -10239,7 +10487,7 @@ VARESA	wa lei sha	1
 月矩力	yue ju li	1
 月灵	yue ling	1
 草露	cao lu	1
-聚所	ju suo	1
+
 新月神像	xin yue shen xiang	1
 库塔尔	ku ta er	1
 月之少女	yue zhi shao nv 	1
@@ -10250,17 +10498,22 @@ VARESA	wa lei sha	1
 
 月堇草	yue jin cao	1
 显像机关	xian xiang ji guan	1
-识者之证	shi zhe zhi zheng	1
 希丁芭	xi ding ba	1
 虹滴晶	hong di jing	1
 盈月之镜	ying yue zhi jing	1
+月谕	yue yu	1
+月谕之镜	yue yu zhi jing	1
 嗅嗅鼹鼠	xiu xiu yan shu	1
 月灵旅路	yue ling lv lu	1
 月矩露滴	yue ju lu di	1
 洵波草	xun bo cao	1
 汐印石	xi yin shi	1
 古石螺	gu shi luo	1
+青青苔球	qing qing tai qiu	1
 
+### 聚所相关
+聚所	ju suo	1
+到灯塔去	dao deng ta qu	1
 
 ## 至冬其他信息
 
@@ -10310,154 +10563,19 @@ VARESA	wa lei sha	1
 觐月的旅路	jin yue de lv lu	1
 月下的庭院	yue xia de ting yuan	1
 钢铸的城塞	gang zhu de cheng sai	1
+无信者的谎言	wu xin zhe de huang yan	1
+失誓的灯火	shi shi de deng huo	1
+终北的遗响	zhong bei de yi xiang	1
 
 ## 至冬画片
 
 
 
-# 尘歌壶
-尘歌壶	chen ge hu	1
-## 须弥家具
-妙彩宝瓶	miao cai bao ping	1
-素净宝瓶	su jing bao ping	1
-渔采的市易之地	yu cai de shi yi zhi di	1
-渔采的修旧利废	yu cai de xiu jiu li fei	1
-渔采的延贮之法	yu cai de yan zhu zhi fa	1
-渔采的远售良方	yu cai de yuan shou liang fang	1
-智慧之城	zhi hui zhi cheng	1
-智慧之城的泛常	zhi hui zhi cheng de fan chang	1
-智慧之城的坚刚	zhi hui zhi cheng de jian gang	1
-智慧之城的兼罗	zhi hui zhi cheng de jian luo	1
-智慧之城的讬贸	zhi hui zhi cheng de tuo mao	1
-智慧之城的瞻望	zhi hui zhi cheng de zhan wang	1
-智慧之城的榰柱	zhi hui zhi cheng de zhi zhu	1
-智慧之城的轻盾	zhi hui zhi cheng de qing dun	1
-智慧之城的青屏	zhi hui zhi cheng de qing ping	1
-茶歇的阴凉	cha xie de yin liang	1
-澄寂宫园的茶香	cheng ji gong yuan de cha xiang	1
-
-## 纳塔家具
-火山岩定向石凳	huo shan yan ding xiang shi deng	1
-诚勇伟力之绘	cheng yong wei li zhi hui	1
-
-固定火炬	gu ding huo ju	1
-卫护	wei hu	1
-
-丛茂的片段	cong mao de pian duan	1
-
-花卉盆栽	hua hui pen zai	1
-盛放的曙红	sheng fang de shu hong	1
-辉木	hui mu	1
-辉木白本置物架	hui mu bai ben zhi wu jia	1
-辉木布顶百用店	hui mu bu ding bai yong dian	1
-辉木朴质雕栊墙	hui mu pu zhi diao long qiang	1
-辉木织物箱台	hui mu zhi wu xiang tai	1
-辉木重型制陶架	hui mu zhong xing zhi tao jia	1
-辉木自紧酒桶	hui mu zi jin jiu tong	1
-
-## 纳塔摆设
-沃陆棚屋	wo lu peng wu	1
-临时之选	lin shi zhi xuan	1
-
-## 挪德卡莱家具
-隐而不宣的界线	yin er bu xuan de jie xian	1
-生锈的铁皮工作台	sheng xiu de tie pi gong zuo tai	1
-
-## 赠礼套装
-言谈之前的沉思	yan tan zhi qian de chen si	1
-竞技场的欢聚胜饮	jing ji chang de huan ju sheng yin	1
-安寝吧，于那舒适的梦乡	an qin ba yu na shu shi de meng xiang	1
-忙碌市集的潮流风物	mang lu shi ji de chao liu feng wu	1
-于最灼热的炉火中诞生	yu zui zhuo re de lu huo zhong dan sheng	1
-「流泉之众」的悠然	liu quan zhi zhong de youu ran	1
-「悬木人」的实践	xuan mu ren de shi jian	1
-「花羽会」的征途	hua yu hui de zheng tu	1
-「烟谜主」的安适	yan mi zhu de an shi	1
-「沃陆之邦」的勇进	wo lu zhi bang de yong jin	1
-伙伴与家园	huo ban yu jia yuan	1
-
-## 活动限定家具
-若荒漠化为林野	ruo huang mo hua wei lin ye	1
-映影海报	ying ying hai bao	1
-映影	ying ying	1
-咪呜呜宝座	mi wu wu bao zuo	1
-呼噜噜宝座	hu lu lu bao zuo	1
-花团锦屏	hua tuan jin ping	1
-玉簪金壁	yu zan jin bi	1
-震晓云天鼓	zhen xiao yun tian gu	1
-花灯戏台	hua deng xi tai	1
-笙歌鼎沸	sheng ge ding fei	1
-佳节香扆	jia jie xiang yi	1
-栈山航海	zhan shan hang hai	1
-金相玉质	jin xiang yu zhi	1
-清泉之心	qing quan zhi xin	1
-铳枪影业获奖留念	chong qiang ying ye huo jiang liu nian	1
-大炖肉火焰	da dun rou huo yan	1
-愿此刻永远留驻	yuan ci ke yong yuan liu zhu	1
-小家伙教导我们的事	xiao jia huo jiao dao wo men de shi	1
-特别蹦蹦嘟嘟可	te bie beng beng du du ke	1
-水妖王子	shui yao wang zi	1
-稳像机关	wen xiang ji guan	1
-哭哭球球	ku ku qiu qiu	1
-祀珑赐像	si long ci xiang	1
-温舒雅谈	wen shu ya tan	1
-巧炼瓮釜	qiao lian weng fu	1
-万策制剂	wan ce zhi ji	1
-鳄鳄炮炮	e e pao pao	1
-久等了，我的神明	jiu deng le wo de shen ming	1
-快快醒来	kuai kuai xing lai	1
-小家伙大英雄！	xiao jia huo da ying xiong	1
-吉语摩拉	ji yu mo la	1
-华庄严果	hua zhuang yan guo	1
-砰砰大魔王	peng peng da mo wang	1
-舞兽戏服	wu shou xi fu	1
-嗷嗷威猊	ao ao wei ni	1
-猊兽	ni shou	1
-舞兽玩偶	wu shou wan ou	1
-懒懒困猊	lan lan kun ni	1
-
-遗予神骸定幽冥	yi yu shen hai ding you ming	1
-金狸狸奖杯	jin li li jiang bei	1
-神之嗅觉	shen zhi xiu jue	1
-不倒狐狐	bu dao hu hu	1
-真实厨艺	zhen shi chu yi	1
-不倒狸狸	bu dao li li	1
-
-归于烈火，归于一途	gui yu lie huo gui yu yi tu	1
-
-游艺布景	you yi bu jing	1
-分身幻梦	fen shen huan meng	1
-秋津羽球	qiu jin yu qiu	1
-美梦如是	mei meng ru shi	1
-白鹭流光之簪	bai lu liu guang zhi zan	1
-瓶中瑰景	ping zhong gui jing	1
-幸运荧光	xing yun ying guang	1
-理想准度	li xiang zhun du	1
-悠悠海兽之勺	you you hai shou zhi shao	1
-精装童话	jing zhuang tong hua	1
-
-同行赠礼	tong xing zeng li	1
-
-酸甜果汁小姐	suan tian guo zhi xiao jie	1
-浪浪鲨鲨	lang lang sha sha	1
-高跳蹦床	gao tiao beng chuang	1
-劲凉的焰火	jin liang de yan huo	1
-阿夏滚筒	a xia gun tong	1
-
-## 世界任务摆设
-离别亦是下一次重逢的开始	li bie yi shi xia yi ci chong feng de kai shi	1
-创龙点睛奇象	chuang long dian jing qi xiang	1
-花型机关零件	hua xing ji guan ling jian	1
-
-## 纪行摆设
-狂欢节拍	kuang huan jie pai	1
-热舞乐台	re wu yue tai	1
-
 
 七圣召唤	qi sheng zhao huan	1
 元素八面骰	yuan su ba mian tou	1
 八面骰	ba mian tou	1
-铸境研练	zhu jing yan lian	1
+铸境研炼	zhu jing yan lian	1
 无量疾战	wu liang ji zhan	1
 
 角色牌	jue se pai	1
