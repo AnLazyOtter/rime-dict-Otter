@@ -6,11 +6,18 @@
 
 ---
 name: RIMEGenshinPot # 词库名
-version: "V6.01"	# 词库版本，2025-10-09
+version: "V6.02"	# 词库版本，2025-10-20
 sort: original # 排序依据：按照权重
 ...
 
 尘歌壶	chen ge hu	1
+# 地区家具
+## 蒙德家具
+迪奥娜的小沙发	di ao na de xiao sha fa	1
+夜航员	ye hang yuan	1
+夜航员的瞭望塔	ye hang yuan de liao wang ta	1
+芬尼克	fen ni ke	1
+
 ## 须弥家具
 妙彩宝瓶	miao cai bao ping	1
 素净宝瓶	su jing bao ping	1
@@ -29,8 +36,11 @@ sort: original # 排序依据：按照权重
 智慧之城的青屏	zhi hui zhi cheng de qing ping	1
 茶歇的阴凉	cha xie de yin liang	1
 澄寂宫园的茶香	cheng ji gong yuan de cha xiang	1
+柽木	cheng mu	1
+柽木紧凑桌案	cheng mu jin cou zhuo an	1
 
 ## 纳塔家具
+### 纳塔室外摆设
 火山岩定向石凳	huo shan yan ding xiang shi deng	1
 诚勇伟力之绘	cheng yong wei li zhi hui	1
 
@@ -41,6 +51,7 @@ sort: original # 排序依据：按照权重
 
 花卉盆栽	hua hui pen zai	1
 盛放的曙红	sheng fang de shu hong	1
+烟谜石凳	yan mi shi deng	1
 辉木	hui mu	1
 辉木白本置物架	hui mu bai ben zhi wu jia	1
 辉木布顶百用店	hui mu bu ding bai yong dian	1
@@ -49,15 +60,70 @@ sort: original # 排序依据：按照权重
 辉木重型制陶架	hui mu zhong xing zhi tao jia	1
 辉木自紧酒桶	hui mu zi jin jiu tong	1
 
-## 纳塔摆设
+连结为一	lian jie wei yi	1
+长日一灯明	chang ri yi deng ming	1
+金属标靶	jin shu biao ba	1
+射击节奏	she ji jie zou	1
+啡驰的时间	fei chi de shi jian	1
+
+### 纳塔室内摆设
 沃陆棚屋	wo lu peng wu	1
 临时之选	lin shi zhi xuan	1
 
+轰轰增益	hong hong zeng yi	1
+机关模型	ji guan mo xing	1
+齐唱的节奏	qi chang de jie zou	1
+勇力的战吼	yong li de zhan hou	1
+花歌的主推方式	hua ge de zhu tui fang shi	1
+晃晃戏水圈	huang haung xi shui quan	1
+急急救生圈	ji ji jiu sheng quan	1
+
+### 桃椰子树
+桃椰子树	tao ye zi shu	1
+桃椰子木	tao ye zi mu	1
+
+### 燃爆树
+燃爆树	ran bao shu	1
+燃爆木	ran bao mu	1
+
 ## 挪德卡莱家具
+### 挪德卡莱室外摆设
 隐而不宣的界线	yin er bu xuan de jie xian	1
 生锈的铁皮工作台	sheng xiu de tie pi gong zuo tai	1
+如磐石般固守	ru pan shi ban gu shou	1
 
-## 赠礼套装
+那夏	na xia	1
+那夏市集	na xia shi ji	1
+严密防护	yan mi fang hu	1
+暗香自引	an xiang zi yin	1
+
+那夏小摊	na xia xiao tan	1
+前路畅行	qian lu chang xing	1
+寻人不息	xun ren bu xi	1
+
+小型货箱	xiao xing huo xiang	1
+
+清辉澹归人	qing hui dan gui ren	1
+机械小人	ji xie xiao ren	1
+灵光一闪	ling guang yi shan	1
+
+### 挪德卡莱室内摆设
+咕噜一口	gu lu yi kou	1
+银冷杉木圆形矮桌	yin leng shan mu yuan xing ai zhuo	1
+
+### 夏栎树
+夏栎木	xia li mu	1
+向月	xiang yue	1
+
+### 榛树
+榛树	zhen shu	1
+榛木	zhen mu	1
+
+### 桤树
+桤树	qi shu	1
+桤木	qi mu	1
+
+# 赠礼套装
 言谈之前的沉思	yan tan zhi qian de chen si	1
 竞技场的欢聚胜饮	jing ji chang de huan ju sheng yin	1
 安寝吧，于那舒适的梦乡	an qin ba yu na shu shi de meng xiang	1
@@ -70,7 +136,7 @@ sort: original # 排序依据：按照权重
 「沃陆之邦」的勇进	wo lu zhi bang de yong jin	1
 伙伴与家园	huo ban yu jia yuan	1
 
-## 活动限定家具
+# 活动限定家具
 若荒漠化为林野	ruo huang mo hua wei lin ye	1
 映影海报	ying ying hai bao	1
 映影	ying ying	1
@@ -138,12 +204,19 @@ sort: original # 排序依据：按照权重
 劲凉的焰火	jin liang de yan huo	1
 阿夏滚筒	a xia gun tong	1
 
-## 世界任务摆设
+# 世界任务摆设
 离别亦是下一次重逢的开始	li bie yi shi xia yi ci chong feng de kai shi	1
 创龙点睛奇象	chuang long dian jing qi xiang	1
 花型机关零件	hua xing ji guan ling jian	1
 
-## 纪行摆设
+# 声望与纪闻摆设
+## 挪德卡莱纪闻摆设
+于此遥望	yu ci yao wang	1
+如絮云缠抱	ru xu yun chan bao	1
+如星在水	ru xing zai shui	1
+
+# 纪行摆设
 狂欢节拍	kuang huan jie pai	1
 热舞乐台	re wu yue tai	1
+圆圆帽大厨	yuan yuan mao da chu	1
 
