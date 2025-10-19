@@ -28,19 +28,27 @@ Hollow Investigative Association	hia	1
 H.I.A俱乐部	hia	1
 
 # 战斗术语
-
-连携技	lian xie ji	1
-失衡值	shi heng zhi	1
-喧响值	xuan xiang zhi	1
+普通攻击	pu tong gong ji	1
+冲刺攻击	chong ci gong ji	1
+闪避反击	shan bi fan ji	1
+极限闪避	ji xian shan bi	1
+极限视域	ji xian shi yu	1
+支援技	zhi yuan ji	1
 闪避支援	shan bi zhi yuan	1
 极限支援	ji xian zhi yuan	1
 快速支援	kuai su zhi yuan	1
-极限闪避	ji xian shan bi	1
-极限视域	ji xian shi yu	1
 支援突击	zhi yuan tu ji	1
+特殊技	te shu ji	1
+强化特殊技	qiang hua te shu ji	1
+连携技	lian xie ji	1
+终结技	zhong jie ji	1
+核心技	he xin ji	1
+失衡值	shi heng zhi	1
+喧响值	xuan xiang zhi	1
 魔障化	mo zhang hua	1
 闪避增强	shan bi zeng qiang	1
 玛瑟尔迷宫	ma se er mi gong	1
+深度潜能激发	shen du qian neng ji fa	1
 
 # 地名与人物
 
@@ -278,7 +286,9 @@ H.S.O.S.6	dui kong liu ke	1
 反舌鸟	fan she niao	1
 雨果	yu guo	1
 雨果·维拉德	yu guo wei la de	1
+
 薇薇安	wei wei an	1
+飞鸟坠入良夜	fei niao zhui ru liang ye	1
 
 ## 云岿山代理人
 
@@ -310,6 +320,7 @@ H.S.O.S.6	dui kong liu ke	1
 潘引壶	pan yin hu	1
 橘福福	ju fu fu	1
 
+叶瞬光	ye shun guang	1
 
 ## 怪啖屋代理人
 怪啖屋	guai dan wu	1
@@ -343,10 +354,24 @@ H.S.O.S.6	dui kong liu ke	1
 百里香之海	hai li xiang zhi hai	1
 馥草芳誓	fu cao fang shi	1
 
-卢西娅	lu xi ya	1
+狛野真斗	bo ye zhen dou	1
+眬切	long qie	1
+残焰	can yan	1
+炽心	chi xin	1
+归烬	gui jin	1
+熔锋	rong feng	1
+
+### 卢西娅
+卢西娅	lu xi ya	11
+卢西娅・艾洛温	lu xi ya	1
+绮夜游灯	qi ye you deng	1
 
 伊德海莉	yi de hai li	1
 
+## 坎卜斯黑枝代理人
+坎卜斯黑枝	kan bu si hei zhi	1
+琉音	liu yin	1
+般岳	ban yue	1
 
 # 代理人秘闻
 
@@ -355,6 +380,12 @@ H.S.O.S.6	dui kong liu ke	1
 直到您彻底遗忘	zhi dao nin che di yi wang	1
 此地长眠者	ci di chang mian zhe	1
 白银的复苏	bai yin de fu su	1
+
+# 专题放映
+花之谷的芙罗拉	hua zhi gu de fu luo la	1
+维勒妮卡	wei le ni ka	1
+海利克	hai li ke	1
+倒悬的守夜灯	dao xuan de shou ye deng	1
 
 
 # 音擎
@@ -379,6 +410,7 @@ H.S.O.S.6	dui kong liu ke	1
 啜泣摇篮	chuo qi yao lan	1
 索魂影眸	suo hun ying mou	1
 飞鸟星梦	fei niao xing meng	1
+银刺幽羽	yin ci you yu	1
 心弦夜响	xin xian ye xiang	1
 玲珑妆匣	ling long zhuang xia	1
 青溟笼舍	qing ming long she	1
@@ -394,6 +426,12 @@ H.S.O.S.6	dui kong liu ke	1
 十方锻星	shi fang duan xing	1
 霞落星殿	xia luo xing dian	1
 霜染寒星	shuang han han xing	1
+燔火眬夜	fan huo long ye	1
+笼中火	long zhong huo	1
+
+铸梦炉歌	zhu meng lu ge	1
+月引颂篇	yue yin song pian	1
+以太帷幕	yi tai wei mu	1
 
 
 ## 其他音擎
@@ -486,6 +524,23 @@ H.S.O.S.6	dui kong liu ke	1
 工程布	gong cheng bu	1
 水兵布	shui bing bu	1
 圣剑布	sheng jian bu	1
+飘零半年	piao ling ban nian	1
+
+# 养成材料
+## 技能芯片
+冰结芯片	bing jie xin pian	1
+
+## 以太凝结物
+腥风之握	xing feng zhi wo	1
+活态驱动	huo tai qu dong	1
+终幕舞鞋	zhong mu wu xie	1
+狂信之塑	kuang xin zhi su	1
+猩红引擎	xing hong yin qing	1
+塑炼遗蜕	su lian yi tui	1
+
+## 高维数据
+凶刑讣告	xiong xing fu gao	1
+游鳞雷动	you lin lei dong	1
 
 # 驱动盘
 
@@ -678,7 +733,6 @@ H.S.O.S.6	dui kong liu ke	1
 阴影中的袭击	yin ying zhong de xi ji	1
 艰难举证	jian nan ju zheng	1
 帕罗	pa luo	1
-狛野真斗	bo ye zhen dou	1
 洛尔	luo er	1
 埃里克	ai li ke	1
 
@@ -695,7 +749,7 @@ H.S.O.S.6	dui kong liu ke	1
 不要温和地走入那良夜	bu yao wen he de zou ru na liang ye	1
 
 
-## 绳网委托
+# 绳网委托
 
 只是录像店平凡的一天	zhi shi lu xiang dian ping fan de yi tian	1
 邦布之狱	bang bu zhi yu	1
@@ -820,6 +874,20 @@ H.S.O.S.6	dui kong liu ke	1
 最靓鱼档传说	zui liang yu dang chuan shuo	1
 ## 2.2版本活动
 音潮跃动	yin chao yue dong	1
+奇花异旅	qi hua yi lv	1
+「嗯呢」大寻宝	en ne da xun bao	1
+番茄布	fan qie bu	1
+西瓜布	xi gua bu	1
+萝布	luo bu	1
+西兰布	xi lan bu	1
+
+小邦布勇任防伪军	xiao bang bu yong ren fang wei jun	1
+燃烧于日暮时分	ran shao yu ri mu shi fen	1
+
+## 2.3版本活动
+昔丘探索手册	xi qiu tan suo shou ce	1
+临界推演	lin jie tui yan	1
+歧路回响	qi lu hui xiang	1
 
 # 成就
 邦布代班	bang bu dai ban	1
@@ -834,6 +902,8 @@ H.S.O.S.6	dui kong liu ke	1
 空洞	kong dong	1
 墨利诺厄	mo li nuo e	1
 曜变之核	yao biao zhi he	1
+莱姆尼安	lai mu ni an	
+昔丘	xi qiu	1
 
 式舆防卫战	shi yu fang wei zhan	1
 艾利都防线	ai li du fang xian	1
