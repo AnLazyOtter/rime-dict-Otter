@@ -5,7 +5,7 @@
 ---
 
 name: RIMEZZZ  # 词库名
-version: "20250607"  # 词库版本
+version: "20251130"  # 词库版本
 sort: by_weight # 排序依据：按照权重
 ...
 
@@ -26,6 +26,7 @@ Zenless Zone Zero	zzz	1
 空洞调查协会	kong dong diao cha xie hui	10
 Hollow Investigative Association	hia	1
 H.I.A俱乐部	hia	1
+盗洞客	dao dong ke	1
 
 # 战斗术语
 普通攻击	pu tong gong ji	1
@@ -110,7 +111,9 @@ H.I.A俱乐部	hia	1
 野火镇	ye huo zhen	1
 芝托邦	zhi tuo bang	1
 猪突猛进	zhu tu meng jin	1
-
+燃油饮	ran you yin	1
+幽浮薯片	you fu shu pian	1
+f
 獾笑镇	huan xiao zhen	1
 弃车坟场	qi che fen chang	1
 
@@ -122,8 +125,8 @@ H.I.A俱乐部	hia	1
 阿尔娜	a er na	1
 
 
-## 云岿山地名与人物
-
+## 卫非地地名与人物
+卫非地	wei fei di	1
 云岿山	yun kui shan	1
 随便观	sui bian guan	1
 阿朔	a shuo	1
@@ -136,10 +139,12 @@ H.I.A俱乐部	hia	1
 澄辉坪	cheng hui ping	1
 澄辉	cheng hui	1
 饮茶仙	yin cha xian	1
+叹茶轩	tan cha xuan	1
 好物铺	hao wu pu	1
 德丰大押	de feng da ya	1
 云岿	yun kui	1
 云岿弟子	yun kui di zi	1
+正林	zheng lin	1
 仪绛	yi jiang	1
 青冥剑	qing ming jian	1
 叶释渊	ye shi yuan	1
@@ -153,11 +158,13 @@ H.I.A俱乐部	hia	1
 释诡斋	shi gui zhai	1
 栖蝉巷	qi chan xiang	1
 平心堂	ping xin tang	1
-
+奇客寓	qi ke yu	1
+镇风地	zhen feng di	1
+泅珑围	qiu long wei	1
+乔氏药房	qiao shi yao fang	1
 泽尼希	ze ni xi	1
 航天城	hang tian cheng	1
 钟塔广场	zhong ta guang chang	1
-泅珑围	qiu long wei	1
 
 
 # 代理人
@@ -246,6 +253,7 @@ H.S.O.S.6	dui kong liu ke	1
 露西	lu xi	1
 露西亚娜	lu xi ya na	1
 露西亚娜·德·蒙特夫	lu xi ya na	1
+蒙特夫	meng te fu	1
 
 ## 维多利亚家政代理人
 维多利亚家政	wei duo li ya jia zheng	1
@@ -292,6 +300,7 @@ H.S.O.S.6	dui kong liu ke	1
 
 ## 云岿山代理人
 
+### 仪玄
 仪玄	yi xuan	1
 墨形影踪	mo xing ying zong	1
 玄墨	xuan mo	1
@@ -315,8 +324,9 @@ H.S.O.S.6	dui kong liu ke	1
 青溟	qing ming	1
 青溟云影	qing ming yun ying	1
 符法千重	fu fa qian chong	1
+清溟鸟	qing ming niao
 
-
+### 潘引壶
 潘引壶	pan yin hu	1
 橘福福	ju fu fu	1
 
@@ -324,6 +334,7 @@ H.S.O.S.6	dui kong liu ke	1
 
 ## 怪啖屋代理人
 怪啖屋	guai dan wu	1
+### 浮波柚叶
 浮波柚叶	fu bo you ye	1
 柚叶	you ye	1
 晴空化狸	qing kong hua li	1
@@ -349,12 +360,16 @@ H.S.O.S.6	dui kong liu ke	1
 残冬梦迹	can dong meng ji	1
 落地生根	luo di sheng gen	1
 
-
+宝荣	bao rong	1
+阿釜	a fu	1
+### 爱丽丝
 爱丽丝	ai li si	1
 百里香之海	hai li xiang zhi hai	1
 馥草芳誓	fu cao fang shi	1
 
+### 狛野真斗
 狛野真斗	bo ye zhen dou	1
+荒魂丸	huang hun wan	1
 眬切	long qie	1
 残焰	can yan	1
 炽心	chi xin	1
@@ -366,12 +381,23 @@ H.S.O.S.6	dui kong liu ke	1
 卢西娅・艾洛温	lu xi ya	1
 绮夜游灯	qi ye you deng	1
 
+### 伊德海莉
 伊德海莉	yi de hai li	1
+孤旅同梦	gu lv tong meng	1
 
 ## 坎卜斯黑枝代理人
 坎卜斯黑枝	kan bu si hei zhi	1
+黑枝	hei zhi	1
+
+### 琉音
 琉音	liu yin	1
+唤寂昔声	huan ji xi sheng	1
+
+### 般岳
 般岳	ban yue	1
+
+
+### 照
 
 # 代理人秘闻
 
@@ -382,10 +408,15 @@ H.S.O.S.6	dui kong liu ke	1
 白银的复苏	bai yin de fu su	1
 
 # 专题放映
+## 专题放映-席德
 花之谷的芙罗拉	hua zhi gu de fu luo la	1
 维勒妮卡	wei le ni ka	1
 海利克	hai li ke	1
+## 专题放映-卢西娅
 倒悬的守夜灯	dao xuan de shou ye deng	1
+失梦者奇谭	shi meng zhe qi tan	1
+奇兰	qi lan	1
+勇者的札记	yong zhe de zha ji	1
 
 
 # 音擎
@@ -432,6 +463,9 @@ H.S.O.S.6	dui kong liu ke	1
 铸梦炉歌	zhu meng lu ge	1
 月引颂篇	yue yin song pian	1
 以太帷幕	yi tai wei mu	1
+
+海妖摇篮	hai yao yao lan	1
+触抚心拥	chu fu xin yong	1
 
 
 ## 其他音擎
@@ -525,6 +559,7 @@ H.S.O.S.6	dui kong liu ke	1
 水兵布	shui bing bu	1
 圣剑布	sheng jian bu	1
 飘零半年	piao ling ban nian	1
+布问	bu wen	1
 
 # 养成材料
 ## 技能芯片
@@ -568,7 +603,7 @@ H.S.O.S.6	dui kong liu ke	1
 山大王	shan da wang	1
 
 # 敌人
-
+## 实战模拟室
 实战模拟室	shi zhan mo ni shi	1
 重装炮手	chong zhuang pao shou	1
 重装侵袭者	chong zhuang qin xi zhe	1
@@ -595,7 +630,8 @@ H.S.O.S.6	dui kong liu ke	1
 提尔锋	ti er feng	1
 眼魔引擎	yan mo yin qing	1
 霍巴	huo ba	1
-
+赫由托	he you tuo	1
+特里诺斯	te li nuo si	1
 
 暴徒	bao tu	1
 怒汉	nu han	1
@@ -624,6 +660,10 @@ H.S.O.S.6	dui kong liu ke	1
 戍卫猎兵	shu wei lie bing	1
 护戍盾卫	hu shu dun wei	1
 
+幻梦赞者	huan meng zan zhe	1
+秉火梦徒	bing huo meng tu	1
+
+## 专业挑战室
 专业挑战室	zhuan ye tiao zhan shi	1
 提丰挑战者型	ti feng tiao zhan zhe xing	1
 装甲哈提	zhuang jia ha ti	1
@@ -643,6 +683,7 @@ H.S.O.S.6	dui kong liu ke	1
 赫斯克龙	hui si ke long	1
 阿卡沃尔	a ka wo er	1
 班尼雷克	ban ni lei ke	1
+秽息妖鬼	hui xi yao gui	1
 
 
 # 主线剧情
@@ -721,11 +762,23 @@ H.S.O.S.6	dui kong liu ke	1
 宿命的重逢	su ming de chong feng	1
 诅咒，礼物和爱	zu zhou li wu he ai	1
 谁在深渊中凝望	shui zai shen yuan zhong ning wang	1
+
 休眠体回收计划	xiu mian ti hui shou ji hua	1
+兰登	lan deng	1
 牲鬼核心	sheng gui he xin	1
+卡米尔	ka mi er	1
+蒂娜	di na	1
 雨果的心魔	yu guo de xin mo	1
+塞蕾娜	sai lei na	1
+
 以身作局	yi shen zuo ju	1
 称颂与空洞	cheng song yu kong dong	1
+
+### 间章
+悠然插曲	you ran cha qu	1
+游方闲客	you fang xian ke	1
+散财寡欲咒	san cai gua yu zhou	1
+
 ## 第二季
 ### 第一章
 云霞同归处	yun xia tong gui chu	1
@@ -735,6 +788,8 @@ H.S.O.S.6	dui kong liu ke	1
 帕罗	pa luo	1
 洛尔	luo er	1
 埃里克	ai li ke	1
+解忧水	jie you shui	1
+
 
 阴影涌动之处	yin ying yong dong zhi chu	1
 祸患之夜	huo huan zhi ye	1
@@ -744,10 +799,57 @@ H.S.O.S.6	dui kong liu ke	1
 
 ### 第二章
 迟吟的浪涌	chi yin de lang yong	1
+安全调查	an quan diao cha	1
+伊瑟尔德	yi se er de	1
+督导调查团	du dao diao cha tuan	1
+卢克罗	lu ke luo	1
+菲洛克斯	fei luo ke si	1
+黯匣	an xia	1
+恶戏主使	e xi zhu shi	1
+泅珑寻踪	qiu long xun zong	1
+黯匣源头	an xia yuan tou	1
+艾塔娜	ai ta na	1
+丹特	dan te	1
+绵仔	mian zai	1
+秘所前尘	mi suo qian chen	1
+
+归还之绊	gui huan zhi ban	1
+缓蚀药剂	huan shi yao ji	1
+知久偏难诉	zhi jiu pian nan su	1
 
 ### 第三章
 不要温和地走入那良夜	bu yao wen he de zou ru na liang ye	1
+昨夜余烬	zuo ye yu jin	1
+洛伦兹	luo lun zi	1
+伊格门侬	yi ge men nong	1
+智能构造体	zhi neng gou zao ti	1
 
+胜者的规则	sheng zhe de gui ze	1
+士兵的信条	shi bing de xin tiao	1
+今朝孽火	jin zhao nie huo	1
+故事不曾完满	gu shi bu ceng wan man	1
+秽黯灯塔	hui an deng ta	1
+奥菲厄丝	ao fei e si	1
+「终域」之门	zhong yu zhi men	1
+终域	zhong yu	1
+
+### 第四章 可曾记得梦
+可曾记得梦	ke ceng ji de meng	1
+秽息中的宝地	hui xi zhong de bao di	1
+溺想者	ni xiang zhe	1
+
+拨开迷雾	bo kai mi wu	1
+辉盒	hui he	1
+
+沉重的自缚者们	chen zhong de zi fu zhe men	1
+提灯嬉戏	ti deng xi xi	1
+辉大侠	hui da xia	1
+以太聚束枢控台	yi tai ju shu shu kong tai	1
+
+结缘于今夜	jie yuan yu jin ye	1
+
+### 第五章 
+将临未抵的深渊	jiang lin wei di de shen yuan	1
 
 # 绳网委托
 
@@ -760,11 +862,15 @@ H.S.O.S.6	dui kong liu ke	1
 杰夫	jie fu	1
 一桩疑案两段录像三人在场	yi zhuang yi an liang duan lu xiang san ren zai chang	1
 汝之弃子，彼之坚持	ru zhi qi zi bi zhi jian chi	1
-
+## 第三章委托
 不拼怎么赢	bu pin zen me ying	1
 邦布黄金城	bang bu huang jin cheng	1
 上班补锅回忆录	shang ban bu guo hui yi lu	1
 职场补锅罗曼史	zhi chang bu guo luo man shi	1
+
+### 第三章探索委托
+无底深渊	wu di shen yuan	1
+昨日舞台	zuo ri wu tai	1
 
 诺帕尔	nuo pa er	1
 仙人掌花的邀约	xian ren zhang hua de yao yue	1
@@ -793,11 +899,13 @@ H.S.O.S.6	dui kong liu ke	1
 
 丽都纪事	li du ji shi	1
 花语未明之言	hua yu wei ming zhi yan	1
+临别泣赠	lin bie qi zeng	1
 厄匹斯	e pi si	1
 厄匹斯极钓大师赛	e pi si ji diao da shi sai	1
 极钓	ji diao	1
 贵族料理的食用方式	gui zu liao li de shi yong fang shi	1
 真意藏于水下	zhen yi cang yu shui xia	1
+人在江湖	ren zai jiang hu	1
 
 如愿璀璨之日	ru yuan cui can zhi ri	1
 知道苍白荒秽之地	zhi dao cang bai huang hui zhi di	1
@@ -832,6 +940,14 @@ H.S.O.S.6	dui kong liu ke	1
 喵吉	miao ji	1
 再建丽都	zai jian li du	1
 丽都有布	li du you bu	1
+
+
+## 野火镇版本活动
+枪响在唱针落下之时	qiang xiang zai chang zhen luo xia zhi shi	1
+砸场子的禁忌事项	za chang zi de jin ji shi xiang	1
+荒野料理	huang ye liao li	1
+
+
 
 ## 2.0版本活动
 
@@ -881,18 +997,70 @@ H.S.O.S.6	dui kong liu ke	1
 萝布	luo bu	1
 西兰布	xi lan bu	1
 
-小邦布勇任防伪军	xiao bang bu yong ren fang wei jun	1
+小邦布勇任防卫军	xiao bang bu yong ren fang wei jun	1
 燃烧于日暮时分	ran shao yu ri mu shi fen	1
 
 ## 2.3版本活动
 昔丘探索手册	xi qiu tan suo shou ce	1
 临界推演	lin jie tui yan	1
 歧路回响	qi lu hui xiang	1
+残梦未尽之时	can meng wei jin zhi shi	1
+维兰德	wei lan de	1
+墨菲	mo fei	1
+残梦将终	can meng jiang zhong	1
+
+
+随缘解忧铺	sui yuan jie you pu	1
+解忧轶事录	jie you yi shi lu	1
+
+香煎雷蛛	xiang jian lei zhu	1
+盐焗渔人蟹	yan ju yu ren xie	1
+渔人蟹	yu ren xie	1
+碳烤地精	tan kao di jing	1
+
+## 2.4版本活动
+新黄金魔神战士	xin huang jin mo shen zhan shi	1
+伊卡罗	yi ka luo	1
+超荷	chao he	1
+
+「嗯呢」棋侠传	en ne qi xia zhuan	1
+
+
 
 # 成就
 邦布代班	bang bu dai ban	1
 关于致富的尝试	guan yu zhi fu de chang shi	1
 工作难找丁尼少	gong zuo nan zhao ding ni shao	1
+
+## 法厄同纪事成就
+从零开始的绳匠生活	cong ling kai shi de sheng jiang sheng huo	1
+欢迎新员工	huan ying xin yuan gong	1
+命运于此收场	ming yun yu ci shou chang	1
+飞往明日歌	fei wang ming ri ge	1
+今宵旧梦无缺	jin xiao jiu meng wu que	1
+付我一夜酣眠	fu wo yi ye han mian	1
+归岸的航程	gui an de hang cheng	1
+与梦同行	yu meng tong xing	1
+
+## 代理人秘闻成就
+在花海簇拥的圆上	zai hua hai cu yong de yuan shang	1
+如暗影溶于夜色	ru an ying rong yu ye se	1
+## 独家视界成就
+主演遁入夜幕	zhu yan dun ru ye mu	1
+六课的大脑	liu ke de da nao	1
+乘着歌声的翅膀	cheng zhe ge sheng de chi bang	1
+
+## 际会之时成就
+际会之时	 ji hui zhi shi	1
+督过过哀恸之川	du guo ai tong zhi chuan	1
+钓鱼佬闲话集	diao yu lao xian hua ji	1
+
+## 探索成就
+勘域探境	kan yu tan jing	1
+来自时间的侵蚀	lai zi shi jian de qin shi	1
+蒙尘的图纸	meng chen de tu zhi	1
+封缄的眺望	feng jian de tiao wang	1
+无主的货箱	wu zhu de huo xiang	1
 
 # 纪念名片
 千愿流霞	qian yuan liu xia	1
@@ -900,9 +1068,15 @@ H.S.O.S.6	dui kong liu ke	1
 
 # 空洞
 空洞	kong dong	1
+克里特	ke li te	1
 墨利诺厄	mo li nuo e	1
 曜变之核	yao biao zhi he	1
-莱姆尼安	lai mu ni an	
+莱姆尼安	lai mu ni an	1
+哈瓦瑞	ha wa rui	1
+珀塞纳斯	po sai na si	1
+索洛夫	suo luo fu	1
+帕帕戈	pa pa ge	1
+
 昔丘	xi qiu	1
 
 式舆防卫战	shi yu fang wei zhan	1
@@ -923,6 +1097,10 @@ H.S.O.S.6	dui kong liu ke	1
 塑炼	su lian	1
 秽息司祭	hui xi si ji	1
 秽息	hui xi	1
+秽息瘤	hui xi liu	1
+秽息瘿	hui xi ying	1
+彷徨猎手	pang huang lie shou	1
+提灯人	ti deng ren	1
 
 
 地精	di jing	1
@@ -935,6 +1113,8 @@ H.S.O.S.6	dui kong liu ke	1
 零异事件	ling yi shi jian	1
 曼德拉	man de la	1
 尼尼微	ni ni wei	1
+骸蜂	hai feng	1
+
 
 盛怒恶霸	sheng nu e ba	1
 铁道地精	tie dao di jing	1
@@ -949,8 +1129,13 @@ H.S.O.S.6	dui kong liu ke	1
 怀斯塔	huai si ta	1
 称颂会	cheng song hui	1
 始主	shi zhu	1
-
 梅若拉可	mei ruo la ke	1
+墨提斯	mo ti si	1
+墨提斯院	mo ti si yuan	1
+
+防卫军	fang wei jun	1
+
+## TOPS财团
 梅弗劳尔	mei fu lao er	1
 朽峰矿业	xiu feng kuang ye	1
 辉晶美克	hui jing mei ke	1
@@ -963,3 +1148,9 @@ H.S.O.S.6	dui kong liu ke	1
 绝望吧台	jue wang ba ta	1
 制服・剪刀・鲨鱼尾	zhi fu jian dao sha yu wei	1
 乐园梦游计	le yuan meng you ji	1
+
+# 绝区零录像带
+最终之拳	zui zhong zhi quan	1
+次元枪神	ci yuan qiang shen	1
+铅黄都市	qian huang du shi	1
+黑纸童话	hei zhi tong hua	1
