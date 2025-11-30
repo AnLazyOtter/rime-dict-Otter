@@ -6,7 +6,7 @@
 
 ---
 name: RIMEGenshinPot # 词库名
-version: "V6.02"	# 词库版本，2025-10-20
+version: "V6.3.1"	# 词库版本，2025-11-30
 sort: original # 排序依据：按照权重
 ...
 
@@ -38,6 +38,11 @@ sort: original # 排序依据：按照权重
 澄寂宫园的茶香	cheng ji gong yuan de cha xiang	1
 柽木	cheng mu	1
 柽木紧凑桌案	cheng mu jin cou zhuo an	1
+
+## 枫丹家具
+禁限之堡	jin xian zhi bao	1
+禁限之堡的钻研	jin xian zhi bao de zuan yan	1
+正义之廷的罗衣	zheng yi zhi ting de luo yi	1
 
 ## 纳塔家具
 ### 纳塔室外摆设
@@ -77,6 +82,7 @@ sort: original # 排序依据：按照权重
 花歌的主推方式	hua ge de zhu tui fang shi	1
 晃晃戏水圈	huang haung xi shui quan	1
 急急救生圈	ji ji jiu sheng quan	1
+杠铃架	gang ling jia	1
 
 ### 桃椰子树
 桃椰子树	tao ye zi shu	1
@@ -96,10 +102,12 @@ sort: original # 排序依据：按照权重
 那夏市集	na xia shi ji	1
 严密防护	yan mi fang hu	1
 暗香自引	an xiang zi yin	1
+好物留人	hao wu liu ren	1
 
 那夏小摊	na xia xiao tan	1
 前路畅行	qian lu chang xing	1
 寻人不息	xun ren bu xi	1
+冰淇淋甜心	bing qi lin tian xin	1
 
 小型货箱	xiao xing huo xiang	1
 
@@ -107,9 +115,18 @@ sort: original # 排序依据：按照权重
 机械小人	ji xie xiao ren	1
 灵光一闪	ling guang yi shan	1
 
+裁霞缀叶间	cai xia zhui ye jian	1
+
+工坊小屋	gong fang xiao wu	1
+陆上行船	lu shang xing chuan	1
+霜影月华	shuang ying yue hua	1
+鹿踏沉沉	lu ta chen chen	1
+
 ### 挪德卡莱室内摆设
 咕噜一口	gu lu yi kou	1
 银冷杉木圆形矮桌	yin leng shan mu yuan xing ai zhuo	1
+彩绘夏栎木桶	cai hui xia li mu tong	1
+依偎的融融暖意	yi wei de rong rong nuan yi	1
 
 ### 夏栎树
 夏栎木	xia li mu	1
@@ -122,6 +139,9 @@ sort: original # 排序依据：按照权重
 ### 桤树
 桤树	qi shu	1
 桤木	qi mu	1
+
+## 其他家具
+丘丘带刺木盾	qiu qiu dai ci mu dun	1
 
 # 赠礼套装
 言谈之前的沉思	yan tan zhi qian de chen si	1
@@ -137,6 +157,10 @@ sort: original # 排序依据：按照权重
 伙伴与家园	huo ban yu jia yuan	1
 
 # 活动限定家具
+聚会立牌	ju hui li pai	1
+纤姿曼舞	xian zi man wu	1
+
+紧张走开	jin zhang zou kai	1
 若荒漠化为林野	ruo huang mo hua wei lin ye	1
 映影海报	ying ying hai bao	1
 映影	ying ying	1
