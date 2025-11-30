@@ -6,21 +6,38 @@
 
 ---
 name: RIMEMillastraArcanum # 词库名
-version: "V1.0"	# 词库版本，2025-10-09
+version: "V6.3"	# 词库版本，2025-11-30，月之三前瞻
 sort: original # 排序依据：按照权重
 ...
 
 # 基本信息
 千星奇域	qian xing qi yu	111
 Millastra Arcanum	qian xing qi yu	1
+缤纷评分	bin fen ping fen	1
+绮衣收藏家	qi yi shou cang jia	1
+奇域	qi yu	1
+奇域人偶	qi yu ren ou	1
+奇偶	qi ou	1
+奇域大厅	qi yu da ting	1
+人气奇域	ren qi qi yu	1
+
+# 纪游
 纪游	ji you	1
 天空纪游	tian kong ji you	1
 诸界纪游	zhu jie ji you	1
 诸界史诗	zhu jie shi shi	1
+纪游再编	ji you zai bian	1
+复醒	fu xing	1
+雪阵	xue zhen	1
+
+# 千星奇域活动
+奇域盛邀	qi yu sheng yao	1
+巧趣醒转	qiao qu xing zhuan	1
 
 
-# 颂愿	
+# 颂愿|奇域秘藏	
 颂愿	song yuan	1
+奇域秘藏	qi yu mi cang	1
 常驻颂愿	chang zhu song yuan	1
 奇遇回声	qi yu hui sheng	1
 活动颂愿	huo dong song yuan	1
@@ -31,15 +48,90 @@ Millastra Arcanum	qian xing qi yu	1
 刻印片形	ke yin pian xing	1
 强耀片形	qiang yao pian xing	1
 升炼	sheng lian	1
+宜享星章	yi xiang xing zhang	1
 
-奇域	qi yu	1
-奇域人偶	qi yu ren ou	1
-奇域大厅	qi yu da ting	1
-人气奇域	ren qi qi yu	1
+## 月之三版本上架装扮
+雪阵霜庭	xue zhen shuang ting	1
+霜庭雪翎	shuang ting xue ling	1
+锐速皑影	rui su kai ying	1
+明曜旋律	ming yao xuan lv	1
+坚岩勇气	jian yan yong qi	1
+绵绵雪球	mian mian xue qiu	1
+疗愈心意	liao yu xin yi	1
+荒远山裔	huang yuan shan yi	1
+暖冬欢歌	nuan dong huan ge	1
+橙叶苍藤	cheng ye cang teng	1
+
+
+## 6.1版本颂愿
+幻夜游烛	huan ye you zhu	1
+烛影狂欢夜	zhu ying kuang huan ye	1
+
+### 卓越装扮四星
+幻音废墟	huan yin fei xu	1
+狂热斗士	kuang re dou shi	1
+幽秘森域	you mi sen yu	1
+蔷薇叹息	qiang wei tan xi	1
+欧科塔维亚	ou ke ta wei ya	1
+诡夜	gui ye	1
+晴空绘卷		qing kong hui juan	1
+花间绯影	hua jian fei ying	1
+仙境舞会	xian jing wu hui	1
+极彩巧匠	ji cai qiao jiang	1
+蒸气时代	zheng qi shi dai	1
+橙炽热情	cheng chi re qing	1
+怪杰猫猫	guai jie mao mao	1
+### 优异装扮三星
+巡游	xun you	1
+晴雨噗噗	qing yu pu pu	1
+绒绒狸猫	rong rong li mao	1
+金果	jin guo	1
+街头律动	jie tou lv dong	1
+
+
+## 形录
+装扮形录	zhuang ban xing lu	1
+形录	xing lu	1
+异想街区	yi xiang jie qu	1
+星辰信标	xing chen xin biao	1
+启明星炬	qi ming xing ju	1
+试行斗篷	shi xing dou peng	1
+
+
 
 # 主题大厅
 主题大厅	zhu ti da ting	1
+烛影夜游	zhu ying ye you	1
+幽静聚会	you jing ju hui	1
+晴空乐园	qing kong le yuan	1
+明净乐游	ming jing le you	1
 
-# 套装
-蔷薇叹息	qiang wei tan xi	1
-欧科塔维亚	ou ke ta wei ya	1
+# 奇偶装扮部件
+财富小背囊	cai fu xiao bei nang	1
+
+# 千星沙箱
+千星沙箱	qian xing sha xiang	1
+奇匠	qi jiang	1
+奇匠论坛	qi jiang lun tan	1
+## 编辑器
+物件元件	wu jian yuan jian	1
+详情面板	xiang qing mian ban	1
+元件库	yuan jian ku	1
+战斗预设	zhan dou yu she	1
+资产栏	zi chan lan	1
+
+## 节点图
+节点图	jie dian tu	1
+拼装列表	pin zhuang lie biao	1
+进入者	jin ru zhe	11
+施加者	shi jia zhe	11
+有限循环	you xian xun huan	1
+实体创建时	shi ti chuang jian shi	1
+实体销毁时	shi ti xiao hui shi	1
+碰撞触发器	peng zhuang chu fa qi	1
+
+伤害跳字类型	shang hai tiao zi lei xing	1
+单位状态	dan wei zhuang tai	1
+单位挂接点	dan wei gua jie dian	1
+受击盒	shou ji he	1
+界面控件	jie mian kong jian	1
