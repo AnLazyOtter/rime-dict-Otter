@@ -20,7 +20,7 @@
 
 ---
 name: RIMEGenshin # 词库名
-version: "V6.0.2"	# 词库版本，2025-10-20
+version: "V6.3.1"	# 词库版本，2025-11-30
 sort: original # 排序依据：按照权重
 ...
 原神	yuan shen	1
@@ -6348,6 +6348,7 @@ Millastra Arcanum	qian xing qi yu	1
 坎塔鲁	kan ta lu	1
 你所不在的时空	ni suo bu zai de shi kong	1
 ### 挪德卡莱魔神任务
+#### 空月之歌 序奏
 空月之歌	kong yue zhi ge	1
 序奏	xu zou	1
 归途	gui tu	1
@@ -6370,7 +6371,7 @@ Millastra Arcanum	qian xing qi yu	1
 逆焰	ni yan	1
 
 呈示	cheng shi	1
-#### 空月之歌 第二幕
+#### 月之一 呈示 第一幕
 月之一	yue zhi yi	1
 雪浪与苍林之舞	xue lang yu cang lin zhi wu	1
 奥伊瓦	ao yi wa	1
@@ -6385,6 +6386,7 @@ Millastra Arcanum	qian xing qi yu	1
 于月光下重逢	yu yue guang xia chong feng	1
 在夜的阴影中	zai ye de yin ying zhong	1
 
+#### 月之一 呈示 第二幕
 尘与灯的挽歌	chen yu deng de wan ge	1
 轰鸣与暗涌	hong ming yu an yong	1
 索西	suo xi	1
@@ -6398,9 +6400,33 @@ Millastra Arcanum	qian xing qi yu	1
 灰白的秩序熊熊燃烧	hui bai de zhi xu xiong xiong ran shao	1
 遥不可及的安息	yao bu ke ji de an xi	1
 
-#### 空月之歌 第二幕
+#### 月之二 复演 第三幕
 月之二 	yue zhi er	1
+复演	fu yan	1
+不存在的国土	bu cun zai de guo tu	1
+特别行动	te bie xing dong	1
+如月长存	ru yue chang cun	1
+博西柯	bo xi ke	1
+黑王	hei wang	1
+伊尔明	yi er ming	1
+
+
+#### 月之二 复演 第四幕
 回望湮灭的月光	hui wang yan mie de yue guang	1
+皆为预言	jie wei yu yan	1
+叶洛亚	ye luo ya	1
+芙蕾尔	fu lei er	1
+拟定事态	ni ding shi tai	1
+
+蛇与蝎的亡命舞	she yu xie de wang ming wu	1
+雷特努	lei te nu	1
+辛努海	xin nu hai	1
+阿波比	a bo bi	1
+梅涅托	mei nie tuo	1
+
+#### 月之三 
+月之三	yue zhi san	1
+
 ## 世界任务
 世界任务	shi jie ren wu	1
 ### 蒙德世界任务
@@ -9198,7 +9224,32 @@ VARESA	wa lei sha	1
 掌灯暗行	zhang deng an xing	1
 
 雅珂达	ya ke da	1
+### 奈芙尔
 奈芙尔	nai fu er	1
+湮沙的秘闻	yan sha de mi wen	1
+游棋	you qi	1
+游棋座	you qi zuo 	1
+
+谋篇乃成败之始	mou pian nai cheng bai zhi shi	1
+明察为筹算之先	ming cha wei chou suan zhi xian	1
+诳言掩虚实之迹	kuang yan yan xu shi zhi ji	1
+眩惑入迷局之网	xuan huo ru mi ju zhi wang	1
+见机在忽微之间	jian ji zai hu wei zhi jian	1
+决胜于逆转之时	jue sheng yu ni zhuan zhi shi	1
+游虵吐信	you she tu xin	1
+影舞	ying wu	1
+弈术	yi shu	1
+千夜一舞	qian ye yi wu	1
+幻戏	huan xi	1
+诳言之核	kuang yan zhi he	1
+圣约	sheng yue	1
+真眸幻戏	zhen mou huan xi	1
+解明	jie ming	1
+伪秘之帷	wei mi zhi wei	1
+月下的豪赌	yue xia de ha odu	1
+尘沙的女儿	chen sha de nv er	1
+廊下暮影	lang xia mu ying	1
+金室的密谋	jin shi de mi mou	1
 
 
 ## 至冬角色
@@ -10215,9 +10266,11 @@ VARESA	wa lei sha	1
 亚尔伯里奇	ya er bo li qi	1
 命运的织机	ming yun de zhi ji	1
 
+
 末光之剑	mo guang zhi jian	1
 戴因斯雷布	dai yin si lei bu	1
 戴因	dai yin	1
+五大罪人	wu da zui ren	1
 预言家	yu yan jia	1
 维瑟弗尼尔	wei se fu ni er	1
 贤者	xian zhe	1
@@ -10229,6 +10282,7 @@ VARESA	wa lei sha	1
 猎月人	lie yue ren		1
 雷利尔	lei li er		1
 渎死之罪	du si zhi zui	1
+
 
 ## 魔女会
 
@@ -10521,7 +10575,8 @@ VARESA	wa lei sha	1
 ## 坎瑞亚其他信息
 命运的织机	ming yun de zhi ji	1
 耕地机	geng di ji	1
-
+深秘院	shen mi yuan	1
+索琳蒂丝	suo lin di si	1
 # 画片
 ## 蒙德画片
 
@@ -10558,6 +10613,7 @@ VARESA	wa lei sha	1
 洋流拂过的夏湾	yang liu fu guo de xia wan	1
 狂舞之乐夜	kuang wu zhi yue ye	1
 
+
 ## 挪德卡莱画片
 边境小镇	bian jing xiao zhen	1
 觐月的旅路	jin yue de lv lu	1
@@ -10566,6 +10622,8 @@ VARESA	wa lei sha	1
 无信者的谎言	wu xin zhe de huang yan	1
 失誓的灯火	shi shi de deng huo	1
 终北的遗响	zhong bei de yi xiang	1
+铁鲸之梦	tie jing zhi meng	1
+秘密的研究	mi mi de yan jiu	1
 
 ## 至冬画片
 
@@ -10604,4 +10662,5 @@ VARESA	wa lei sha	1
 ## 牌面
 冷血之剑	leng xue zhi jian	1
 噬星魔鸦	shi xing mo ya	1
+
 
