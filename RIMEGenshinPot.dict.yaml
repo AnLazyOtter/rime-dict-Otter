@@ -6,7 +6,7 @@
 
 ---
 name: RIMEGenshinPot # 词库名
-version: "V6.3.1"	# 词库版本，2025-11-30
+version: "V6.4.1"	# 词库版本，2026-02-06
 sort: original # 排序依据：按照权重
 ...
 
