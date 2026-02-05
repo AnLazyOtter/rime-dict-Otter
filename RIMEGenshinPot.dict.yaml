@@ -17,6 +17,8 @@ sort: original # 排序依据：按照权重
 夜航员	ye hang yuan	1
 夜航员的瞭望塔	ye hang yuan de liao wang ta	1
 芬尼克	fen ni ke	1
+局间餐点	ju jian can dian	1
+酒馆餐架	jiu guan can jia	1
 
 ## 须弥家具
 妙彩宝瓶	miao cai bao ping	1
@@ -38,11 +40,13 @@ sort: original # 排序依据：按照权重
 澄寂宫园的茶香	cheng ji gong yuan de cha xiang	1
 柽木	cheng mu	1
 柽木紧凑桌案	cheng mu jin cou zhuo an	1
+青绿图腾	qing lv tu teng	1
 
 ## 枫丹家具
 禁限之堡	jin xian zhi bao	1
 禁限之堡的钻研	jin xian zhi bao de zuan yan	1
 正义之廷的罗衣	zheng yi zhi ting de luo yi	1
+回廊的馨香牵萦	hui lang de xin xiang qian ying	1
 
 ## 纳塔家具
 ### 纳塔室外摆设
@@ -83,6 +87,7 @@ sort: original # 排序依据：按照权重
 晃晃戏水圈	huang haung xi shui quan	1
 急急救生圈	ji ji jiu sheng quan	1
 杠铃架	gang ling jia	1
+柔柔夜星	rou rou ye xing	1
 
 ### 桃椰子树
 桃椰子树	tao ye zi shu	1
@@ -97,6 +102,7 @@ sort: original # 排序依据：按照权重
 隐而不宣的界线	yin er bu xuan de jie xian	1
 生锈的铁皮工作台	sheng xiu de tie pi gong zuo tai	1
 如磐石般固守	ru pan shi ban gu shou	1
+失芬芳之花	shi fen fang zhi hua	1
 
 那夏	na xia	1
 那夏市集	na xia shi ji	1
@@ -110,6 +116,11 @@ sort: original # 排序依据：按照权重
 冰淇淋甜心	bing qi lin tian xin	1
 
 小型货箱	xiao xing huo xiang	1
+中型货舱	zhong xing huo cang	1
+高效运输	gao xiao yun shu	1
+
+未明灯塔	wei ming deng ta	1
+永燃的希望	yong ran de xi wang	1
 
 清辉澹归人	qing hui dan gui ren	1
 机械小人	ji xie xiao ren	1
@@ -121,6 +132,10 @@ sort: original # 排序依据：按照权重
 陆上行船	lu shang xing chuan	1
 霜影月华	shuang ying yue hua	1
 鹿踏沉沉	lu ta chen chen	1
+双耳吊炉	shuang er diao lu	1
+小小遮盖	xiao xiao zhe gai	1
+
+超大型动力协运枢纽	chao da xing dong li xie yun shu niu	1
 
 ### 挪德卡莱室内摆设
 咕噜一口	gu lu yi kou	1
@@ -227,6 +242,9 @@ sort: original # 排序依据：按照权重
 高跳蹦床	gao tiao beng chuang	1
 劲凉的焰火	jin liang de yan huo	1
 阿夏滚筒	a xia gun tong	1
+小小雀雀	xiao xiao que que	1
+美食大盗	mei shi da dao	1
+幕后黑鼬	mu hou hei you	1
 
 # 世界任务摆设
 离别亦是下一次重逢的开始	li bie yi shi xia yi ci chong feng de kai shi	1
@@ -238,9 +256,14 @@ sort: original # 排序依据：按照权重
 于此遥望	yu ci yao wang	1
 如絮云缠抱	ru xu yun chan bao	1
 如星在水	ru xing zai shui	1
+月下静读	yue xia jing du	1
+月谕之像	yue yu zhi xiang	1
+遗辉絮语	yi hui xu yu	1
 
 # 纪行摆设
 狂欢节拍	kuang huan jie pai	1
 热舞乐台	re wu yue tai	1
 圆圆帽大厨	yuan yuan mao da chu	1
+魔龙出击	mo long chu ji	1
+执剑长行	zhi jian chang xing	1
 
