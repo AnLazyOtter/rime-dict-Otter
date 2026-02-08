@@ -9,7 +9,7 @@ version: "20260206"  # 词库版本
 sort: by_weight # 排序依据：按照权重
 ...
 
-#通用
+# 通用
 
 绝区零	jue qu ling	1
 绝区零	zzz	1
@@ -27,6 +27,9 @@ Zenless Zone Zero	zzz	1
 Hollow Investigative Association	hia	1
 H.I.A俱乐部	hia	1
 盗洞客	dao dong ke	1
+
+街瑞金萝	jie rui jin luo	1
+
 
 # 战斗术语
 普通攻击	pu tong gong ji	1
@@ -86,6 +89,7 @@ H.I.A俱乐部	hia	1
 
 光映广场	guang ying guang chang	1
 治安局	zhi an jue	1
+莉捷	li jie	1
 引力电影院	yin li dian ying yuan	1
 新月潮流	xin yue caho liu	1
 
@@ -186,13 +190,18 @@ f
 ## 玲的时装
 曦色玲珑	xi se ling long	1
 夏日晴空	xia ri qing kong	1
+午德马马呀	wu de ma ma ya	1
 
 ## 哲的时装
 鹤唳青霄	he li qing xiao	1
 浪影闲庭	lang ying xian ting	1
+午德马呀	wu de ma ya	1
 
 代理人	dai li ren	1
 合作者档案	he zuo zhe dang an	1
+潜能预演	qian neng yu yan	1
+落羽映霜	luo yu ying shuang	1
+
 希人	xi ren	1
 熊希人	xiong xi ren	1
 鼠希人	shu xi ren	1
@@ -210,6 +219,8 @@ f
 
 猫宫又奈	mao gong you nai	1
 猫又	mao you	1
+
+### 比利
 比利	bi li	1
 闪亮登场	shan liang deng chang	1
 游斗射术	you dou she shu	1
@@ -217,7 +228,11 @@ f
 英雄时刻	ying xiong shi ke	1
 星徽骑士的教导	xing hui qi shi de jiao dao	1
 惩戒弹药	cheng jie dan yao	1
-
+闪转步伐	shan zhuan bu fa	1
+星徽荣耀幻影	xing hui rong yao huan ying	1
+星徽在此闪耀	xing hui zai ci shan yao	1
+稳定据枪	wen ding ju qiang	1
+骑士战队	qi shi zhan dui	1
 
 ## 白祇重工代理人
 白祇重工	bai qi zhong gong	1
@@ -277,11 +292,24 @@ H.S.O.S.6	dui kong liu ke	1
 
 ## 维多利亚家政代理人
 维多利亚家政	wei duo li ya jia zheng	1
+
+### 莱卡恩
+
 冯莱卡恩	feng lai ka en	1
 莱卡恩	lai ka en	1
 狼叔	lang shu	1
+### 可琳
 可琳	ke lin	1
 可琳威克斯	ke lin wei ke si	1
+开放性创伤	kai fang xing chuang shang	1
+裂解效应	lie jie xiao ying	1
+初级女仆	chu ji nv pu	1
+战场随侍	zhan chang sui shi	1
+特勤女仆	te qin nv pu	1
+
+扫除帮手	sao chu bang shou	1
+
+### 艾莲
 艾莲	ai lian	1
 慵懒逐浪	yong lan zhu lang	1
 艾莲乔	ai lian qiao	1
@@ -353,6 +381,7 @@ H.S.O.S.6	dui kong liu ke	1
 
 ### 潘引壶
 潘引壶	pan yin hu	1
+馔玉烹金	zhuan yu peng jin	1
 
 ### 橘福福
 橘福福	ju fu fu	1
@@ -487,10 +516,37 @@ H.S.O.S.6	dui kong liu ke	1
 ### 爱芮
 爱芮	ai rui	1
 白色网格	bai se wang ge	1
-
+不协和音	bu xie he yin	1
 
 ### 千夏
 千夏	qian xia	1
+午后茶歇	wu hou cha xie	1
+
+孤独侵蚀症	gu du qin shi zheng	1
+猫的随波逐流	mao de sui bo zhu liu	1
+变身苹果	bian shen ping guo	1
+妄想调查队	wang xiang diao cha dui	1
+银河电车	yin he dian che	1
+空洞大爆炸	kong dong da bao zha	1
+潜心创作中	qian xin chuang zuo zhong	1
+
+可爱即正义	ke ai ji zheng yi	1
+魔爪器	mo zhua qi	1
+猫的凝视	mao de ning shi	1
+鬼马流星锤	gui ma liu xing chui	1
+坏猫出没	huai mao chu mo	1
+冲天锤	chong tian chui	1
+妄想三振	wang xiang san zhen	1
+狂音连打	kuang yin lian da	1
+上台恐惧症	shang tai kong ju zheng	1
+弹跳练习	tan tiao lian xi	1
+星星发射	xing xing fa she	1
+泡泡糖轰炸	pao pao tang hong zha	1
+天使协律	tian shi xie lv	1
+妄想重奏	wang xiang chong zou	1
+别惹猫咪	bie re mao mi	1
+通通砸碎	tong tong za sui	1
+
 
 ### 小羽
 南宫羽	nan gong yu	1
@@ -558,6 +614,9 @@ H.S.O.S.6	dui kong liu ke	1
 霜染寒星	shuang han han xing	1
 燔火眬夜	fan huo long ye	1
 笼中火	long zhong huo	1
+思络成歌	si luo cheng ge	1
+喧响独白	xuan xiang du bai	1
+
 
 铸梦炉歌	zhu meng lu ge	1
 月引颂篇	yue yin song pian	1
@@ -805,6 +864,12 @@ H.S.O.S.6	dui kong liu ke	1
 幻梦赞者	huan meng zan zhe	1
 秉火梦徒	bing huo meng tu	1
 
+终曲之愿	zhong qu zhi yuan	1
+幻矢单元	huan shi dan yuan	1
+
+叛律孤歌	pan lv gu ge	1
+薇斯珀	wei si po	1
+
 
 ## 专业挑战室
 专业挑战室	zhuan ye tiao zhan shi	1
@@ -832,17 +897,30 @@ H.S.O.S.6	dui kong liu ke	1
 阿卡沃尔	a ka wo er	1
 班尼雷克	ban ni lei ke	1
 秽息妖鬼	hui xi yao gui	1
-临界推演	lin jie tui yan	1
+卫律使者	wei lv shi zhe	1
 
+
+## 临界推演
+临界推演	lin jie tui yan	1
+歧路回响	qi lu hui xiang	1
+千面终局	qian mian zhong ju	1
+
+## 式舆防卫战
 式舆防卫战	shi yu fang wei zhan	1
 艾利都防线	ai li du fang xian	1
+
+## 零号空洞
 零号空洞	ling hao kong dong	1
 迷失之地	mi shi zhi di	1
 厄影弥途	e ying mi tu	1
+矩阵行动	ju zhen xing dong	1
+深度清扫	shen du qing sao	1
+
 偶遇事件	ou yu shi jian	1
 代价之间	dai jia zhi jian	1
 挚交会谈	zhi jiao hui tan	1
 战术方案	zhan shu fang an	1
+战术棱镜方案	zhan shu leng jing fang an	1
 
 
 ## 危局强袭战
@@ -1053,6 +1131,8 @@ H.S.O.S.6	dui kong liu ke	1
 挽昼	wan zhou	1
 以身为刃	yi shen wei ren	1
 
+### 第七章 旧梦的安可曲
+旧梦的安可曲	jiu meng de an ke qu	1
 
 # 绳网委托
 邦布掠影	bang bu lve ying	1
@@ -1244,6 +1324,23 @@ H.S.O.S.6	dui kong liu ke	1
 潜能暗流交锋	qian neng an liu jiao feng	1
 天使与缪斯妄想	tian shi yu miu si wang xiang	1
 
+## 2.6版本活动
+天使邀请函	tian shi yao qing han	1
+引力映叙时光	yin li ying xu shi guang	1
+虚境大作战	xu jing da zuo zhan	1
+满分集卡专家	man fen ji ka zhuan jia	1
+
+## 拓金日2026
+拓金日	tuo jin ri	1
+妄想协鸣于此刻	wang xiang xie ming yu ci ke	1
+璀梦妄想之旅	cui meng wang xiang zhi lv	1
+启愿星	qi yuan xing	1
+闪耀乐章	shan yao yue zhang	1
+独奏音符	du zou yin fu	1
+竞演对决	jing yan dui jue	1
+玛瑟尔	ma se er	1
+玛瑟尔大冒险	ma se er da mao xian	1
+
 # 成就
 邦布代班	bang bu dai ban	1
 关于致富的尝试	guan yu zhi fu de chang shi	1
@@ -1270,6 +1367,8 @@ H.S.O.S.6	dui kong liu ke	1
 ## 代理人秘闻成就
 在花海簇拥的圆上	zai hua hai cu yong de yuan shang	1
 如暗影溶于夜色	ru an ying rong yu ye se	1
+朋友不曾孤单过	peng you bu ceng gu dan guo	1
+
 ## 独家视界成就
 主演遁入夜幕	zhu yan dun ru ye mu	1
 六课的大脑	liu ke de da nao	1
@@ -1286,6 +1385,8 @@ H.S.O.S.6	dui kong liu ke	1
 墨中真意	mo zhong zhen yi	1
 剑主的全力	jian zhu de quan li	1
 不再晦暗的续篇	bu zai hui an de xu pian	1
+怪盗的职业素养	guai dao de zhi ye su yang	1
+人类进化的第一步	ren lei jin hua de di yi bu	1
 
 ## 探索成就
 勘域探境	kan yu tan jing	1
@@ -1358,6 +1459,9 @@ H.S.O.S.6	dui kong liu ke	1
 绝望吧台	jue wang ba ta	1
 制服・剪刀・鲨鱼尾	zhi fu jian dao sha yu wei	1
 乐园梦游计	le yuan meng you ji	1
+无尽的施工日	wu jin de shi gong ri	1
+烈拳困斗	lie quan kun dou	1
+我敌	wo di	1
 
 # 绝区零录像带
 最终之拳	zui zhong zhi quan	1
