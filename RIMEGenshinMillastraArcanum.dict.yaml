@@ -1,0 +1,173 @@
+# Rime dictionary
+# encoding: utf-8
+# 原神词库 由 水塔很懒 编辑更新
+# 本词库应在 {用户文件夹}\{输入方案名称}.dict.yaml 中引入。
+# 重新部署后生效
+
+---
+name: RIMEMillastraArcanum # 词库名
+version: "V6.4.2"	# 词库版本，2026-02-14
+sort: original # 排序依据：按照权重
+...
+
+# 基本信息
+千星奇域	qian xing qi yu	111
+Millastra Arcanum	qian xing qi yu	1
+缤纷评分	bin fen ping fen	1
+绮衣收藏家	qi yi shou cang jia	1
+奇域	qi yu	1
+奇域人偶	qi yu ren ou	1
+奇偶	qi ou	1
+奇域大厅	qi yu da ting	1
+人气奇域	ren qi qi yu	1
+华丽演绎礼盒	hua li yan yi li he	1
+
+# 纪游
+纪游	ji you	1
+天空纪游	tian kong ji you	1
+诸界纪游	zhu jie ji you	1
+诸界史诗	zhu jie shi shi	1
+纪游再编	ji you zai bian	1
+复醒	fu xing	1
+雪阵	xue zhen	1
+
+# 千星奇域活动
+奇域盛邀	qi yu sheng yao	1
+巧趣醒转	qiao qu xing zhuan	1
+游赏耀星	you shang yao xing	1
+
+# 颂愿|奇域秘藏	
+颂愿	song yuan	1
+奇域秘藏	qi yu mi cang	1
+常驻颂愿	chang zhu song yuan	1
+奇遇回声	qi yu hui sheng	1
+活动颂愿	huo dong song yuan	1
+世象凝核	shi xiang ning he	1
+重现晶簇	chong xian jing cu	1
+绮刻之楔	qi ke zhi xie	1
+明丽珍材	ming li zhen cai	1
+刻印片形	ke yin pian xing	1
+强耀片形	qiang yao pian xing	1
+升炼	sheng lian	1
+宜享星章	yi xiang xing zhang	1
+
+## 6.X版本装扮
+### 传说装扮五星
+雪阵霜庭	xue zhen shuang ting	1
+霜庭雪翎	shuang ting xue ling	1
+锐速皑影	rui su kai ying	1
+明曜旋律	ming yao xuan lv	1
+坚岩勇气	jian yan yong qi	1
+绵绵雪球	mian mian xue qiu	1
+疗愈心意	liao yu xin yi	1
+荒远山裔	huang yuan shan yi	1
+暖冬欢歌	nuan dong huan ge	1
+橙叶苍藤	cheng ye cang teng	1
+夜幕桃子	ye mu tao zi	1/
+幻夜游烛	huan ye you zhu	1
+烛影狂欢夜	zhu ying kuang huan ye	1
+晨曦朝露	chen xi zhao lu	1
+典雅风姿	dian ya feng zi	1
+云涯荣辉	yun ya rong hui	1
+
+### 卓越装扮四星
+幻音废墟	huan yin fei xu	1
+狂热斗士	kuang re dou shi	1
+幽秘森域	you mi sen yu	1
+蔷薇叹息	qiang wei tan xi	1
+欧科塔维亚	ou ke ta wei ya	1
+诡夜	gui ye	1
+晴空绘卷		qing kong hui juan	1
+花间绯影	hua jian fei ying	1
+仙境舞会	xian jing wu hui	1
+极彩巧匠	ji cai qiao jiang	1
+蒸气时代	zheng qi shi dai	1
+橙炽热情	cheng chi re qing	1
+怪杰猫猫	guai jie mao mao	1
+赤丹流云	chi dan liu yun	1
+翩旋舞步	pian xuan wu bu	1
+遨游远志	ao you yuan zhi	1
+迅灵鸮使	xun ling xiao shi	1
+
+### 优异装扮三星
+巡游	xun you	1
+晴雨噗噗	qing yu pu pu	1
+绒绒狸猫	rong rong li mao	1
+金果	jin guo	1
+街头律动	jie tou lv dong	1
+空悠	kong you	1
+甜紫瓜瓜	tian zi gua gua	1
+自由银星	zi you yin xing	1
+豪运奔腾	hao yun ben teng	1
+妙运奔腾	miao yun ben teng	1
+
+
+## 形录
+装扮形录	zhuang ban xing lu	1
+形录	xing lu	1
+异想街区	yi xiang jie qu	1
+星辰信标	xing chen xin biao	1
+启明星炬	qi ming xing ju	1
+试行斗篷	shi xing dou peng	1
+
+
+
+# 主题大厅
+主题大厅	zhu ti da ting	1
+烛影夜游	zhu ying ye you	1
+幽静聚会	you jing ju hui	1
+晴空乐园	qing kong le yuan	1
+明净乐游	ming jing le you	1
+
+云端卫城	yun duan wei cheng	1
+肃静箴言	su jing zhen yan	1
+
+# 奇偶装扮部件
+财富小背囊	cai fu xiao bei nang	1
+
+# 千星沙箱
+千星沙箱	qian xing sha xiang	1
+奇匠	qi jiang	1
+奇匠论坛	qi jiang lun tan	1
+修铸匠	xiu zhu jiang	1
+造物学徒	zao wu xue tu	1
+绘幻师	hui huan shi	1
+织梦家	zhi meng jia	1
+降临者	jiang lin zhe	1
+
+## 编辑器
+物件元件	wu jian yuan jian	1
+详情面板	xiang qing mian ban	1
+元件库	yuan jian ku	1
+战斗预设	zhan dou yu she	1
+资产栏	zi chan lan	1
+
+## 节点图
+节点图	jie dian tu	1
+复合节点	fu he jie dian	1
+拼装列表	pin zhuang lie biao	1
+进入者	jin ru zhe	11
+施加者	shi jia zhe	11
+
+### 执行节点
+执行节点	zhi xing jie dian	1
+有限循环	you xian xun huan	1
+列表迭代循环	lie biao die dai xun huan	1
+唤起卡牌选择器	huan qi ka pai xuan ze qi	1
+设置自定义变量	she zhi zi ding yi bian liang	1
+
+
+碰撞触发器	peng zhuang chu fa qi	1
+
+伤害跳字类型	shang hai tiao zi lei xing	1
+单位状态	dan wei zhuang tai	1
+单位挂接点	dan wei gua jie dian	1
+受击盒	shou ji he	1
+界面控件	jie mian kong jian	1
+
+### 事件节点
+事件节点	shi jian jie dian	1
+卡牌选择器完成时	ka pai xuan ze qi wan cheng shi	1
+实体创建时	shi ti chuang jian shi	1
+实体销毁时	shi ti xiao hui shi	1
+监听信号	jian ting xin hao	1
