@@ -3,17 +3,10 @@
 # dota2词库 由 水塔很懒 编辑更新
 # 本词库应在 {用户文件夹}\{输入方案名称}.dict.yaml 中引入。
 # 重新部署后生效
-# 索引：
-## 属性
-## 神符
-## 地图建筑
-## 物品
-## 英雄：力量英雄、敏捷英雄、智力英雄、全才英雄
-## 聊天轮盘
-## 阵营与活动
+
 ---
 name: RIMEDotA2 # 词库名
-version: "V7.39"  # 词库版本，2025-06-07
+version: "V7.40"  # 词库版本，2026-02-07
 sort: original # 排序依据：按照权重
 ...
 属性	shu xing	1
@@ -109,6 +102,8 @@ sort: original # 排序依据：按照权重
 命石	ming shi	1
 狂石	kuang shi	1
 捆缚	kun fu	1
+买活	mai huo	1
+
 
 技能	ji neng	1
 魔法抗性	mo fa kang xing	1
@@ -598,6 +593,8 @@ sort: original # 排序依据：按照权重
 隐藏潜能	yin cang qian neng	1
 魅影之衣	mei ying zhi yi	1
 蒙纱	meng sha	1
+加重骰子	jia zhong tou zi	1
+余烬军团战盾	yu jin jun tuan zhan dun	1
 
 第二级	di er ji	1
 林野长弓	lin ye chang gong	1
@@ -689,6 +686,12 @@ sort: original # 排序依据：按照权重
 烈士鳞甲	lie shi lin jia	1
 殉道	xun dao	1
 皮洛士斗篷	pi luo shi dou peng	1
+丝奎奥克	si kui ao ke	1
+丝奎奥克神像	si kui ao ke shen xiang	1
+飞天之幻	fei tian zhi huan	1
+剥皮血囊	bao pi xue nang	1
+鲜血之激	xian xue zhi ji	1
+变态上颚	bian tai shang e	1
 
 第五级	di wu ji	1
 不朽尸王的头盔	bu xiu shi wang de tou kui	1
@@ -713,7 +716,7 @@ sort: original # 排序依据：按照权重
 不屈之眼	bu qu zhi yan	1
 天赐华冠	tian ci hua guan	1
 失节华冠	shi jie hua guan	1
-
+影墟棱晶	ying xu leng jing	1
 
 中立物品附魔	zhong li wu pin fu mo	1
 中立生物附魔	zhong li sheng wu fu mo	1
@@ -723,8 +726,8 @@ sort: original # 排序依据：按照权重
 迅速	xun su	1
 坚强	jian qiang	1
 高远	gao yuan	1
-贪婪犀利	tan lan xi li	0
-吸血鬼	xi xue gui	0
+贪婪犀利	tan lan xi li	1
+吸血鬼	xi xue gui	1
 永恒	yong heng	1
 巨神	ju shen	1
 粗暴	cu bao	1
@@ -1183,6 +1186,20 @@ sort: original # 排序依据：按照权重
 失明虚空	shi ming xu kong	1
 长夜之治	chang ye zhi zhi	1
 虚空使者	xu kong shi zhe	1
+
+云游乐手	yun you yue shou	1
+朗戈	lang ge	1
+泽鲁玛	ze lu ma	1
+音乐巡礼	yin yue xun li	1
+动人之舐	dong ren zhi shi	1
+蛙力千钧	wa li qian jun	1
+灵呱一闪	ling gua yi shan	1
+两栖狂想曲	liang qi kuang xiang qu	1
+巨腹闪电战	ju fu shan dian zhan	1
+疾步生风	ji bu sheng feng	1
+大屿	da yu	1
+大屿灵药	da yu ling yao	1
+
 
 末日使者	mo ri shi zhe	1
 路西法	lu xi fa	1
@@ -2594,6 +2611,8 @@ DotAPlus	dotaplus	1
 天辉	tian hui	1
 夜魇	ye yan	1
 神杖二	shen zhang er	1
+奇货郎	qi huo lang	1
+奇货廊	qi huo lang	1
 
 版本更新	ban ben geng xin	1
 勇士联赛	yong shi lian meng	1
@@ -2668,7 +2687,7 @@ DotAPlus	dotaplus	1
 魔裔守望者	mo yi shou wang zhe	1
 邪喉之抑	xie hou zhi yi	1
 通天	tong tian	1
-海蟒之命	hai mang zhi ming	
+海蟒之命	hai mang zhi ming	1
 漫游嬉戏之华	man you xi xi zhi hua	1
 千劫神钩	qian jie shen gou	1
 忠实属下	zhong shi shu xia	1
@@ -2759,6 +2778,8 @@ DotAPlus	dotaplus	1
 昔日暗黑奇艺	xi ri an hei qi yi	1
 魔星后裔	mo xing hou yi	1
 心嗔天使	xin chen tian shi	1
+暴食之痴	bao shi zhi chi	1
+
 至宝	zhi bao	1
 剑心之遗	jian xin zhi yi	1
 银影天仇	yin ying tian chou	1
@@ -2792,3 +2813,7 @@ DotAPlus	dotaplus	1
 暴世骑士的战盔	bao shi qi shi de zhan kui	1
 天命无常武器	tian ming wu chang wu qi	1
 黑门哨卫背部	hei men shao wei bei bu	1
+
+巫偶祭司	wu ou ji si	1
+孽龙之契	nie long zhi qi	1
+英魂之劫	ying hun zhi jie	1
