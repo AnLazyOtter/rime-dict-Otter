@@ -6,7 +6,7 @@
 
 ---
 name: RIMEMillastraArcanum # 词库名
-version: "V6.4.2"	# 词库版本，2026-02-14
+version: "V6.5.1"	# 词库版本，2026-04-06
 sort: original # 排序依据：按照权重
 ...
 
@@ -21,7 +21,7 @@ Millastra Arcanum	qian xing qi yu	1
 奇域大厅	qi yu da ting	1
 人气奇域	ren qi qi yu	1
 华丽演绎礼盒	hua li yan yi li he	1
-
+奇丽凝晶	qi li ning jing	1
 # 纪游
 纪游	ji you	1
 天空纪游	tian kong ji you	1
@@ -42,7 +42,7 @@ Millastra Arcanum	qian xing qi yu	1
 常驻颂愿	chang zhu song yuan	1
 奇遇回声	qi yu hui sheng	1
 活动颂愿	huo dong song yuan	1
-世象凝核	shi xiang ning he	1
+事象凝核	shi xiang ning he	1
 重现晶簇	chong xian jing cu	1
 绮刻之楔	qi ke zhi xie	1
 明丽珍材	ming li zhen cai	1
@@ -69,6 +69,10 @@ Millastra Arcanum	qian xing qi yu	1
 晨曦朝露	chen xi zhao lu	1
 典雅风姿	dian ya feng zi	1
 云涯荣辉	yun ya rong hui	1
+云光流岚	yun guang liu lan	1
+鳞锋战记	lin feng zhan ji	1
+炽意鳞锋	chi yi lin feng	1
+
 
 ### 卓越装扮四星
 幻音废墟	huan yin fei xu	1
@@ -88,6 +92,14 @@ Millastra Arcanum	qian xing qi yu	1
 翩旋舞步	pian xuan wu bu	1
 遨游远志	ao you yuan zhi	1
 迅灵鸮使	xun ling xiao shi	1
+热血满垒	re xue man lei	1
+神谟远算	shen mo yuan suan	1
+滴答呱呱	di da gua gua	1
+诙谐剧演	hui xie ju yan	1
+青金之剑	qing jin zhi jian	1
+坏坏法师	huai huai fa shi	1
+开朗玩伴	kai lang wan ban	1
+纷竞炽心	fen jing chi xin	1
 
 ### 优异装扮三星
 巡游	xun you	1
@@ -100,7 +112,11 @@ Millastra Arcanum	qian xing qi yu	1
 自由银星	zi you yin xing	1
 豪运奔腾	hao yun ben teng	1
 妙运奔腾	miao yun ben teng	1
-
+胜利金果	sheng li jin guo	1
+刚正斗志	gang zheng dou zhi	1
+冰凉嗷嗷	bing laing ao ao	1
+燥热嗷嗷	zao re ao ao	1
+纵逸疾行	zong yi ji xing	1
 
 ## 形录
 装扮形录	zhuang ban xing lu	1
@@ -141,6 +157,26 @@ Millastra Arcanum	qian xing qi yu	1
 元件库	yuan jian ku	1
 战斗预设	zhan dou yu she	1
 资产栏	zi chan lan	1
+运动器	yun dong qi	1
+基础运动器	ji chu yun dong qi	1
+定点运动器	ding dian yun dong qi	1
+
+悬浮交互页	xuan fu jiao hu ye	1
+交互页	jiao hu ye	1
+文本视窗	wen ben shi chuang	1
+界面特效	jie mian te xiao	1
+单选项视窗	dan xuan xiang shi chuang	1
+
+时序渲染	shi xu xuan ran	1
+层级渲染	ceng ji xuan ran	1
+
+## 技能
+技能施放速度	ji neng shi fang su du	1
+空中技能	kong zhong ji neng	1
+套组技能	tao zu ji neng	1
+
+## 造物
+复杂造物	fu za zao wu	1
 
 ## 节点图
 节点图	jie dian tu	1
@@ -165,9 +201,22 @@ Millastra Arcanum	qian xing qi yu	1
 受击盒	shou ji he	1
 界面控件	jie mian kong jian	1
 
+移除装备词条	yi chu zhuang bei ci tiao	1
+替换装备到指定栏位	ti huan zhuang bei dao zhi ding lan wei	1
+装备指定序号添加词条	zhuang bei zhi ding xu hao tian jia ci tiao	1
+装备添加词条	zhuang bei tian jia ci tiao	1
+设置装备词条值	she zhi zhuang bei ci tiao zhi	1
+
+玩家转向	wan jia zhuan xiang	1
+
 ### 事件节点
 事件节点	shi jian jie dian	1
 卡牌选择器完成时	ka pai xuan ze qi wan cheng shi	1
 实体创建时	shi ti chuang jian shi	1
 实体销毁时	shi ti xiao hui shi	1
 监听信号	jian ting xin hao	1
+
+### 查询节点
+自身实体	zi shen shi ti	1
+### 通用节点
+三维向量	san wei xiang liang	1

@@ -20,7 +20,7 @@
 
 ---
 name: RIMEGenshin # 词库名
-version: "V6.4.2"	# 词库版本，2026-02-14
+version: "V6.5.1"	# 词库版本，2026-04-06
 sort: original # 排序依据：按照权重
 ...
 原神	yuan shen	1
@@ -548,8 +548,6 @@ Millastra Arcanum	qian xing qi yu	1
 纯净之纹	chun jing zhi wen	1
 春露	chun lu	1
 纯水精灵	chun shui jing ling	1
-醇甜于	chun tian yu	1
-醇甜于流转之间	chun tian yu liu zhuan zhi jian	1
 春惜一斤染	chun xi yi jin ran	1
 春香窑	chun xiang yao	1
 纯阳之体	chun yang zhi ti	1
@@ -1916,7 +1914,6 @@ Millastra Arcanum	qian xing qi yu	1
 空中自在法	kong zhong zi zai fa	1
 口袋饼	kou dai bing	1
 口袋魔导书	kou dai mo dao shu	1
-扣三丝	kou san si	1
 枯焦的星蕈	ku jiao de xing xun	1
 苦离果	ku li guo	1
 枯木方向标	ku mu fang xiang biao	1
@@ -1940,10 +1937,8 @@ Millastra Arcanum	qian xing qi yu	1
 傀儡的悬丝	kui lei de xuan si	1
 扩散	kuo san	1
 拉面屋台	la mian wu tai	1
-腊肉窝窝头	la rou wo wo tou	1
 辣味时蔬烩肉	la wei shi shu hui rou	1
 来复知时	lai fu zhi shi	1
-来来菜	lai lai cai	1
 来自何处	lai zi he chu	1
 兰巴德酒馆	lan ba de jiu guan	1
 兰巴德鱼卷	lan ba de yu juan	1
@@ -2134,8 +2129,6 @@ Millastra Arcanum	qian xing qi yu	1
 凛风奔狼的裂齿	lin feng ben lang de lie chi	1
 凛风奔狼的始龀	lin feng ben lang de shi chen	1
 林鸽座	lin ge zuo	1
-林居之人	lin ju zhi ren	1
-林居之人的	lin ju zhi ren de	1
 琳琅生趣	lin lang sheng qu	1
 凛冽的冰戏	lin lie de bing xi	1
 凛冽轮舞	lin lie lun wu	1
@@ -2361,7 +2354,6 @@ Millastra Arcanum	qian xing qi yu	1
 没听众也要演奏	mei ting zhong ye yao yan zou	1
 美味的	mei wei de	1
 梅雅德	mei ya de	1
-没有未来菜	mei you wei lai cai	1
 蒙德百货	meng de bai huo	1
 蒙德地毯	meng de di tan	1
 蒙德烤鱼	meng de kao yu	1
@@ -2805,7 +2797,6 @@ Millastra Arcanum	qian xing qi yu	1
 轻策闲云居	qing ce xian yun ju	1
 轻策行云竹	qing ce xing yun zhu	1
 轻策庄	qing ce zhuang	1
-清炒虾仁	qing chao xia ren	1
 请吃主食	qing chi zhu shi	1
 青磁蓬生	qing ci peng sheng	1
 庆典拉炮	qing dian la pao	1
@@ -3372,7 +3363,6 @@ Millastra Arcanum	qian xing qi yu	1
 水中翻沸的画彩	shui zhong fan fei de hua cai	1
 水中幻愿	shui zhong huan yuan	1
 水中耐力	shui zhong nai li	1
-水煮黑背鲈	shui zhu hei bei lu	1
 顺风而行	shun feng er xing	1
 瞬水剑	shun shui jian	1
 瞬移	shun yi	1
@@ -3505,6 +3495,7 @@ Millastra Arcanum	qian xing qi yu	1
 天街巡游	tian jie xun you	1
 天空的枝叶	tian kong de zhi ye	1
 天空之傲	tian kong zhi ao	1
+斩裂晴空的龙脊	zhan lie qing kong de long ji	1
 天空之脊	tian kong zhi ji	1
 天空之卷	tian kong zhi juan	1
 天空之梦	tian kong zhi meng	1
@@ -4437,11 +4428,6 @@ Millastra Arcanum	qian xing qi yu	1
 悠悠哉哉	you you zai zai	1
 游鱼旗	you yu qi	1
 雨裁	yu cai	1
-渔采的	yu cai de	1
-渔采的边际之墙	yu cai de bian ji zhi qiang	1
-渔采的家常茶饭	yu cai de jia chang cha fan	1
-渔采的涓滴成河	yu cai de juan di cheng he	1
-渔采的绝对界线	yu cai de jue dui jie xian	1
 雨的尽头	yu de jin tou	1
 御敌的执定	yu di de zhi ding	1
 御殿灯笼	yu dian deng long	1
@@ -4625,7 +4611,6 @@ Millastra Arcanum	qian xing qi yu	1
 战狂套	zhan kuang tao	1
 占理不饶人	zhan li bu rao ren	1
 崭亮近景	zhan liang jin jing	1
-斩裂晴空的龙脊	zhan lie qing kong de long ji	1
 站没站相	zhan mei zhan xiang	1
 绽蕊烛灯	zhan rui zhu deng	1
 斩水斩雨	zhan shui zhan yu	1
@@ -5037,9 +5022,26 @@ Millastra Arcanum	qian xing qi yu	1
 十连双金	shi lian shuang jin	1
 十连三金	shi lian san jin	1
 
+## 6.6版本活动
+礁与浪的相逢	jiao yu lang de xiang feng	1
+火力遥援突击战	huo li yao yuan tu ji zhan	1
+噼里啪啦守卫团	pi li pa la shou wei tuan	1
+芒荒弹雨响应法	mang huang dan yu xiang ying fa	1
+
+测定摹绘研学	ce ding mu hui yan xue	1
+
+灵使竞冠祭礼	ling shi jing guan ji li	1
+
 ## 6.5版本活动
-据点防卫总动员	ju dian fang wei zong dong yuan	1
 灵蕈旅记	ling xun lv ji	1
+咚咚小圆帽	dong dong xiao yuan mao	1
+信风舞姬	xin feng wu ji	1
+欢腾之火	huan teng zhi huo	1
+灵蕈	ling xun	1
+
+据点防卫总动员	ju dian fang wei zong dong yuan	1
+青霆	qing ting 	1
+洋葱尾巴	yang cong wei ba	1
 
 ## 6.4版本活动
 荒崖与墟壑的诗篇	huang ya yu xu he de shi pian	1
@@ -5090,11 +5092,16 @@ Millastra Arcanum	qian xing qi yu	1
 在岩间	zai yan jian	1
 三尸	san shi	1
 尸神	shi shen	1
+在人间	zai ren jian	1
+琅风	lang feng	1
+白马闲游记	bai ma xian you ji	1
+擘那	bo na	1
 
 
 ## 6.2版本活动
 雀雀球	que que qiu	1
 哐哐当当雀雀球	kuang kuang dang dang que que qiu	1
+拜希麦	bai xi mai	1
 朱羽古	zhu yu gu	1
 魔女的课业	mo nv de ke ye	1
 小魔女辞典	xiao mo nv ci dian	1
@@ -5403,14 +5410,25 @@ Millastra Arcanum	qian xing qi yu	1
 奇门术息灾平昏寿，护摩法净世定幽冥	qi men shu xi zai ping hun shou	1
 奇门术息灾平昏寿	qi men shu xi zai ping hun shou	1
 奇门术息灾平昏寿，护摩法净世定幽冥	hu mo fa jing shi ding you ming	1
+八门七门大阵	ba men qi men da zhen	1
 
 ##  5.1版本
 彩糖与蔷薇的幻色颂	cai tang yu qiang wei de huan se song	1
 彩糖	cai tang	1
 
+瓦乐瑞娜	wa le rui na	1
+猫茸茸城堡	mao rong rong cheng bao	1
 
 ### 海灯节2024
 彩鹞栉春风	cai yao zhi chun feng	1
+
+## 4.2版本
+小小灵蕈大幻戏	xiao xiao ling xun da huan xi	1
+妙妙琼脂	miao miao qiong zhi	1
+
+## 3.8版本
+琉形蜃境	liu xing shen jing	1
+
 ##  3.7版本
 决斗！召唤之巅	zhao huan zhi dian	1
 召唤之巅	zhao huan zhi dian	1
@@ -5421,6 +5439,8 @@ Millastra Arcanum	qian xing qi yu	1
 震沸装置	zhen fei zhuang zhi	1
 ##  3.5版本
 风花的呼吸	feng hua de hu xi	1
+灵蕈棋阵	ling xun qi zhen	1
+海妮耶	hai ni ye	1
 
 ##  3.4版本
 磐弦奏华夜	pan xian zou hua ye	1
@@ -5574,6 +5594,8 @@ Millastra Arcanum	qian xing qi yu	1
 金光灿灿的歌	jin guang can can de ge	1
 不再苍翠的苗圃	bu zai cang cui de miao pu	1
 水与风的伙伴	shui yu feng de huo ban	1
+笔直航道	bi zhi hang dao	1
+像赤王子民一样行走	xiang chi wang zi min yi yang xing zou	1
 
 ###  枫丹天地万象
 追忆泉华的时光	zhui yi quan hua de shi guang	1
@@ -5677,7 +5699,6 @@ Millastra Arcanum	qian xing qi yu	1
 飞起来也是十分	fei qi lai ye shi shi fen	1
 她说「我愿意」	ta shuo wo yuan yi	1
 他们给了我名字	ta men gei le wo ming zi	1
-最后的特诺奇兹托克人	zui hou de te nuo qi zi tuo ke ren	1
 灯火不歇	deng huo bu xie	1
 一个伟大的计划	yi ge wei da de ji hua	1
 我于七色之中	wo yu qi se zhi zhong	1
@@ -5706,6 +5727,9 @@ Millastra Arcanum	qian xing qi yu	1
 现在是我的了	xian zai shi wo de le	1
 异国相逢，优惠放送？	yi guo xiang feng you hui fang song	1
 月光下的少女	yue guang xia de shao nv	1
+今夜月色正好	jin ye yue se zheng hao	1
+
+
 电光幻梦	dian guang huan meng	1
 寂静的春天	ji jing de chun tian	1
 废土工程学	fei tu gong cheng xue	1
@@ -5730,7 +5754,12 @@ Millastra Arcanum	qian xing qi yu	1
 悠游浮跃	you you fu yue	1
 牧羊人	mu yang ren	1
 神明，不可以试探	shen ming bu ke yi shi tan	1
-
+死碑	si bei	1
+离群野狼的回忆	li qun ye lang de hui yi	1
+面包会有的	mian bao hui you de	1
+荣归之路向坟茔	rong gui zhi lu xiang fen ying	1
+金之旅人，银之月	jin zhi lv ren yin zhi yue	1
+告别希望，告别恐惧	gao bie xi wang gao bie kong ju	1
 
 ###  至冬天地万象
 
@@ -5904,7 +5933,6 @@ Millastra Arcanum	qian xing qi yu	1
 嵴石的秘藏	ji shi de mi cang	1
 流泉醉月	liu quan zui yue	1
 舒翼乘云	shu yi cheng yun	1
-逐火如弦	zhu huo ru xian	1
 岩脉的节律	yan mai de jie lv	1
 
 ### 相遇专辑-漫漫旅途之忆
@@ -5922,6 +5950,9 @@ Millastra Arcanum	qian xing qi yu	1
 皎洁的笑颜	jiao jie de xiao yan	1
 纯真的歌谣	chun zhen de ge yao	1
 
+### 枫丹专辑
+白露澈明之泉	bai lu che ming zhi quan	1
+
 ### 纳塔专辑2
 流火陨坠之野	liu huo yun zhui zhi ye	1
 祛疾的清风	qu ji de qing feng	1
@@ -5936,11 +5967,30 @@ Millastra Arcanum	qian xing qi yu	1
 镜中日暖	jing zhong ri nuan	1
 ### 纳塔专辑1
 炽炎交逐之原	chi yan jiao zhu zhi yuan	1
+逐火如弦	zhu huo ru xian	1
+预见的征程	yu jian de zheng cheng	1
+紫锦草的闲息	zi jin cao de xian xi	1
+浪暖风柔	lang nuan feng rou	1
+极效方案	ji xiao fang an	1
+鼠兔之舞	shu tu zhi wu	1
 
-火与战争	huo yu zhan zheng	1
-天青之诗	tian qing zhi shi	1
-### 枫丹专辑
-白露澈明之泉	bai lu che ming zhi quan	1
+
+### 挪德卡莱专辑
+边地乐园之扉	bian di le yuan zhi fei	1
+船歌优稳	chuan ge you wen	1
+苍银的圣咒	cang yin de sheng zhou	1
+永夜与破晓的誓刃	yong ye yu po xiao de shi ren	1
+新月的摇篮曲	xin yue de yao lan qu	1
+闲饮酣适	xian yin han shi	1
+实力碾鸭	shi li nian ya	1
+山椒与梭鱼之战	shan jiao yu suo yu zhi zhan	1
+银雪与圣林的回舞	yin xue yu sheng lin de hui wu	1
+逝往苍焰	shi wang sheng yan	1
+巧思暇逸	qiao si xia yi	1
+暖泉的遐仰	nuan quan de xia yang	1
+热砂的倦戏	re sha de juan xi	1
+互助方案	hu zhu fang an	1
+
 
 ### 谱面主题
 谱面	pu mian	1
@@ -6207,6 +6257,8 @@ Millastra Arcanum	qian xing qi yu	1
 荣花与炎日之途	rong hua yu yan ri zhi tu	1
 归火圣夜巡礼	gui huo sheng ye xun li	1
 巡夜者战争	xun ye zhe zhan zheng	1
+莉琉	li liu	1
+伊奎米利的寒星	yi kui mi li de han xing	1
 狩夜者战争	shou ye zhe zhan zheng	1
 角逐火簇	jue zhu huo cu	1
 温泉之乡	wen quan zhi xiang	1
@@ -6382,6 +6434,44 @@ Millastra Arcanum	qian xing qi yu	1
 #### 月之五 变奏
 月之五	yue zhi wu	1
 捕风的归客	bu feng de gui ke	1
+寻迹留影机	xun ji liu ying ji	1
+诡雷果树	gui lei guo shu	1
+极富弹性的鱼肉	ji fu tan xing de yu rou	1
+
+西风迅鹰侦战录	xi feng xun ying zhen zhan lu	1
+狮牙辉影疾斗	shi ya hui ying ji dou	1
+赫得蔚格	he de wei ge	1
+霍肯	huo ken	1
+耶嘉	ye jia	1
+灰郁香	hui yu xiang	1
+莱奥诺拉	lai ao nuo la	1
+格兰菲狄	ge lan fei di	1
+
+闲叙邀佳酌	xian xu yao jia zhuo	1
+荣誉骑士特调屋	rong yu qi shi te tiao wu	1
+雪韵晨晖	xue yun chen hui	1
+安梦蔷薇	an meng qiang wei	1
+七时柔灯	qi shi rou deng	1
+歌妲酒	ge da jiu	1
+云风芳迹	yun feng fang ji	1
+星月闪亮饮	xing yue shan liang yin	1
+浪花剑锋曲	lang hua jian feng qu	1
+烈焰焦糖长诗	lie yan jiao tang chang shi	1
+嘟嘟可晴天合唱	du du ke qing tian he chang	1
+带刺镜湖	dai ci jing hu	1
+狼与铁	lang yu tie	1
+
+龙尾酒馆	long wei jiu guan	1
+
+为了没有眼泪的重逢	wei le mei you yan lei de chong feng	1
+天空之琴	tian kong zhi qin	1
+
+巨龙与自由的变奏	ju long yu zi you de bian zou	1
+
+#### 月之六 旋舞
+月之六	yue zhi liu	1
+旋舞	xuan wu	1
+逢归的谶羽	feng gui de chen yu	1
 
 ## 世界任务
 世界任务	shi jie ren wu	1
@@ -6514,6 +6604,14 @@ Millastra Arcanum	qian xing qi yu	1
 
 旧语新知	jiu yu xin zhi	1
 二重证据 	er chong zheng ju	1
+旷域歼灭矩阵	kuang yu jian mie ju zhen	1
+暗影的显证	an ying de xian zheng	1
+隐匿的佣兵	yin ni de yong bing	1
+吞羊岩	tun yang yan	1
+无形壁障	wu xing bi zhang	1
+索赫尔的心愿	suo he er de xin yuan	1
+记忆中的沙丘	ji yi zhong de sha qiu	1
+
 
 ### 枫丹世界任务
 蒸汽鸟报	zheng qi niao bao	1
@@ -6698,6 +6796,10 @@ Millastra Arcanum	qian xing qi yu	1
 穆温达	mu wen da	1
 伊帕库拉	yi pa ku la	1
 
+最后的特诺奇兹托克人	zui hou de te nuo qi zi tuo ke ren	1
+谜土大词典	mi tu da ci dian	1
+层侵	ceng qin	1
+
 ### 挪德卡莱世界任务
 爱莱莎	ai lai sha	1
 蒂昂日	di ang ri	1
@@ -6739,7 +6841,6 @@ Millastra Arcanum	qian xing qi yu	1
 霜雪鸮	shuang xue xiao	1
 斯塔拉诺夫	si ta la nuo fu	1
 
-
 莫雷谷的伙伴们	mo lei gu de huo ban men	1
 
 问题分拣机器人	wen ti fen jian ji qi ren	1
@@ -6755,31 +6856,6 @@ Millastra Arcanum	qian xing qi yu	1
 空寂的色彩	kong ji de se cai	1
 赤色涤净	chi se di jing	1
 空域之外的色彩	kong yu zhi wai de se cai	1
-
-月之东，日之西	yue zhi dong ri zhi xi	1
-告密的心	gao mi de xin	1
-星星果	xing xing guo	1
-谢斯特宁	xie si te ning	1
-丹尤莎	dan you sha	1
-卓里克	zhuo li ke	1
-托尔芬	tuo er fen	1
-蒂涅	di nie	1
-扳手老爹	ban shou lao die	1
-章鱼中士	zhang yu zhong shi	1
-铁鲸上校	tie jing shang xiao	1
-赫洛瓦捷	he luo wa jie	1
-
-浪底的低语	lang di de di yu	1
-伊尔玛里	yi er ma li	1
-阿拉特号	a la te hao	1
-洛维萨	luo wei sa	1
-哈尔克	ha er ke	1
-格瑞蒂尔	ge rui di er	1
-莎尔玫	sha er mei	1
-莎洛米娅	sha luo mi ya	1
-福赛格林号	fu sai ge lin hao	1
-
-
 
 镜子、迷宫与国王	jing zi mi gong yu guo wang	1
 派莫诺夫娜	pai mo nuo fu na	1
@@ -6819,14 +6895,73 @@ Millastra Arcanum	qian xing qi yu	1
 格瑞蒂尔	ge rui di er	1
 厨子的诉说	chu zi de su shuo	1
 雅科皮	ya ke pi	1
-
+#### 夜莺之歌
+##### 夜巡的先声
 夜巡的先声	ye xun de xian sheng	1
 风起微澜	feng qi wei lan	1
 安莱夫	an lai fu	1
 银灯芯	yin deng xin	1
 爱莉厄	ai li e	1
 
-以罪行惩戒恶人	yi zui xing cheng jie e ren	1
+##### 第二幕 
+多鲁德的长诗	duo lu de de chang shi	1
+战歌吟唱时	zhan ge yin chang shi	1
+多鲁德	duo lu de	1
+比约恩	bi yue en	1
+奥尔松	ao er song	1
+靡穷之孽	mi qiong zhi nie	1
+
+##### 第三幕
+异时的流星	yi shi de liu xing	1
+终至破晓	zhong zhi po xiao	1
+德肋庇革劳诺之箭	de lei bi ge lao nuo zhi jian	1
+拉乌斯万格	la wu si wan ge	1
+#### 识者之证与雷德・米勒的财财宝
+月之东，日之西	yue zhi dong ri zhi xi	1
+告密的心	gao mi de xin	1
+星星果	xing xing guo	1
+谢斯特宁	xie si te ning	1
+丹尤莎	dan you sha	1
+卓里克	zhuo li ke	1
+托尔芬	tuo er fen	1
+蒂涅	di nie	1
+扳手老爹	ban shou lao die	1
+章鱼中士	zhang yu zhong shi	1
+铁鲸上校	tie jing shang xiao	1
+赫洛瓦捷	he luo wa jie	1
+
+浪底的低语	lang di de di yu	1
+伊尔玛里	yi er ma li	1
+阿拉特号	a la te hao	1
+洛维萨	luo wei sa	1
+哈尔克	ha er ke	1
+格瑞蒂尔	ge rui di er	1
+莎尔玫	sha er mei	1
+莎洛米娅	sha luo mi ya	1
+福赛格林号	fu sai ge lin hao	1
+
+物归原主	wu gui yuan zhu	1
+柯泰尼科夫	ke tai ni ke fu	1
+格蕾兹娜	ge lei zi na	1
+莫洛佐夫	mo luo zuo fu	1
+霍德望	huo de wang	1
+末缀之劫	mo zhui zhi jie	1
+布莱赫	bu lai he	1
+三宝磨	san bao mo	1
+
+寒鸦的谱系	han ya de pu xi	1
+艾维雷勒安	ai wei lei le an	1
+雷勒	lei le	1
+西维	xi wei	1
+特鲁别茨科伊	te lu bie ci ke yi	1
+
+以罪行惩戒罪人	yi zui xing cheng jie zui ren	1
+众噩之蝰	zhong e zhi kui	1
+奥什卡里	ao shi ka li	1
+
+放逐者的荒歌	fang zhu zhe de huang ge	1
+英灵的残响	ying ling de can xiang	1
+菲拉耶夫	fei la ye fu	1
 
 
 ## 委托任务
@@ -6850,6 +6985,7 @@ Millastra Arcanum	qian xing qi yu	1
 
 ### 须弥委托任务
 教令院小问题	jiao ling yuan xiao wen ti	1
+齐里亚布	qi li ya bu	1
 加尔恰的赞歌	jia er qia de zan ge	1
 加尔恰	jia er qia	1
 路通	lu tong	1
@@ -6889,6 +7025,13 @@ Millastra Arcanum	qian xing qi yu	1
 #### 赤龙之章
 名为故事的魔法	ming wei gu shi de mo fa	1
 一位母亲的遗愿	yi wei mu qin de yi yuan	1
+
+#### 天狼之章
+致于远征之人	zhi yu yuan zheng zhi ren	1
+凯旋的远征者	kai xuan de yuan zheng zhe	1
+艾克贝特	ai ke bei te	1
+莱夫赫姆	lai fu he mu	1
+命运的远征者	ming yun de yuan zheng zhe	1
 
 ### 璃月角色传说任务
 仙麟之章	xian lin zhi zhang	1
@@ -6990,12 +7133,16 @@ Millastra Arcanum	qian xing qi yu	1
 叮铃哐啷大作战	ding ling kuang lang da zuo zhan	1
 
 
+
+
 ### 至冬角色传说任务
+#### 公子传说任务
 鲸天之章	jing tian zhi zhang	1
 独眼小宝总动员	du yan xiao bao zong dong yuan	1
 托克的璃月见闻录	tuo ke de li yue jian wen lu	1
 童话里的守梦人	tong hua li de shou meng ren	1
 
+#### 阿蕾奇诺传说任务
 净炼火之章	jing lian huo zhi zhang	1
 炉火熄灭之际	lu huo xi mie zhi ji	1
 不存在的小孩	bu cun zai de xiao hai	1
@@ -7087,6 +7234,9 @@ Millastra Arcanum	qian xing qi yu	1
 
 ### 荆夫港
 荆夫港	jing fu gang	1
+风车镇	feng che zhen	1
+风息山	feng xi shan	1
+
 
 ## 璃月地名
 璃月	li yue	1
@@ -7187,6 +7337,7 @@ Millastra Arcanum	qian xing qi yu	1
 降诸魔山	jiang zhu mo shan	1
 艾尔卡萨扎莱宫	ai er ka sa zha lai gong	1
 卡萨扎莱宫	ka sa zha lai gong	1
+拜达港	bai da gang	1
 
 ### 桓那兰那
 桓那兰那	huan na lan na	1
@@ -7467,11 +7618,13 @@ Millastra Arcanum	qian xing qi yu	1
 
 呼呼丘	hu hu qiu	1
 烬寂海	jin ji hai	1
+烬海	jin hai	1
 倒影之海	dao ying zhi hai	1
 
 ##  挪德卡莱地名
 挪德卡莱	nuo de ka lai	15
 Nod-Krai	nuo de ka lai	1
+涅法海姆	nie fa hai mu	1
 特诺奇兹托克	te nuo qi zi tuo ke	1
 霜月之子	shuang yue zhi zi	1
 月神像	yue shen xiang	1
@@ -7541,23 +7694,31 @@ Nod-Krai	nuo de ka lai	1
 ### 虚海望
 虚海望	xu hai wang	1
 皮拉米达城	pi la mi da cheng	1
+麦酒大厅	mai jiu da ting	1
 噩影泽地	e ying ze di	1
+魔女的花园	mo nv de hua yuan	1
 
 
+### 逐浪野
+逐浪野	zhu lang ye	1
 厄布拉	e bu la	1
 厄布拉神柱	e bu la shen zhu	1
+西风戍垒	xi feng shu lei	1
 
 ### 烟硌山峰
 烟硌山峰	yan luo shan feng	1
 
 苦壑崖	ku he ya	1
 望崖营壁	wang ya ying bi	1
+苦壑之下	ku he zhi xia	1
+苦厄之路	ku e zhi lu	1
+靡穷深壑	mi qiong shen he	1
+
 特辖地研究所	te xia di yan jiu suo	1
 
 凯雷斯之翼	kai lei si zhi yi	1
 
 英灵的享殿	ying ling de xiang dian	1
-
 
 ##  至冬地名
 
@@ -7611,6 +7772,8 @@ Nod-Krai	nuo de ka lai	1
 棉韧花	mian ren hua	1
 阳矩蕊	yang ju rui	1
 阴矩萼	yin ju e	1
+璇珑花	xuan long hua	1
+
 
 # 区域特产
 区域特产	qu yu te chan	1
@@ -7900,7 +8063,7 @@ Nod-Krai	nuo de ka lai	1
 雳震	li zhen	1
 试炼之刻	shi lian zhi ke	1
 
-
+深邃拟覆叶	shen sui ni fu ye	1
 
 熔岩游像	rong yan you xiang	1
 蚀土者	shi tu zhe	1
@@ -8054,6 +8217,8 @@ Nod-Krai	nuo de ka lai	1
 
 蕴光	yun guang	1
 蕴光月守宫	yun guang yue shou gong	1
+棱光的断尾	leng guang de duan wei	1
+
 
 ## 地方传奇
 豪斗旅纪	hao dou lv ji	1
@@ -8080,7 +8245,7 @@ Nod-Krai	nuo de ka lai	1
 巴拉奇科	ba la qi ke	1
 异色三连星	yi se san lian xing	1
 科西霍	ke xi huo	1
-
+铜锁	tong suo	1
 微末	wei mo	1
 火石不生苔	huo shi bu sheng tai	1
 炉壳诱敌山鼬	lu ke you di shan you	1
@@ -8109,6 +8274,8 @@ Nod-Krai	nuo de ka lai	1
 西格德	xi ge de	1
 猎魔迅斩	lie mo xun zhan	1
 十六倍大曼陀草	shi liu bei da man tuo cao	1
+黑枪太婆	hei qiang tai po	1
+海捷德	hai jie de	1
 望乡的孤狼	wang xiang de gu lang	1
 
 # 角色
@@ -8329,6 +8496,9 @@ Nod-Krai	nuo de ka lai	1
 天狼	tian lang	1
 天狼之章	tian lang zhi zhang	1
 
+### 洛恩
+洛恩	luo en	1
+
 
 ## 璃月角色
 璃月角色	li yue jue se	1
@@ -8497,6 +8667,7 @@ Nod-Krai	nuo de ka lai	1
 兹踬	zi zhi	1
 兹硚	zi qiao	1
 兹蹻	zi jiao	1
+辣呜马	la wu ma	1
 华黍由仪	hua shu you yi	1
 驹隙隐泉	ju xi yin quan	1
 出勃然而入寥然	chu bo ran er ru liao ran	1
@@ -8885,6 +9056,24 @@ Nod-Krai	nuo de ka lai	1
 菲米尼	fei mi ni	1
 潜怀暇梦	qian huai xia meng	1
 
+深水与泡沫之梦	shen shui yu pao mo zhi meng	1
+企鹅与丰渥之国	qi e yu feng wo zhi guo	1
+洑流与白砂之歌	fu liu yu bai sha zhi ge	1
+雪月与芦笛之舞	xue yue yu lu di zhi wu	1
+炉火与欢笑之夜	lu huo yu huan xiao zhi ye	1
+梦晓与决意之刻	meng xiao yu jue yi zhi ke	1
+
+洑流剑	fu liu jian	1
+浮冰增压	fu bing zeng ya	1
+佩伊	pei yi	1
+佩伊刻计	pei yi ke ji	1
+高压粉碎	gao ya fen sui	1
+猎影潜袭	lie ying qian xi	1
+潜猎模式	qian lie mo shi	1
+饱和深潜	bao he shen qian	1
+并流式冷凝机关	bing liu shi leng ning ji guan	1
+深水引航	shen shui yin hang	1
+
 ### 千织
 千织	qian zhi	1
 千云绘羽织	qian yun hui yu zhi	1
@@ -9001,10 +9190,32 @@ Nod-Krai	nuo de ka lai	1
 基尼奇	ji ni qi	1
 回火之狩	hui huo zhi shou	1
 巡火猎秘	xun huo lie mi	1
+幻瑞兽	huan rui shou	1
+幻瑞兽座	huan rui shou zuo	1
+马力卜	ma li bu	1
 库胡勒	ku hu le	1
 阿乔	a qiao	11
 库胡勒阿乔	ku hu le a qiao	1
 阿·阿瓦乔·库穆勒坎·库·雷尔	a qiao	1
+
+七鹦之喙	qi ying zhi hui	1
+星虎之掌	xing hu zhi zhang	1
+原鳄之爪	yuan e zhi zhao	1
+蜂鸟之羽	feng niao zhi yu	1
+吼猴之尾	hou hou zhi wei	1
+瑞兽之形	rui shou zhi xing	1
+
+夜阳斗技	ye yang dou ji	1
+悬猎·游骋高狩	xuan lie you cheng gao shou	1
+迴猎贯鳞炮	hui lie guan lin pao	1
+向伟大圣龙致意	xiang wei da sheng long zhi yi	1
+噩地的代价	e di de dai jia	1
+噩地	e di	1
+焰灵的契约	yan ling de qi yue	1
+猎人心得	lie ren xin de	1
+索报皆偿	suo bao jie chang	1
+疾行的使令	ji xing de shi ling	1
+匿叶仿生	ni ye fang sheng	1
 
 ### 希诺宁
 希诺宁	xi nuo ning	1
@@ -9380,39 +9591,6 @@ VARESA	wa lei sha	1
 檐上趱行	yan shang zan xing	1
 暗巷的黠慧	an xiang de xia hui	1
 
-### 叶洛亚
-叶洛亚	ye luo ya	1
-魇夜燃芯	yan ye ran xin	1
-魇夜之莺	yan ye zhi ying	1
-
-
-## 至冬角色
-至冬角色	zhi dong jue se	1
-
-达达利亚	da da li ya	1
-公子	gong zi	1
-暂别冬都	zan bie dong du	1
-
-阿蕾奇诺	a lei qi nuo	1
-仆人	pu ren	1
-炉边烬影	lu bian jin ying
-净炼火	jing lian huo	1
-净炼火座	jing lian huo zuo	1
-马雷勒	ma lei le	1
-所有的仇与债皆由我偿	suo you de chou yu zhai jie you wo chang	1
-所有的赏与罚皆自我出	suo you de shang yu fa jie zi wo chu	1
-你将成为我们新的家人	ni jiang cheng wei wo men xin de jia ren	1
-此后，你们须相爱相护	ci hou ni men xu xiang ai xiang hu	1
-我们已孑然一身，与死无异	wo men yi jie ran yi shen yu si wu yi	1
-自此以后，我们将共飨新生	zi ci yi hou wo men jiang gong xiang xin sheng	1
-斩首之邀	zhan shou zhi yao	1
-万相化灰	wan xiang hua hui	1
-血偿勒令	xue chang le ling	1
-厄月将升	e yue jiang sheng	1
-唯苦痛可偿还	wei ku tong ke chang huan	1
-唯力量可守护	wei li liang ke shou hu	1
-唯厄月可知晓	wei e yue ke zhi xiao	1
-
 ### 哥伦比娅
 哥伦比娅	ge lun bi ya	1
 希珀塞莱尼娅	xi po sai lai ni ya	1
@@ -9442,6 +9620,68 @@ VARESA	wa lei sha	1
 夜昏且暗，且随月光	ye hun qie an qie sui yue guang	1
 
 
+### 叶洛亚
+叶洛亚	ye luo ya	1
+魇夜燃芯	yan ye ran xin	1
+曙莺的光羽	shu ying de guang yu	1
+
+守誓枪术	shou shi qiang shu	1
+衔莺破晓	xian ying po xiao	1
+鉴照无影	jian zhao wu ying	1
+魇夜的莺歌	yan ye de ying ge	1
+夜莺之歌	ye ying zhi ge	1
+铸灯者的盟约	zhu deng zhe de meng yue	1
+执灯之誓	zhi deng zhi shi	1
+狩魔者的黄昏	shou mo zhe de huang hun	1
+凌冬不凋	ling dong bu diao	1
+巡夜者的疾行	xun ye zhe de ji xing	1
+
+告警之雉	gao jing zhi zhi	1
+噬枝之麋	shi zhi zhi mi	1
+山吼之罴	shan hou zhi pi	1
+逐日之狼	zhu ri zhi lang	1
+啸风之马	xiao feng zhi ma	1
+魇夜之莺	yan ye zhi ying	1
+阿咚	a dong	1
+
+### 莉奈娅
+莉奈娅	li nai ya	1
+博闻异旅	bo wen yi lv	1
+启喻鸟	qi yu niao	1
+启喻鸟座	qi yu niao zuo	1
+露米	lu mi	1
+
+
+## 至冬角色
+至冬角色	zhi dong jue se	1
+
+### 达达利亚
+达达利亚	da da li ya	1
+公子	gong zi	1
+暂别冬都	zan bie dong du	1
+
+### 阿蕾奇诺
+阿蕾奇诺	a lei qi nuo	1
+仆人	pu ren	1
+炉边烬影	lu bian jin ying
+净炼火	jing lian huo	1
+净炼火座	jing lian huo zuo	1
+马雷勒	ma lei le	1
+所有的仇与债皆由我偿	suo you de chou yu zhai jie you wo chang	1
+所有的赏与罚皆自我出	suo you de shang yu fa jie zi wo chu	1
+你将成为我们新的家人	ni jiang cheng wei wo men xin de jia ren	1
+此后，你们须相爱相护	ci hou ni men xu xiang ai xiang hu	1
+我们已孑然一身，与死无异	wo men yi jie ran yi shen yu si wu yi	1
+自此以后，我们将共飨新生	zi ci yi hou wo men jiang gong xiang xin sheng	1
+斩首之邀	zhan shou zhi yao	1
+万相化灰	wan xiang hua hui	1
+血偿勒令	xue chang le ling	1
+厄月将升	e yue jiang sheng	1
+唯苦痛可偿还	wei ku tong ke chang huan	1
+唯力量可守护	wei li liang ke shou hu	1
+唯厄月可知晓	wei e yue ke zhi xiao	1
+
+### 桑多涅
 木偶	mu ou	1
 桑多涅	sang duo nie	1
 普隆尼亚	pu long ni ya	1
@@ -9815,7 +10055,7 @@ VARESA	wa lei sha	1
 
 折光的胚芽	zhe guang de pei ya	1
 惑光的阔叶	huo guang de kuo ye	1
-迷光的卷叶之心	mi guang de juan ye zhi xin	1
+迷光的蜷叶之心	mi guang de quan ye zhi xin	1
 
 冷裂壳块	leng lie qiao kuai	1
 蕴热的背壳	yun re de bei qiao	1
@@ -9895,6 +10135,9 @@ VARESA	wa lei sha	1
 祭礼弓	ji li gong	1
 祭礼剑	ji li jian	1
 狼的武功歌	lang de wu gong ge	1
+不灭的骑士道	bu mie de qi shi dao	1
+四风诗系	si feng shi xi	1
+瑞文伍德	rui wen wu de	1
 
 
 璃月武器	li yue wu qi	1
@@ -10086,6 +10329,11 @@ VARESA	wa lei sha	1
 帷间夜曲	wei jian ye qu	1
 十字路的旅歌	shi zi lu de lv ge	1
 丰饶海的神酒	feng rao hai de shen jiu	1
+霜结的誓金枝	shuang jie de shi jin zhi	1
+与君致意的黎明	yu jun zhi yi de li ming	1
+霜妖精的报恩	shuang yao jing de bao en	1
+霜妖精	shuang yao jing	1
+霜妖精的恶戏	shuang yao jing de e xi	1
 
 ## 挪德卡莱四星武器
 谧音吹哨	mi yin chui shao	1
@@ -10275,10 +10523,18 @@ VARESA	wa lei sha	1
 ## 蒙德料理
 烤肉排	kao rou pai	1
 侦察骑士烤肉	zhen cha qi shi kao rou	1
+海港鱼鱼堡	hai gang yu yu bao	1
 
 ## 璃月料理
-素鲍鱼	su bao yu	1
+水煮黑背鲈	shui zhu hei bei lu	1
+扣三丝	kou san si	1
+没有未来菜	mei you wei lai cai	1
+来来菜	lai lai cai	1
+辣肉窝窝头	la rou wo wo tou	1
+清炒虾仁	qing chao xia ren	1
 
+素鲍鱼	su bao yu	1
+八宝福禄鸭	ba bao fu lu ya	1
 丰年有余	feng nian you yu	1
 四方和平	si fang he ping	1
 果果仙酪	guo guo xian lao	1
@@ -10305,6 +10561,12 @@ VARESA	wa lei sha	1
 玉纹茶叶蛋	yu wen cha ye dan	1
 茶熏乳鸽	cha xun ru ge	1
 
+穰穰瑞雪糕	rang rang rui xue gao	1
+炸春鲜	zha chun xian	1
+香炸春卷	xiang zha chun juan	1
+淬金冷玉	cui jin leng yu	1
+
+
 ## 稻妻料理
 串串三味	chuan chuan san wei	1
 渡来禽肉	du lai qin rou	1
@@ -10314,6 +10576,9 @@ VARESA	wa lei sha	1
 
 妖狸饭	yao li fan	1
 妖狐饭	yao hu fan	1
+
+绯樱酒	fei ying jiu	1
+绯樱	fei ying	1
 
 ## 须弥料理
 巡林官精选	xun lin guan jing xuan	1
@@ -10392,6 +10657,8 @@ VARESA	wa lei sha	1
 白灵果派	bai ling guo pai	1
 边地薄饼	bian di bao bing	1
 黑麦粉	hei mai fen	1
+花果草糖	hua guo cao tang	1
+魔幻之菇	mo huan zhi gu	1
 
 ## 至冬料理
 篝火边的欢腾	gou huo bian de huan teng	1
@@ -10419,6 +10686,9 @@ VARESA	wa lei sha	1
 云顶酣睡	yun ding han shui	1
 德波大蛋糕・绚丽型	de bo da dan gao	1
 嘎吱嘎吱甜甜杯	ga zhi ga zhi tian tian bei	1
+猎龙者的犒赏	lie long zhe de kao shang	1
+皎月渺渺	jiao yue miao miao	1
+夜守暖汤	ye shou nuan tang	1
 
 # 药剂
 药剂	yao ji	1
@@ -10491,6 +10761,8 @@ VARESA	wa lei sha	1
 王树瑞佑	wang shu rui you	1
 化种匣	hua zhong xia	1
 寻宝罗盘	xun bao luo pan	1
+霄灯飞阵谱	xiao deng fei zhen pu	1
+霄灯飞阵	xiao deng fei zhen	1
 便携营养袋	bian xie ying yang dai	1
 叁零式・便携营养袋	bian xie ying yang dai	1
 参变质量仪	can bian zhi liang yi	1
@@ -10517,7 +10789,7 @@ VARESA	wa lei sha	1
 余音	yu yin	1
 跃律琴	yue lv qin	1
 
-## 乐器结束
+
 
 便携式空气动力胶质泡发生器	bian xie shi kong qi dong li jiao zhi pao fa sheng qi	1
 便携式空气动力胶质泡发生器	pao pao qiang	1
@@ -10694,8 +10966,11 @@ VARESA	wa lei sha	1
 荒泷派的邀请函	huang long pai de yao qing han	1
 识者之证	shi zhe zhi zheng	1
 镌识者的鸦翎	juan shi zhe de ya ling	1
+眷识者的哀慕	juan shi zhe de ai mu	1
 谋识者的面影	mou shi zhe de mian ying	1
-织识者的倾醉	bian shi zhe de qing zui	1
+织识者的倾醉	zhi shi zhe de qing zui	1
+忆识者的戏言	yi shi zhe de xi yan	1
+
 
 梅蒂的欠条	mei di de qian tiao	
 梅蒂的笔记	mei di de bi ji	1
@@ -10781,6 +11056,17 @@ VARESA	wa lei sha	1
 乌库	wu ku	1
 伊蒙洛卡	yi meng luo ka	1
 
+### 挪德卡莱远征军人物
+纳尼娜	na ni na	1
+洛朗	luo lang	1
+温弗里德	wen fu li de	1
+安塞姆	an sai mu	1
+杜纳塔斯	du na ta si	1
+莱夫赫姆	lai fu he mu	1
+艾克贝特	ai ke bei te	1
+克莱纳	ke lai na	1
+
+
 ## 璃月人物
 子苌	zi chang	1
 浮锦	fu jin	1
@@ -10805,6 +11091,7 @@ VARESA	wa lei sha	1
 
 ###  沉玉谷人物
 斡流	wo liu	1
+风涟	feng lian	1
 ### 璃月仙人
 璃月仙人	li yue xian ren	1
 理水叠山真君	li shui die shan zhen jun	1
@@ -10836,6 +11123,10 @@ VARESA	wa lei sha	1
 御舆千代	yu yu qian dai	1
 江村一玄斋	jiang cun yi xuan zhai	1
 金井	jin jing	1
+阿瑠	a liu	1
+松坂	song ban	1
+岩夫	yan fu	1
+彩香	cai xiang	1
 
 ###  渊下宫人物
 乌帽子巫女	wu mao zi wu nv	1
@@ -11050,7 +11341,6 @@ VARESA	wa lei sha	1
 
 ###  回声之子人物
 帕加尔	pa jia er	1
-松伽塔	song jia ta	1
 伊克娜	yi ke na	1
 夏温	xia wen	1
 伊蜜	yi mi	1
@@ -11111,7 +11401,6 @@ VARESA	wa lei sha	1
 皮希加	pi xi jia	1
 朱南	zhu nan	1
 图卡纳克	tu ka na ke	1
-孟尼力克	meng ni li ke	1
 栖木普	qi mu pu	1
 奇梅	qi mei	1
 柯娅	ke ya	1
@@ -11150,18 +11439,13 @@ VARESA	wa lei sha	1
 昆图尔	kun tu er	1
 约洛特莉	yue luo te li	1
 勒拉	le la	1
-桑哈杰	sang ha jie	1
-特诺切	te nuo qie	1
 夸恩因	kua en yin	1
-图帕克	tu pa ke	1
-布基纳	bu ji na	1
 科奴拉芙	ke nu la fu	1
 维奇琳	wei qi lin	1
 
 
 
 ###  沃陆之邦人物
-万杰鲁	wan jie lu	1
 胡阿库	hu a ku	1
 阿卡特	a ka te	1
 杜兹厄	du zi e	1
@@ -11192,6 +11476,15 @@ VARESA	wa lei sha	1
 豪特利	hao te li	1
 马扎里	ma zha li	1
 
+### 英杰
+桑哈杰	sang ha jie	1
+图帕克	tu pa ke	1
+特诺切	te nuo qie	1
+孟尼力克	meng ni li ke	1
+松伽塔	song jia ta	1
+布基纳	bu ji na	1
+万杰鲁	wan jie lu	1
+
 ###  奥奇卡纳塔人物
 奥奇坎	ao qi kan	1
 玻娜	bo na	1
@@ -11199,8 +11492,6 @@ VARESA	wa lei sha	1
 阿瓜拉	a gua la	1
 
 
-柯夏妮娜	ke xia ni na	1
-恩德盖	en de gai	1
 罗契耶夫	luo qi ye fu	1
 
 ###  远古圣山人物
@@ -11218,6 +11509,15 @@ VARESA	wa lei sha	1
 夏日留影角	xia ri liu ying jiao	1
 韦涅季克特	wei nie ji ke te	1
 卡伦莱	ka lun lai	1
+穆纳塔	mu na ta	1
+
+### 历代基扬戈兹
+伊莎娃	yi sha wa	1
+古洛哈莉	gu luo ha li	1
+柯夏尼娜	ke xia ni na	1
+恩德盖	en de gai	1
+修洛维兹	xiu luo wei zi	1
+库穆库尔	ku mu ku er	1
 
 ## 挪德卡莱人物
 拉蒂米尔	la di mi er	1
@@ -11272,6 +11572,8 @@ VARESA	wa lei sha	1
 猎月人	lie yue ren		1
 雷利尔	lei li er		1
 渎死之罪	du si zhi zui	1
+
+渊上	yuan shang	1
 
 ## 魔女会
 安德斯多特	an de si duo te	1
@@ -11366,12 +11668,16 @@ VARESA	wa lei sha	1
 时之执政	shi zhi zhi zheng	1
 
 ## 头像
+雷鸟与少年	lei niao yu shao nian	1
+婕德与奔奔	jie de yu ben ben	1
+花灵勇者	hua ling yong zhe	1
 祀珑典仪	si long dian yi	1
 烬城最后的勇者	jin cheng zui hou de yong zhe	1
 漫古的思虑	man gu de si lv	1
 终有重逢之日	zhong you chong feng zhi ri	1
 另一侧的霜月	ling yi ce de shuang yue	1
-
+度过烬海的学者	du guo jin hai de xue zhe	1
+活力相谈	huo li xiang tan	1
 
 ## 活动其他信息
 奇货匣	qi huo xia	1
@@ -11391,12 +11697,23 @@ VARESA	wa lei sha	1
 塔科贾・雅尼奎宁	ta ke jia ya ni kui ning	1
 虚假之天	xu jia zhi tian	1
 
+## 蒙德其他信息
+蒙德骑士团	meng de qi shi tuan	1
+综务小队	zong wu xiao dui	1
+赤杨骑士	chi yang qi shi	1
+
+龙卷之魔神	long juan zhi mo shen	1
+迭卡拉庇安	die ka la bi an	1
+
 ## 璃月其他信息
 
 千岩牢固	qian yan lao gu	1
 重嶂不移	chong zhang bu yi	1
 琅玕	lang gan	1
 琅玕国	lang gan guo	1
+月宫高车	yue gong gao che	1
+月使	yue shi	1
+松萝仙芽	song luo xian ya	1
 
 ## 稻妻其他信息
 电灯台	dian deng tai	1
@@ -11521,6 +11838,7 @@ VARESA	wa lei sha	1
 龙选者	long xuan zhe	1
 魂附	hun fu	1
 魂烛	hun zhu	1
+卷叶符印	juan ye fu yini	1
 织卷	zhi juan	1
 灵谜	ling mi	1
 灵谜体	ling mi ti	1
@@ -11618,11 +11936,20 @@ VARESA	wa lei sha	1
 索洛维	suo luo wei	1
 月凝壁障	yue ning bi zhang	1
 月厢车	yue xiang che	1
+凛风之马	lin feng zhi ma	1
+层页	ceng ye	1
+层页护盾	ceng ye hu dun	1
+层页护罩	ceng ye hu zhao	1
 
 ### 聚所相关
 聚所	ju suo	1
 到灯塔去	dao deng ta qu	1
 派凯蒙宁	pai kai meng ning	1
+在他们都喝醉的夜里	zai ta men dou he zui de ye li	1
+月下的守望者	yue xia de shou wang zhe	1
+魔女的小屋	mo nv de xiao wu	1
+如风带来的种子	ru feng dai lai de zhong zi	1
+
 
 ## 至冬其他信息
 黑之神	hei zhi shen	1
@@ -11652,6 +11979,8 @@ VARESA	wa lei sha	1
 
 ## 稻妻画片
 ## 须弥画片
+无底的大厅	wu di de da ting	1
+
 ## 枫丹画片
 芒索斯山麓的回忆	mang suo si shan lu de hui yi	1
 伊黎耶的水色垂柳	yi li ye de shui se chui liu	1
@@ -11689,7 +12018,8 @@ VARESA	wa lei sha	1
 寂静的浅滩	ji jing de qian tan	1
 守望长夜的明灯	shou wang chang ye de ming deng	1
 刺向苍穹的塔	ci xiang cang qiong de ta	1
-
+零号避难所	ling hao bi nan suo	1
+乐园最后的宝藏	le yuan zui hou de bao zang	1
 ## 至冬画片
 
 
