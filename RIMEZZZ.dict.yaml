@@ -5,7 +5,7 @@
 ---
 
 name: RIMEZZZ  # 词库名
-version: "20260206"  # 词库版本
+version: "20260406"  # 词库版本
 sort: by_weight # 排序依据：按照权重
 ...
 
@@ -66,18 +66,23 @@ H.I.A俱乐部	hia	1
 汀曼大师	ting man da shi	1
 瀑汤谷锦鲤	pu tang gu jin li	1
 锦鲤面馆	jin li mian guan	1
+噪点水吧	zao dian shui ba	1
 
 音像店	yin xiang dian	1
 吟游唱针	yin you chang zhen	1
 埃珐	ai fa	1
+
+电玩店	dian wan dian	1
+亚莎	ya sha	1
+测试机	ce shi ji	1
+蛇对蛇	she dui she	1
+噬魂犬	shi hun quan	1
+
 拟真鏖战试炼	ni zhen ao zhan shi lian	1
 鏖战高塔	ao zhan gao ta	1
 鏖战试炼	ao zhan shi lian	1
 
 
-测试机	ce shi ji	1
-蛇对蛇	she dui she	1
-噬魂犬	shi hun quan	1
 
 热望角	re wang jiao	1
 
@@ -92,6 +97,9 @@ H.I.A俱乐部	hia	1
 莉捷	li jie	1
 引力电影院	yin li dian ying yuan	1
 新月潮流	xin yue caho liu	1
+哩查茶奶	li cha cha nai	1
+茶奶	cha nai	1
+
 
 杜伊老爹	du yi lao die	1
 杜伊	du yi	1
@@ -275,6 +283,8 @@ H.S.O.S.6	dui kong liu ke	1
 朱鸢	zhu yuan	1
 赛斯	sai si	1
 赛斯洛威尔	sai si luo wei er	1
+洛威尔	luo wei er	1
+
 
 ## 卡吕冬之子代理人
 卡吕冬之子	ka lv dong zhi zi	1
@@ -333,6 +343,10 @@ H.S.O.S.6	dui kong liu ke	1
 ## 奥波勒斯小队代理人
 奥波勒斯小队	ao bo le si xiao dui	1
 奥波勒斯	ao bo le si	1
+
+### 11号
+赤焰之夜的福星	chi yan zhi ye de fu xing	1
+
 扳机	ban ji	1
 
 白银小队	bai yin xiao dui	1
@@ -348,8 +362,26 @@ H.S.O.S.6	dui kong liu ke	1
 雨果	yu guo	1
 雨果·维拉德	yu guo wei la de	1
 
+### 薇薇安
 薇薇安	wei wei an	1
 飞鸟坠入良夜	fei niao zhui ru liang ye	1
+翎羽拂击	ling yu fu ji	1
+淑女礼仪	shu nv li yi	1
+裙裾浮游	qun ju fu you	1
+银刺舞曲	yin ci wu qu	1
+羽刃反振	yu ren fan zhen	1
+凛羽之护	lin yu zhi hu	1
+银伞列阵	yin san lie zhen	1
+裁决羽刃	cai jue yu ren	1
+银羽咏叹	yin yu yong tan	1
+菫花悼亡	jin hua dao wang	1
+星羽和声	xing yu he sheng	1
+飞鸟鸣颂	fei niao ming song	1
+命运悲歌	ming yun bei ge	1
+预言之泪	yu yan zhi lei	1
+
+苇间风	wei jian feng	1
+
 
 ## 云岿山代理人
 
@@ -378,10 +410,12 @@ H.S.O.S.6	dui kong liu ke	1
 青溟云影	qing ming yun ying	1
 符法千重	fu fa qian chong	1
 清溟鸟	qing ming niao
+守华照寂	shou hua zhao ji	1
 
 ### 潘引壶
 潘引壶	pan yin hu	1
 馔玉烹金	zhuan yu peng jin	1
+煲汤为盟	bao tang wei meng	1
 
 ### 橘福福
 橘福福	ju fu fu	1
@@ -511,13 +545,11 @@ H.S.O.S.6	dui kong liu ke	1
 毛茸茸聆听者	mao rong rong ling ting zhe	1
 无价亦是价值	wu jia yi shi jia zhi	1
 
+### 普罗米娅
+普罗米娅	pu luo mi ya	1
+
 ## 妄想天使代理人
 妄想天使	wang xiang tian shi	1
-### 爱芮
-爱芮	ai rui	1
-白色网格	bai se wang ge	1
-不协和音	bu xie he yin	1
-
 ### 千夏
 千夏	qian xia	1
 午后茶歇	wu hou cha xie	1
@@ -547,11 +579,54 @@ H.S.O.S.6	dui kong liu ke	1
 别惹猫咪	bie re mao mi	1
 通通砸碎	tong tong za sui	1
 
+### 爱芮
+爱芮	ai rui	1
+霓色天使	ni se tian shi	1
+白色网格	bai se wang ge	1
+不协和音	bu xie he yin	1
+甜心律动	tian xin lv dong	1
+滑动变奏	hua dong bian zou	1
+破碎幻梦	po sui huan meng	1
+全糖电音	quan tang dian yin	1
+坠入妄想	zhui ru wang xiang	1
+光速入坑	guang su ru keng	1
+元气百分百	yuan qi bai fen bai	1
+控场核心	kong chang he xin	1
+
+元气声浪	yuan qi sheng lang	1
+梦幻节拍	meng huan jie pai	1
+梦想家	meng xiang jia	1
+机械天使	ji xie tian shi	1
+雨中之泪	yu zhong zhi lei	1
+构造体之梦	gou zao ti zhi meng	1
 
 ### 小羽
 南宫羽	nan gong yu	1
 小羽	xiao yu	1
+可爱地雷飞天撞	ke ai di lei fei tian zhuang	1
+慵懒的聚光灯	yong lan de ju guang deng	1
+无痛的泪水	wu tong de lei shui 	1
+共犯的舞步	gong fan de wu bu	1
+天使的妄想	tian shi de wang xiang	1
 
+妄想重奏	wang xiang chong zou	1
+寻奇猎幽	xun qi lie you	1
+天才偶像	tian cai ou xiang	1
+
+## 都市秩序部代理人
+都市秩序部	du shi zhi xu bu	1
+
+### 希希芙
+希希芙	xi xi fu	1
+
+### 赛维里安
+塞维里安	sai wei li an	1
+塞维里安·洛威尔	sai wei li an luo wei er	1
+
+
+维琳娜	wei lin na	1
+
+诺姆	nuo mu	1
 
 # 代理人秘闻
 
@@ -673,6 +748,8 @@ H.S.O.S.6	dui kong liu ke	1
 青漪灵鼎	qing yi ling ding	1
 青礼玄音	qing li xuan yin	1
 玄音唤灵	xuan yin huan ling	1
+炎炙沸釜	yan zhi fei fu	1
+炽焰红椒	chi yan hong jiao	1
 
 # 邦布
 
@@ -1133,6 +1210,15 @@ H.S.O.S.6	dui kong liu ke	1
 
 ### 第七章 旧梦的安可曲
 旧梦的安可曲	jiu meng de an ke qu	1
+妄想的序章	wang xiang de xu zhang	1
+瑟汐	se xi	1
+旧梦幽影	jiu meng you ying	1
+致梦想家	zhi meng xiang jia	1
+我们曾经约定	wo men ceng jing yue ding	1
+鎏金的此夜	liu jin de ci ye	1
+弗林特辉金	fu lin te hui jin	1
+辉金	hui jin	1
+
 
 # 绳网委托
 邦布掠影	bang bu lve ying	1
@@ -1146,12 +1232,16 @@ H.S.O.S.6	dui kong liu ke	1
 杰夫	jie fu	1
 一桩疑案两段录像三人在场	yi zhuang yi an liang duan lu xiang san ren zai chang	1
 汝之弃子，彼之坚持	ru zhi qi zi bi zhi jian chi	1
+夜雨的请托	ye yu de qing tuo	1
+诚信经营守则	cheng xin jing ying shou ze	1
+仆托神	pu tuo shen	1
+仆托神不说刷	pu tuo shen bu shuo hua	1
+
 ## 第三章委托
 不拼怎么赢	bu pin zen me ying	1
 邦布黄金城	bang bu huang jin cheng	1
 上班补锅回忆录	shang ban bu guo hui yi lu	1
 职场补锅罗曼史	zhi chang bu guo luo man shi	1
-
 ### 第三章探索委托
 无底深渊	wu di shen yuan	1
 昨日舞台	zuo ri wu tai	1
@@ -1174,10 +1264,13 @@ H.S.O.S.6	dui kong liu ke	1
 伏汐会	fu xi hui	1
 飞笺	fei jian	1
 
-
 称愿笺	cheng yuan jian	1
 百通宝	bai tong bao	1
 云纹徽	yun wen hui	1
+
+真纪	zhen ji	1
+落花不必掩流年	luo hua bu bi yan liu nian	1
+
 
 # 丽都纪事
 
@@ -1230,6 +1323,8 @@ H.S.O.S.6	dui kong liu ke	1
 枪响在唱针落下之时	qiang xiang zai chang zhen luo xia zhi shi	1
 砸场子的禁忌事项	za chang zi de jin ji shi xiang	1
 荒野料理	huang ye liao li	1
+四脚兽茶话会	si jiao shou cha hua hui	1
+不速之客尚未落座	bu su zhi ke shang wei luo zuo	1
 
 
 
@@ -1332,6 +1427,7 @@ H.S.O.S.6	dui kong liu ke	1
 
 ## 拓金日2026
 拓金日	tuo jin ri	1
+岁灯	sui deng	1
 妄想协鸣于此刻	wang xiang xie ming yu ci ke	1
 璀梦妄想之旅	cui meng wang xiang zhi lv	1
 启愿星	qi yuan xing	1
@@ -1340,6 +1436,19 @@ H.S.O.S.6	dui kong liu ke	1
 竞演对决	jing yan dui jue	1
 玛瑟尔	ma se er	1
 玛瑟尔大冒险	ma se er da mao xian	1
+
+逆缚迷局	ni fu mi ju	1
+谜声惊猎	mi sheng jing lie	1
+罪土终途	zui tu zhong tu	1
+驰风破阵	chi feng po zhen	1
+刃影锐锋	ren ying rui feng	1
+星芒成章	xing mang cheng zhang	1
+
+## 2.7版本活动
+滚烫寻鲜记	gun tang xun xian ji	1
+地狱品味师	di yu pin wei shi	1
+寻仙鉴品	xun xian jian pin	1
+
 
 # 成就
 邦布代班	bang bu dai ban	1
@@ -1363,6 +1472,7 @@ H.S.O.S.6	dui kong liu ke	1
 第一缕晨曦	di yi lv chen xi	1
 光的温度	guang de wen du	1
 云霾散尽叩清溟	yun mai san jin kou qing ming	1
+栖于妄想之声	qi yu wang xiang zhi sheng	1
 
 ## 代理人秘闻成就
 在花海簇拥的圆上	zai hua hai cu yong de yuan shang	1
@@ -1373,6 +1483,13 @@ H.S.O.S.6	dui kong liu ke	1
 主演遁入夜幕	zhu yan dun ru ye mu	1
 六课的大脑	liu ke de da nao	1
 乘着歌声的翅膀	cheng zhe ge sheng de chi bang	1
+
+## 代理人信赖
+愿得三人心	yuan de san ren xin	1
+与你跌落梦境	yu ni die luo meng jing	1
+游云伴晦明	you yun ban hui ming	1
+飞鸟停落处	fei niao ting luo chu	1
+朋友不曾孤单过	peng you bu ceng gu dan guo	1
 
 ## 际会之时成就
 际会之时	 ji hui zhi shi	1
@@ -1387,6 +1504,12 @@ H.S.O.S.6	dui kong liu ke	1
 不再晦暗的续篇	bu zai hui an de xu pian	1
 怪盗的职业素养	guai dao de zhi ye su yang	1
 人类进化的第一步	ren lei jin hua de di yi bu	1
+大家我都喜欢哦	da jia wo dou xi huan o	1
+完美节拍	wan mei jie pai	1
+「妄想」的新航路	wang xiang de xin hang lu	1
+六星好评	liu xing hao ping	1
+芝士就是力量	zhi shi jiu shi li liang	1
+
 
 ## 探索成就
 勘域探境	kan yu tan jing	1
@@ -1398,6 +1521,17 @@ H.S.O.S.6	dui kong liu ke	1
 曾想摘星辰	ceng xiang zhai xing chen	1
 
 ## 城市成就
+### 雅努斯区成就
+当你凝视空屋的时候	dang ni ning shi kong wu de shi hou	1
+何日归港	he ri gui gang	1
+天气晴朗，宜观演	tian qi qing lang yi guan yan	1
+核心粉丝的基本操作	he xin fen si de ji ben cao zuo	1
+本场演出暂不开票	ben chang yan chu zan bu kai piao	1
+还要再听亿次	hai yao zai ting yi ci	1
+邦布自有高招	bang bu zi you gao zhao	1
+我什么都不缺了	wo shen me dou bu que le	1
+易拉宝巡礼	yi la bao xun li	1
+
 
 ### 卫非地成就
 应算尽算	ying suan jin suan	1
@@ -1407,9 +1541,19 @@ H.S.O.S.6	dui kong liu ke	1
 陌生的熟人	mo sheng de shu ren	1
 学习方言的第一步	xue xi fang yan de di yi bu	1
 
+### 外环地带成就
+您这是正经杂货店吗？	nin zhe shi zheng jing za huo dian ma	1
+社会性死亡体验	she hui xing si wang ti yan	1
+荒野采风	huang ye cai feng	1
+
+
 # 纪念名片
 千愿流霞	qian yuan liu xia	1
 享受搦战时刻	xiang shou nuo zhan shi ke	1
+
+# 称号
+妄想成真	wang xiang cheng zhen	1
+
 
 # 空洞
 空洞	kong dong	1
@@ -1462,6 +1606,16 @@ H.S.O.S.6	dui kong liu ke	1
 无尽的施工日	wu jin de shi gong ri	1
 烈拳困斗	lie quan kun dou	1
 我敌	wo di	1
+食通万物	shi tong wan wu	1
+
+
+## 妄想天使音乐
+筑梦采样	zhu meng cai yang	1
+天使加载中	tian shi jia zai zhong	1
+认真「记仇」中	ren zhen ji chou zhong	1
+走心摇滚	zou xin yao gun	1
+把心跳变成节奏	ba xin tiao bian cheng jie zou	1
+复梦天使	fu meng tian shi	1
 
 # 绝区零录像带
 最终之拳	zui zhong zhi quan	1
