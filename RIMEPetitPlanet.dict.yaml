@@ -1,0 +1,63 @@
+# 星布谷地字典
+
+---
+
+name: RIMEPetitPlanet  # 词库名
+version: "20260411"  # 词库版本
+sort: by_weight # 排序依据：按照权重
+...
+# 基础信息
+星布谷地	xing bu gu di	1
+每日交游	mei ri jiao you	1
+
+
+# 角色
+绵朵莉	mian duo li	1
+纳蕾娜	na lei na	1
+云果	yun guo	1
+伊佐奇	yi zuo qi	1
+多杰朗	duo jie lang	1
+萨飞里	sa fei li	1
+哈佩诺	ha pei nuo	1
+热贝尔	re bei er	1
+格连	ge lian	1
+
+
+
+# 地名
+星空街市	xing kong jie shi	1
+野咖啡	ye ka fei	1
+娜洛	na luo	1
+
+谷多曼	gu duo man	1
+礼帽魔术礼券	li mao mo shu li quan	1
+西薇	xi wei	1
+阿莱	a lai	1
+
+
+# 料理食物
+## 食谱
+馥郁瓜果茶	fu yu gua guo cha	1
+刺锅海胆蟹	ci guo hai dan xie	1
+夏日风情锅	xia ri feng qing guo	1
+海鲜粥	hai xian zhou	1
+
+## 食物原料
+虎纹对虾	hu wen dui xia	1
+
+
+# 家具
+## 成品家具
+双月漫游椅	shuang yue man you yi	1
+拼布狗狗玩偶	pin bu gou gou wan ou	1
+花叶拼布茶几	hua ye pin bu cha ji	1
+野木大篝火	ye mu da gou huo	1
+
+## 家装建材
+野木栅栏	ye mu zhuang zha lan	1
+沐芒	mu mang	1
+朝夜	zhao ye	1
+
+# 道具
+童趣泡泡瓶	tong qu pao pao ping	1
+田园风筝	tian yuan feng zheng	1
