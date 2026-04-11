@@ -6,7 +6,7 @@
 
 ---
 name: RIMEDotA2 # 词库名
-version: "V7.40"  # 词库版本，2026-02-07
+version: "V7.40c"  # 词库版本，2026-04-11
 sort: original # 排序依据：按照权重
 ...
 属性	shu xing	1
@@ -103,7 +103,6 @@ sort: original # 排序依据：按照权重
 狂石	kuang shi	1
 捆缚	kun fu	1
 买活	mai huo	1
-
 
 技能	ji neng	1
 魔法抗性	mo fa kang xing	1
@@ -285,7 +284,6 @@ sort: original # 排序依据：按照权重
 秘银锤	mi yin chui	1
 
 奥术	ao shu	1
-	ao shu	1
 魔棒	mo bang	1
 风灵之纹	feng ling zhi wen	1
 回复戒指	hui fu jie zhi	1
@@ -305,6 +303,10 @@ sort: original # 排序依据：按照权重
 闪烁匕首	shan shuo bi shou	1
 跳刀	tiao dao	1
 毛毛帽	mao mao mao	1
+裂隙之石	lie xi zhi shi	1
+披巾	pi jin	1
+片甲	pian jia	1
+巫师帽	wu shi mao	1
 
 神秘商店	shen mi shang dian	1
 丰饶之环	feng rao zhi huan	1
@@ -389,11 +391,13 @@ sort: original # 排序依据：按照权重
 迅捷光环	xun jie guang huan	1
 怨灵之契	yuan ling zhi qi	1
 怨灵报复	yuan ling bao fu	1
+精之灵器	jing zhi ling qi	1
 
 法器	fa qi	1
 微光披风	wei guang pi feng	1
 纷争面纱	fen zheng mian sha	1
 魔法虚弱	mo fa xu ruo	1
+法术虚弱	fa shu xu ruo	1
 原力法杖	yuan li fa zhang	1
 弹射法杖	tan she fa zhang	1
 推推棒	tui tui bang	1
@@ -473,6 +477,11 @@ sort: original # 排序依据：按照权重
 永世法衣	yong shi fa yi	1
 法衣	fa yi	1
 技能护盾	ji neng hu dun	1
+圣化护服	sheng hua hu fu	1
+神圣化	shen sheng hua	1
+克莱拉	ke lai la	1
+克莱拉牧杖	ke lai la mu zhang	1
+鲁姆斯克仪式	lu mu si ke yi shi	1
 
 兵刃	bing ren	1
 水晶剑	shui jing jian	1
@@ -507,6 +516,8 @@ sort: original # 排序依据：按照权重
 大净化	da jing hua	1
 破法	po fa	1
 抑制	yi zhi	1
+行家阵列	hang jia zhen lie	1
+怪蛇之息	guai she zhi xi	1
 
 宝物	bao wu	1
 圣物	sheng wu	1
@@ -555,7 +566,6 @@ sort: original # 排序依据：按照权重
 中立代币	zhong li dai bi	1
 中立生物物品	zhong li sheng wu wu pin	1
 中立物品	zhong li wu pin	1
-
 第一级	di yi ji	1
 万灵药水	wan ling yao shui	1
 基恩镜片	ji en jing pian	1
@@ -595,6 +605,13 @@ sort: original # 排序依据：按照权重
 蒙纱	meng sha	1
 加重骰子	jia zhong tou zi	1
 余烬军团战盾	yu jin jun tuan zhan dun	1
+瑞斯图尔尖匕	rui si tu er jian bi	1
+采菌套具	cai jun tao ju	1
+铁树坚果	tie shu jian guo	1
+托莫干伞盖	tuo mo gan san gai	1
+活力伞菌	huo li san jun	1
+石羽小包	shi yu xiao bao	1
+
 
 第二级	di er ji	1
 林野长弓	lin ye chang gong	1
@@ -616,8 +633,6 @@ sort: original # 排序依据：按照权重
 飞贼之刃	fei zei zhi ren	1
 仙灵榴弹	xian ling liu dan	1
 维奇尔之眼	wei qi er zhi yan	1
-行家阵列	hang jia zhen lie	1
-瑞斯图尔尖匕	rui si tu er jian bi	1
 毁灭灵球	hui mie ling qiu	1
 腐蚀阻碍	fu shi zu ai	1
 蛛丝斗篷	zhu si dou peng	1
@@ -663,7 +678,8 @@ sort: original # 排序依据：按照权重
 灭顶一击	mie ding yi ji	1
 殁境法杖	mo jing fa zhang	1
 自我放逐	zi wo fang zhu	1
-
+天游烙印	tian you lao yin	1
+咏咒之坠	yong zhou zhi zhui	1
 
 第四级	di si ji	1
 无知小帽	wu zhi xiao mao	1
@@ -682,7 +698,6 @@ sort: original # 排序依据：按照权重
 风暴宝器	feng bao bao qi	1
 欺诈师斗篷	qi zha shi dou peng	1
 简朴短帽	jian pu duan mao	1
-行巫之祸	xing wu zhi huo	1
 烈士鳞甲	lie shi lin jia	1
 殉道	xun dao	1
 皮洛士斗篷	pi luo shi dou peng	1
@@ -692,6 +707,9 @@ sort: original # 排序依据：按照权重
 剥皮血囊	bao pi xue nang	1
 鲜血之激	xian xue zhi ji	1
 变态上颚	bian tai shang e	1
+咒术师触媒	zhou shu shi chu mei	1
+附魔师之椟	fu mo shi zhi du	1
+先知灵摆	xian zhi ling bai	1
 
 第五级	di wu ji	1
 不朽尸王的头盔	bu xiu shi wang de tou kui	1
@@ -717,6 +735,8 @@ sort: original # 排序依据：按照权重
 天赐华冠	tian ci hua guan	1
 失节华冠	shi jie hua guan	1
 影墟棱晶	ying xu leng jing	1
+协和	xie he	1
+行巫之祸	xing wu zhi huo	1
 
 中立物品附魔	zhong li wu pin fu mo	1
 中立生物附魔	zhong li sheng wu fu mo	1
@@ -881,7 +901,6 @@ sort: original # 排序依据：按照权重
 解构	jie gou	1
 动量	dong liang	1
 
-
 不朽尸王	bu xiu shi wang	1
 尸王	shi wang	1
 吟葬者德兹	yin zang zhe de zi	1
@@ -907,6 +926,7 @@ sort: original # 排序依据：按照权重
 魔霭	mo ai	1
 魔霭圣池	mo ai sheng chi	1
 毒雾护罩	du wu hu zhao	1
+凋零迷雾	diao ling mi wu	1
 
 地精撕裂者	di jing si lie zhe	1
 瑞兹拉克	rui zi la ke	1
@@ -941,6 +961,9 @@ sort: original # 排序依据：按照权重
 野性呼唤	ye xing hu huan	1
 豪猪	hao zhu	1
 战鹰	zhan ying	1
+召唤刀背兽	zhao huan dao bei shou	1
+刀背兽	dao bei shou	1
+召唤猛禽	zhao huan meng qin	1
 野性之心	ye xing zhi xin	1
 原始咆哮	yuan shi pao xiao	1
 俯冲炸弹	fu chong zha dan	1
@@ -1186,6 +1209,7 @@ sort: original # 排序依据：按照权重
 失明虚空	shi ming xu kong	1
 长夜之治	chang ye zhi zhi	1
 虚空使者	xu kong shi zhe	1
+午夜盛宴	wu ye sheng yan	1
 
 云游乐手	yun you yue shou	1
 朗戈	lang ge	1
@@ -1199,7 +1223,6 @@ sort: original # 排序依据：按照权重
 疾步生风	ji bu sheng feng	1
 大屿	da yu	1
 大屿灵药	da yu ling yao	1
-
 
 末日使者	mo ri shi zhe	1
 路西法	lu xi fa	1
@@ -1257,6 +1280,7 @@ sort: original # 排序依据：按照权重
 潮汐猎人	chao xi lie ren	1
 潮汐	chao xi	1
 利维坦	li wei tan	1
+利维坦的渔获	li wei tan de yu huo	1
 巨浪	ju lang	1
 海妖外壳	hai yao wai ke	1
 海妖坚壳	hai yao jian ke	1
@@ -1314,11 +1338,14 @@ sort: original # 排序依据：按照权重
 铅弹	qian dan	1
 跳弹	tiao dan	1
 全口径	quan kou jing	1
+猎枪	lie qiang	1
+
 
 精灵守卫	jing ling shou wei	1
 小精灵	xiao jing ling	1
 埃欧	ai ou	1
 艾欧	ai ou	1
+衡势	heng shi	1
 闪电之链	shan dian zhi lian	1
 羁绊	ji ban	1
 幽魂	you hun	1
@@ -1347,6 +1374,7 @@ sort: original # 排序依据：按照权重
 熊猫酒仙	xiong mao jiu xian	1
 酒仙熊猫	jiu xian xiong mao	1
 曼吉克斯	man ji ke si	1
+壮胆酒	zhuang dan jiu	1
 雷霆一击	lei ting yi ji	1
 醉酒云雾	zui jiu yun wu	1
 余烬佳酿	yu jin jia niang	1
@@ -1558,6 +1586,7 @@ sort: original # 排序依据：按照权重
 圣堂刺客	sheng tang ci ke	1
 圣堂	sheng tang	1
 拉娜娅	la na ya	1
+心怀安宁	xin huai an ning	1
 折光	zhe guang	1
 隐匿	yin ni	1
 灵能之刃	ling neng zhi ren	1
@@ -1621,6 +1650,7 @@ sort: original # 排序依据：按照权重
 赛莉蒙妮的信使	sai li meng ni de xin shi	1
 虎跃缠扰	hu yue chan rao	1
 流星赶月	liu xing gan yue	1
+天界箭袋	tian jie jian dai	1
 
 幻影长矛手	huan ying chang mao shou	1
 猴子	hou zi	1
@@ -1642,6 +1672,7 @@ sort: original # 排序依据：按照权重
 雷霆万钧	lei ting wan jun	1
 二段跳	er duan tiao	1
 众矛之的	zhong mao zhi di	1
+灵幻兵械
 
 娜迦海妖	na jia hai yao	1
 小娜迦	xiao na jia	1
@@ -1749,6 +1780,7 @@ sort: original # 排序依据：按照权重
 地卜师	di bu shi	1
 米波	mi bo	1
 地卜	di bu	1
+地卜术	di bu shu	1
 地之束缚	di zhi shu fu	1
 忽悠	hu you	1
 地之突袭	di zhi tu xi	1
@@ -1811,6 +1843,7 @@ sort: original # 排序依据：按照权重
 
 编织者	bian zhi zhe	1
 斯吉茨格尔	si ji ci ge er	1
+命运之线	ming yun zhi xian	1
 虫群	chong qun	1
 蝗虫	huang chong	1
 缩地	suo di	1
@@ -1962,6 +1995,7 @@ sort: original # 排序依据：按照权重
 天命之雨	tian ming zhi yu	1
 预言家诅咒	yu yan jia zu zhou	1
 预言家疗伤	yu yan jia liao shang	1
+占卜师牌组	zhan bu shi pai zu	1
 
 寒冬飞龙	han dong fei long	1
 冰龙	bing long	1
@@ -1974,6 +2008,8 @@ sort: original # 排序依据：按照权重
 飞龙视野	fei long shi ye	1
 抗寒	kang han	1
 递归	di gui	1
+古龙诗集	gu long shi ji	1
+
 
 工程师	gong cheng shi	1
 地精工程师	di jing gong cheng shi	1
@@ -2070,6 +2106,7 @@ sort: original # 排序依据：按照权重
 缩小射线	suo xiao she xian	1
 防御矩阵	fang yu ju zhen	1
 折跃耀光	zhe yue yao guang	1
+部署炮塔	bu shu pao ta	1
 
 暗影恶魔	an ying e mo	1
 艾瑞达	ai rui da	1
@@ -2093,6 +2130,8 @@ sort: original # 排序依据：按照权重
 咕咕鸡群	gu gu ji qun	1
 巨蛇守卫	ju she shou wei	1
 鸡手指	ji shou zhi	1
+巨蟒之瓮	ju mang zhi weng	1
+
 
 沉默术士	chen mo shu shi	1
 诺崇	nuo chong	1
@@ -2159,6 +2198,7 @@ sort: original # 排序依据：按照权重
 炎阳之缚	yan yang zhi fu	1
 预兆象征	yu zhao xiang zheng	1
 特别储备	te bie chu bei	1
+光明速度	guang ming su du	1
 
 干扰者	gan rao zhe	1
 萨尔	sa er	1
@@ -2171,8 +2211,8 @@ sort: original # 排序依据：按照权重
 动能栅栏	dong neng zha lan	1
 转移	zhuan yi	1
 
-大魔导师	da mo dao shi	1
 拉比克	la bi ke	1
+大魔导师	da mo dao shi	1
 隔空取物	ge kong qu wu	1
 隔空取物着陆	ge kong qu wu zhuo lu	1
 弱化能流	ruo hua neng liu	1
@@ -2181,11 +2221,15 @@ sort: original # 排序依据：按照权重
 力量与魔法	li liang yu mo fa	1
 节俭窃贼	jie jian qie zei	1
 奥术积累	ao shu ji lei	1
+奇心	qi xin	1
+
 
 黑暗贤者	hei an xian zhe	1
 兔子	tu zi	1
 黑贤	hei xian	1
 依什卡菲尔	yi shen ka fei er	1
+精进不休	jing jin bu xiu	1
+才思敏捷	cai si min jie	1
 真空	zhen kong	1
 离子外壳	li zi wai ke	1
 离子盾	li zi dun	1
@@ -2195,7 +2239,6 @@ sort: original # 排序依据：按照权重
 神志刚毅	shen zhi gang yi	1
 才思敏捷	cai si min jie	1
 战斗之心	zhan dou zhi xin	1
-精进不休	jing jin bu xiu	1
 
 殁境神蚀者	mo jing shen shi zhe	1
 黑鸟	hei niao	1
@@ -2205,6 +2248,7 @@ sort: original # 排序依据：按照权重
 精华变迁	jing hua bian qian	1
 精气光环	jing qi guang huan	1
 衡势	heng shi	1
+责难	ze nan	1
 神智之蚀	shen zhi zhi shi	1
 殁境	mo jing	1
 殁世	mo shi	1
@@ -2213,11 +2257,11 @@ sort: original # 排序依据：按照权重
 殁界神智	mo jie shen zhi	1
 殁境神力	mo jing shen li	1
 殁世神灭	mo shi shen mie	1
+殁势神蚀	mo shi shen shi	1
 殁世神识	mo shi shen shi	1
 殁世神蚀	mo shi shen shi	1
 殁世神元	mo shi shen yuan	1
 殁宇吞蚀	mo yu tun shi	1
-
 
 受折磨的灵魂	shou zhe mo de ling hun	1
 拉席克	la xi ke	1
@@ -2242,6 +2286,7 @@ sort: original # 排序依据：按照权重
 极寒幽魂	ji han you hun	1
 远古冰魂	yuan gu bing hun	1
 冰魂	bing hun	1
+刺骨严寒	ci gu yan han	1
 寒霜之足	han shuang zhi zu	1
 冰霜漩涡	bing shuang xuan wo	1
 极寒之触	ji han zhi chu	1
@@ -2602,7 +2647,7 @@ DotAPlus	dotaplus	1
 帮我灌瓶	bang wo guan ping	1
 两个吃树谢谢	liang ge chi shu xie xie	1
 吹跳绿隐推	chui tiao lv yin tui	1
-浪逼五件套	lang bi wu jian tao	1 
+浪逼五件套	lang bi wu jian tao	1
 反眼	fan yan	1
 排眼	pai yan	1
 
@@ -2613,13 +2658,11 @@ DotAPlus	dotaplus	1
 神杖二	shen zhang er	1
 奇货郎	qi huo lang	1
 奇货廊	qi huo lang	1
-
 版本更新	ban ben geng xin	1
 勇士联赛	yong shi lian meng	1
 世外之争	shi wai zhi zheng	1
 大展宏图	da zhan hong tu	1
 春华正茂	chun hua zheng mao	1
-
 
 边路商店	bian lu shang dian	1
 西泽尔	xi ze er	1
@@ -2671,6 +2714,9 @@ DotAPlus	dotaplus	1
 逆转协律	ni zhuan xie lv	1
 蜥蜴束系	xi yi shu xi	1
 神圣之心捆绑包	shen sheng zhi xin kun bang bao	1
+倾天之战	qing tian zhi zhan	1
+糖果厂摊车	tang guo chang tan che	1
+
 国际邀请赛	guo ji yao qing sai	1
 勇士令状纹章	yong shi ling zhuang wen zhang	1
 求圣之路	qiu sheng zhi lu	1
@@ -2766,7 +2812,7 @@ DotAPlus	dotaplus	1
 让他们静静	 rang ta men jing jing	1
 前哨站长	 qian shao zhan zhang	1
 仁心仁树	 ren xin ren shu	1
-
+饰品	shi pin	1
 身心	shen xin	1
 蓝心来使	lan xin lai shi	1
 漂泊绝影	piao bo jue ying	1
@@ -2778,8 +2824,6 @@ DotAPlus	dotaplus	1
 昔日暗黑奇艺	xi ri an hei qi yi	1
 魔星后裔	mo xing hou yi	1
 心嗔天使	xin chen tian shi	1
-暴食之痴	bao shi zhi chi	1
-
 至宝	zhi bao	1
 剑心之遗	jian xin zhi yi	1
 银影天仇	yin ying tian chou	1
@@ -2804,6 +2848,9 @@ DotAPlus	dotaplus	1
 真王降临	zhen wang jiang lin	1
 魔延新尊	mo yan xin zun	1
 清风环佩	qing feng huan pei	1
+信使	xin shi	1
+玉兔美萱	yu tu mei xuan	1
+
 游戏赛事	you xi sai shi	1
 冬季职业巡回赛	dong ji zhi ye xun hui sai	1
 英特尔世界公开赛	ying te er shi jie gong kai sai	1
@@ -2813,7 +2860,3 @@ DotAPlus	dotaplus	1
 暴世骑士的战盔	bao shi qi shi de zhan kui	1
 天命无常武器	tian ming wu chang wu qi	1
 黑门哨卫背部	hei men shao wei bei bu	1
-
-巫偶祭司	wu ou ji si	1
-孽龙之契	nie long zhi qi	1
-英魂之劫	ying hun zhi jie	1
