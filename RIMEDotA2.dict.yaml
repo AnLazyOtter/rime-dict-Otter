@@ -6,7 +6,7 @@
 
 ---
 name: RIMEDotA2 # 词库名
-version: "V7.40c"  # 词库版本，2026-04-11
+version: "V7.41"  # 词库版本，2026-04-11
 sort: original # 排序依据：按照权重
 ...
 属性	shu xing	1
@@ -2669,6 +2669,7 @@ DotAPlus	dotaplus	1
 神圣纹章	shen sheng wen zhang	1
 永雾林渊	yong wu lin yuan	1
 阿哈利姆天地迷宫	a ha li mu tian di mi gong	1
+
 奇货郎	qi huo lang	1
 奇货廊	qi huo lang	1
 巫偶祭司	wu ou ji si	1
