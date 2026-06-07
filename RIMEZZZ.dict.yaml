@@ -5,7 +5,7 @@
 ---
 
 name: RIMEZZZ  # 词库名
-version: "20260406"  # 词库版本
+version: "20260608"  # 词库版本
 sort: by_weight # 排序依据：按照权重
 ...
 
@@ -96,14 +96,13 @@ H.I.A俱乐部	hia	1
 治安局	zhi an jue	1
 莉捷	li jie	1
 引力电影院	yin li dian ying yuan	1
+哈莉	ha li	1
 新月潮流	xin yue caho liu	1
 哩查茶奶	li cha cha nai	1
 茶奶	cha nai	1
-
-
 杜伊老爹	du yi lao die	1
 杜伊	du yi	1
-
+折尾花	zhe wei hua	1
 伏尔甘区	fu er gan qu	1
 伏尔甘	fu er gan	1
 
@@ -127,11 +126,12 @@ H.I.A俱乐部	hia	1
 猪突猛进	zhu tu meng jin	1
 燃油饮	ran you yin	1
 幽浮薯片	you fu shu pian	1
-f
+
 獾笑镇	huan xiao zhen	1
 弃车坟场	qi che fen chang	1
 
 赫利俄斯机关	he li e si ji guan	1
+赫利俄斯	he li e si 	1
 大裂谷	da lie gu	1
 密涅瓦区	mi nie wa qu	1
 索恩区	suo en qu	1
@@ -204,6 +204,28 @@ f
 鹤唳青霄	he li qing xiao	1
 浪影闲庭	lang ying xian ting	1
 午德马呀	wu de ma ya	1
+## 德丰珍宝
+心跳节拍	xin tiao jie pai	1
+天使急电	tian shi ji dian	1
+聆听星愿	ling ting xing yuan	1
+天使之音	tian shi zhi yin	1
+雪绒聆月	xue rong ling yue	1
+汪想天使	wang xiang tian shi	1
+九格辣锅	jiu ge la guo	1
+灼目携云	zhuo mu xie yun	1
+沧溟侨珠	cang ming qiao zhu	1
+玄冥镇魂符珮	xuan ming zhen hun fu pei	1
+璇玑吞霄	xuan ji tun xiao	1
+双鲤鎏誓	shuang li liu shi	1
+借日映花	jie ri ying hua	1
+潮生玦佩	chao sheng jue pei	1
+青橙交响曲	qing cheng jiao xiang qu	1
+浮光巧镜	fu guang qiao jing	1
+青柑跃动	qing gan yue dong	1
+青华聆露	qing hua ling lu	1
+丹砂衔翎	dan sha xian ling	1
+翠璎聆风	cui ying ling feng	1
+金石鸿运	jin shi hong yun	1
 
 代理人	dai li ren	1
 合作者档案	he zuo zhe dang an	1
@@ -288,6 +310,7 @@ H.S.O.S.6	dui kong liu ke	1
 
 ## 卡吕冬之子代理人
 卡吕冬之子	ka lv dong zhi zi	1
+卡吕冬	ka lv dong	1
 派派	pai pai	1
 派派韦尔	pai pai wei er	1
 莱特	lai te	1
@@ -505,7 +528,15 @@ H.S.O.S.6	dui kong liu ke	1
 卢西娅	lu xi ya	11
 卢西娅・艾洛温	lu xi ya	1
 绮夜游灯	qi ye you deng	1
-
+星轨连击	xing gui lian ji	1
+星尘回响	xing chen hui xiang	1
+幻梦之声	huan meng zhi sheng	1
+绘梦和声	hui meng he sheng	1
+死神协奏曲	si shen xie zou qu	1
+璀色剧场	cui se ju chang	1
+迷途夜颂	mi tu ye song	1
+长夜诗篇	chang ye shi pian	1
+进击，大铠甲！	jin ji da kai jia	1
 ### 伊德海莉
 伊德海莉	yi de hai li	1
 孤旅同梦	gu lv tong meng	1
@@ -547,6 +578,25 @@ H.S.O.S.6	dui kong liu ke	1
 
 ### 普罗米娅
 普罗米娅	pu luo mi ya	1
+冷雨将尽之夜	leng yu jiang jin zhi ye	1
+旋刃	xuan ren	1
+寒蚀值	han shi zhi	1
+处刑式	chu xing shi	1
+绝裁	jue cai	1
+镣锁赦罪	liao suo she zui	1
+霏步	fei bu	1
+掠命	lue ming	1
+蝠跃	fu yue	1
+折袭	zhe xi	1
+截兵	jie bing	1
+寒芒乍现	han mang zha xian	1
+封喉霜径	feng hou shuang jing	1
+铁律	tie lv	1
+匿影	ni ying	1
+坠霜	zhui shuang	1
+倒悬清算	dao xuan qing suan	1
+彻骨磔罚	che gu zhe fa	1
+
 
 ## 妄想天使代理人
 妄想天使	wang xiang tian shi	1
@@ -618,15 +668,31 @@ H.S.O.S.6	dui kong liu ke	1
 
 ### 希希芙
 希希芙	xi xi fu	1
+致命私酿	zhi ming si niang	1
+牢饭加餐	lao fan jia can	1
+共犯情谊	gong fan qing yi	1
+獠齿	liao chi	1
 
 ### 赛维里安
 塞维里安	sai wei li an	1
 塞维里安·洛威尔	sai wei li an luo wei er	1
 
 
+## 外务筹策局代理人
+外务筹策局	wai wu chou ce ju	1
+外策局	wai ce ju	1
+
 维琳娜	wei lin na	1
 
 诺姆	nuo mu	1
+
+## 空巡局代理人
+空巡局	kong xun ju	1
+
+拉米尔	la mi er	1
+蕾米埃尔·丹	lei mi ai er dan	1
+蕾米埃尔	lei mi ai er	1
+节杖军	jie zhang jun	1
 
 # 代理人秘闻
 
@@ -696,7 +762,6 @@ H.S.O.S.6	dui kong liu ke	1
 铸梦炉歌	zhu meng lu ge	1
 月引颂篇	yue yin song pian	1
 以太帷幕	yi tai wei mu	1
-
 海妖摇篮	hai yao yao lan	1
 触抚心拥	chu fu xin yong	1
 怒目金刚	nu mu jin gang	1
@@ -705,6 +770,9 @@ H.S.O.S.6	dui kong liu ke	1
 玉魄冰心	yu po bing xin	1
 半糖雪兔	ban tang xue tu	1
 易碎之甜	yi sui zhi tian	1
+鳞齿寻踪	lin chi xun zong	1
+朔月裁霜	shuo yeu cai shuang	1
+终末裁决	zhong mo cai jue	1
 
 ## 其他音擎
 月相	yue xiang	1
@@ -750,6 +818,8 @@ H.S.O.S.6	dui kong liu ke	1
 玄音唤灵	xuan yin huan ling	1
 炎炙沸釜	yan zhi fei fu	1
 炽焰红椒	chi yan hong jiao	1
+匿光	ni guang	1
+f
 
 # 邦布
 
@@ -815,6 +885,8 @@ H.S.O.S.6	dui kong liu ke	1
 布问	bu wen	1
 好味布	hao wei bu	1
 选美布	xuan mei bu	1
+多萝西	duo luo xi	1
+
 
 # 养成材料
 ## 技能芯片
@@ -946,6 +1018,7 @@ H.S.O.S.6	dui kong liu ke	1
 
 叛律孤歌	pan lv gu ge	1
 薇斯珀	wei si po	1
+遴命者	lin ming zhe	1
 
 
 ## 专业挑战室
@@ -976,6 +1049,8 @@ H.S.O.S.6	dui kong liu ke	1
 秽息妖鬼	hui xi yao gui	1
 卫律使者	wei lv shi zhe	1
 
+清道夫	qing dao fu	1
+罗穆尔	luo mu er	1
 
 ## 临界推演
 临界推演	lin jie tui yan	1
@@ -1074,7 +1149,7 @@ H.S.O.S.6	dui kong liu ke	1
 火狱骑行	huo yu qi xing	1
 卡萨	ka sa	1
 阳燧	yang sui	1
-
+莫尔斯	mo er si	1
 急中生智的自救	ji zhong sheng zhi de zi jiu	1
 意想不到的挑战	yi xiang bu dao de tiao zhan	1
 巴罗姆	ba luo mu	1
@@ -1219,7 +1294,25 @@ H.S.O.S.6	dui kong liu ke	1
 弗林特辉金	fu lin te hui jin	1
 辉金	hui jin	1
 
+### 第二季尾音：新艾利都日落时上
+新·艾利都日落时	xin ai li du ri luo shi	1
+日落前夕	ri luo qian xi	1
+新变数的到来	xin bian shu de dao lai	1
+弗林特	fu lin te	1
+混乱的第一赛段	hun luan de di yi sai duan	1
+东拼西凑的团队	dong pin xi cou de tuan dui	1
+被中断的交锋	bei zhong duan de jiao feng	1
+迷失者的夜谈	mi shi zhe de ye tan	1
+无序的狂宴	wu xu de kuang yan	1
 
+风中余火	feng zhong yu huo	1
+篝火中的往昔	gou huo zhong de wang xi	1
+烈日寻踪	lie ri xun zong	1
+对虚狩镇暴机甲	dui xu shou zhen bao ji jia	1
+塔乌弥尔	ta wu mi er	1
+不速之梦	bu su zhi meng	1
+远行计划	yuan xing ji hua	1
+菲欧妮	fei ou ni	1
 # 绳网委托
 邦布掠影	bang bu lve ying	1
 
@@ -1284,8 +1377,8 @@ H.S.O.S.6	dui kong liu ke	1
 真意藏于水下	zhen yi cang yu shui xia	1
 人在江湖	ren zai jiang hu	1
 
-如愿璀璨之日	ru yuan cui can zhi ri	1
-知道苍白荒秽之地	zhi dao cang bai huang hui zhi di	1
+
+直到苍白荒秽之地	zhi dao cang bai huang hui zhi di	1
 「霸主」的欢宴	ba zhu de huan yan	1
 牛仔出现在百叶门后	niu zai chu xian zai bai ye men hou	1
 应急食品的味道	ying ji shi pin de wei dao	1
@@ -1316,7 +1409,6 @@ H.S.O.S.6	dui kong liu ke	1
 
 喵吉	miao ji	1
 再建丽都	zai jian li du	1
-丽都有布	li du you bu	1
 
 
 ## 野火镇版本活动
@@ -1326,6 +1418,15 @@ H.S.O.S.6	dui kong liu ke	1
 四脚兽茶话会	si jiao shou cha hua hui	1
 不速之客尚未落座	bu su zhi ke shang wei luo zuo	1
 
+## 拓金日2025
+如愿璀璨之日	ru yuan cui can zhi ri	1
+丽都有布	li du you bu	1
+假日晚星	jia ri wan xing	1
+云间粉梦	yun jian fen meng	1
+假期真谛	jia qi zhen di	1
+未来主义	wei lai zhu yi	1
+狂野赤红	kuang ye chi hong	1
+哥特之心	ge te zhi xin	1
 
 
 ## 2.0版本活动
@@ -1448,6 +1549,11 @@ H.S.O.S.6	dui kong liu ke	1
 滚烫寻鲜记	gun tang xun xian ji	1
 地狱品味师	di yu pin wei shi	1
 寻仙鉴品	xun xian jian pin	1
+
+## 2.8版本活动
+游乐岛拯救计划	you le dao zheng jiu ji hua	1
+极限裁决试炼	ji xian cai jue shi lian	1
+「灵魂」画手侧写簿	ling hun hua shou ce xie bu	1
 
 
 # 成就
@@ -1588,10 +1694,12 @@ H.S.O.S.6	dui kong liu ke	1
 墨提斯院	mo ti si yuan	1
 
 防卫军	fang wei jun	1
+飙骑工坊	biao qi gong fang	1
 
 ## TOPS财团
 梅弗劳尔	mei fu lao er	1
 朽峰矿业	xiu feng kuang ye	1
+朽峰	xiu feng	1
 辉晶美克	hui jing mei ke	1
 达米安	da mi an	1
 卡丽德安	ka li de an	1
