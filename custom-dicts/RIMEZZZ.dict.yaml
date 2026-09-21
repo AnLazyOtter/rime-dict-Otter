@@ -5,7 +5,7 @@
 ---
 
 name: RIMEZZZ  # 词库名
-version: "20260705"  # 词库版本
+version: "20260911"  # 词库版本
 sort: by_weight # 排序依据：按照权重
 ...
 
@@ -27,6 +27,7 @@ Zenless Zone Zero	zzz	1
 Hollow Investigative Association	hia	1
 H.I.A俱乐部	hia	1
 盗洞客	dao dong ke	1
+卡格车	ka ge che	1
 
 街瑞金萝	jie rui jin luo	1
 
@@ -145,7 +146,7 @@ H.I.A俱乐部	hia	1
 随便观	sui bian guan	1
 阿朔	a shuo	1
 解卦	jie gua	1
-藏卦集	cang gua ji	1s
+藏卦集	cang gua ji	1
 曦炎相济	xi yan xiang ji	1
 震霆殛妄	zhen ting ji wang	1
 
@@ -183,10 +184,10 @@ H.I.A俱乐部	hia	1
 航天城	hang tian cheng	1
 钟塔广场	zhong ta guang chang	1
 矿脉旧墟	kuang mai jiu xu	1
-万愆之源	wan qian zhi yuan	1`
+万愆之源	wan qian zhi yuan	1
 
 
-## 罗斯凯利法
+## 罗斯凯利法地名
 罗斯凯利法	luo si kai li fa	1
 布连邦	bu lian bang	1
 贝克福德街	bei ke fu de jie	1
@@ -195,10 +196,23 @@ H.I.A俱乐部	hia	1
 算枢局	suan shu ju	1
 算理中枢局	suan li zhong shu ju	1
 政务统理局	zheng wu tong li ju	1
+政理局	zheng li ju	1
+空域巡戍局	kong yu xun shu ju	1
+外务筹策局	wai wu chou ce ju	1
 布亚斯特	bu ya si te	1
 维尔乌姆	wei er wu mu	1
 焦点剧场	jiao dian ju chang	1
 沉没回廊	chen mo hui lang	1
+回流区	hui liu qu	1
+
+人居会	ren ju hui	1
+人居委员会	ren ju wei yuan hui	1
+邦布理事会	bang bu li shi hui	1
+梅丽桑德	mei li sang de	1
+希尔达	xi er da	1
+雷金纳德	lei jin na de	1
+维奥莉特	wei ao li te	1
+
 
 ## 卫星
 法努斯区	fa nu si qu	1
@@ -255,6 +269,26 @@ H.I.A俱乐部	hia	1
 以太能级锁定器	yi tai neng ji suo ding qi	1
 以太异体	yi tai yi ti	1
 佩洛伊斯	pei luo yi si	1
+黄昏旧章	huang hun jiu zhang	1
+煜焰铁骑	yu yan tie qi	1
+命定枷锁	ming ding jia suo	1
+焚昼孽火	fen zhou nie huo	1
+稚子禁卫	zhi zi jin wei	1
+拂晓晨星	fu xiao chen xing	1
+
+黄昏禁卫	huang hun jin wei	1
+悍兽铁御	han shou tie yu	1
+重睹天日	chong du tian ri	1
+残照	can zhao	1
+日华	ri hua	1
+强袭训令	qiang xi xun ling	1
+行军仪仗	xing jun yi zhang	1
+万军诛绝	wan jun zhu jue	1
+凯旋坦途	kai xuan tan tu	1
+煊赫车辇	xuan he che nian	1
+无拘剑势	wu ju jian shi	1
+永陷幽囚	yong xian you qiu	1
+辉煌军势	hui huang jun shi	1
 
 ## 狡兔屋代理人
 狡兔屋	jiao tu wu	1
@@ -472,7 +506,7 @@ H.S.O.S.6	dui kong liu ke	1
 青溟	qing ming	1
 青溟云影	qing ming yun ying	1
 符法千重	fu fa qian chong	1
-清溟鸟	qing ming niao
+清溟鸟	qing ming niao	1
 守华照寂	shou hua zhao ji	1
 
 ### 潘引壶
@@ -749,7 +783,6 @@ H.S.O.S.6	dui kong liu ke	1
 
 
 ## 外务筹策局代理人
-外务筹策局	wai wu chou ce ju	1
 外策局	wai ce ju	1
 
 ### 维琳娜
@@ -782,13 +815,62 @@ H.S.O.S.6	dui kong liu ke	1
 
 ## 空巡局代理人
 空巡局	kong xun ju	1
+### 希格莉德
 希格莉德	xi ge li de	1
 德拉叙尔	de la xu er	1
+凛冽枪尖	lin lie qiang jian	1
+巡空枪势	xun kong qiang shi	1
+出枪式	chu qiang shi	1
+敛枪式	lian qiang shi	1
+蹑云	nie yun	1
+巡戍铁卫	xun shu tie wei	1
+凛然不侵	lin ran bu qin	1
+冰饕	bing tao	1
+乱琼	luan qiong	1
+碎玉	sui yu	1
+冰凌卷地	bing ling juan di	1
+霜天	shuang tian	1
+天空骑士	tian kong qi shi	1
+天际联军	tian ji lian jun	1
 
+
+
+### 克拉蕾
+克拉蕾	ke la lei	1
+
+## 达识结社代理人
 拉米尔	la mi er	1
 蕾米埃尔·丹	lei mi ai er dan	1
 蕾米埃尔	lei mi ai er	1
+流明	liu ming	1
+达识结社	da shi jie she	1
 节杖军	jie zhang jun	1
+月夜密语	yue ye mi yu	1
+影池独舞	ying chi du wu	1
+时隙流明	shi xi liu ming	1
+万色滞行	wan se zhi xing	1
+虚曜	xu yao	1
+垂虹	chui hong	1
+浮晖	fu hui	1
+敛光	lian guang	1
+锐芒	rui mang	1
+片羽新生	pian yu xin sheng	1
+眠醒残明	mian xing can ming	1
+花羽轮舞	hua yu lun wu	1
+耀变	yao bian	1
+薄明	bo ming	1
+曙色颂	shu se song	1
+相变时流	xiang bian shi liu	1
+交叠舞步	jiao die wu bu	1
+映曜	ying yao	1
+缭乱终幕	liao luan zhong mu	1
+青涩誓言	qing se shi yan	1
+倾落喧嚣	qing luo xiao xiao	1
+时间分岔的花园	shi jian fen cha de hua yuan	2
+归客痛饮遗忘	gui ke tong yin yi wang	2
+千度振翅的孑羽	qian du zhen chi de jie yu	2
+
+
 
 # 代理人秘闻
 
@@ -845,7 +927,7 @@ H.S.O.S.6	dui kong liu ke	1
 福虓炉炉	fu xiao lu lu	1
 福虓炉炉	fu lu lu	1
 狸法七变化	li fa qi bian hua	1
-狸法	li fa
+狸法	li fa	1
 十方锻星	shi fang duan xing	1
 霞落星殿	xia luo xing dian	1
 霜染寒星	shuang han han xing	1
@@ -871,6 +953,8 @@ H.S.O.S.6	dui kong liu ke	1
 终末裁决	zhong mo cai jue	1
 琳琅鎏心	lin lang liu xin	1
 无懈之礼	wu xie zhi li	1
+空羽复归之诗	kong yu fu gui zhi shi	1
+
 ## 其他音擎
 月相	yue xiang	1
 残响	can xiang	1
@@ -916,7 +1000,6 @@ H.S.O.S.6	dui kong liu ke	1
 炎炙沸釜	yan zhi fei fu	1
 炽焰红椒	chi yan hong jiao	1
 匿光	ni guang	1
-f
 
 # 邦布
 
@@ -983,7 +1066,8 @@ f
 好味布	hao wei bu	1
 选美布	xuan mei bu	1
 多萝西	duo luo xi	1
-
+作战布	zuo zhan bu	1
+巴蒂	ba di	1
 
 # 养成材料
 ## 技能芯片
@@ -1006,7 +1090,7 @@ f
 # 驱动盘
 
 驱动盘	qu dong pan	1
-穿透值	chuan tou zhi	
+穿透值	chuan tou zhi	1
 啄木鸟电音	zhuo mu niao dian yin	1
 獠牙重金属	liao ya zhong jin shu	1
 极地重金属	ji di zhong jin shu	1
@@ -1016,7 +1100,7 @@ f
 摇摆爵士	yao bai jue shi	1
 灵魂摇滚	ling hun yao gun	1
 激素朋克	ji su peng ke	1
-自由蓝调	zi you lan diao	
+自由蓝调	zi you lan diao	1
 震星迪斯科	zhen xing di si ke	1
 河豚电音	he tun dian yin	1
 原始朋克	yuan shi peng ke	1
@@ -1031,6 +1115,13 @@ f
 拂晓生花	fu xiao sheng hua	1
 流光咏叹	liu guang yong tuan	1
 沧浪行歌	cang lang xing ge	1
+囚徒手记	qiu tu shou ji	1
+雪兔梦游仙境	xue tu meng you xian jing	1	
+拂晓行纪	fu xiao xing ji	1
+呼啸沙龙	hu xiao sha long	1
+荆棘玫瑰	jing ji mei gui	1
+谶羽之誓	chen yu zhi shi	1
+
 
 
 # 敌人
@@ -1415,7 +1506,7 @@ f
 
 ## 第三季
 ### 第一章
-天之算枢	tian zhi suan shu
+天之算枢	tian zhi suan shu	1
 德蕾琪娜	de lei qi na	1
 林德薇恩	lin de wei en	1
 艾尔妲	ai er da	1
@@ -1427,6 +1518,14 @@ f
 拨开迷雾	bo kai mi wu	1
 拂去尘埃的天使	fu qu chen ai de tian shi	1
 结使	jie shi	1
+
+### 第二章
+漫长的告别	man chang de gao bie	1
+帷幕之外的来客	wei mu zhi wai de lai ke	1
+洛克茜	luo ke xi	1
+特里薇亚	te li wei ya	1
+嗯呢帮	en ne bang	1
+回流区的嗯呢帮	hui liu qu de en ne bang	1
 
 # 绳网委托
 邦布掠影	bang bu lve ying	1
@@ -1478,6 +1577,11 @@ f
 
 真纪	zhen ji	1
 落花不必掩流年	luo hua bu bi yan liu nian	1
+
+## 第三季委托
+次元地板	ci yuan di ban	1
+邦布王子历险记	bang bu wang zi li xian ji	1
+卡布卡	ka bu ka	1
 
 
 # 丽都纪事
@@ -1682,8 +1786,56 @@ f
 天才与奇迹芯片	tian cai yu qi ji xin pian	1
 跛脚乌鸦奇闻录	bo jiao wu ya qi wen lu	1
 集结！模考逆袭计划	ji jie mo kao ni xi ji hua	1
+拟境湮灭战	ni jing yan mie zhan	1
+
+## 3.1版本活动
+
+乌利迪姆	wu li di mu	1
+奥蒙德研究站	ao meng de yan jiu zhan	1
+迷宫诡域	mi gong gui yu	1
+贝果计划	bei guo ji hua	1
+恶噪	e zao	1
+溯梦涌流	su meng yong liu	1
+殁相坠栽	mo xiang zhui zai	1
+玄翎金箓	xuan ling jin lu	1
+霜炎烈灼	shuang yan lie zhuo	1
+剑引青霜	jian yin qing shuang	1
+岚霜扑朔	lan shuang pu shuo	1
+致命礼仪	zhi ming li yi	1
+围猎时间	wei lie shi jian	1
+雾汐回涌	wu xi hui yong	1
+妄想辉光	wang xiang hui guang	1
+衔尾环行	xian wei huan xing	1
+灵巫御守	ling wu yu shou	1
+山君破煞	shan jun po sha	1
+旋岚断罪	xuan lan duan zui	1
+洞明薪火	dong ming xin huo	1
+盛大终局	sheng da zhong ju	1
+缭乱枪尖	liao luan qiang jian	1
+空翼巡礼	kong yi xun li	1
+华冠流风	hua guan liu feng	1
+流转映镜	liu zhuan ying jing	1
+虹霓协奏	hong ni xie zou	1
+气泡星球	qi pao xing qiu	1
+高光独舞	gao guang du wu	1
+裂铸强袭	lie zhu qiang xi	1
+铅锤百炼	qian chui bai lian	1
+冽光傍身	lie guang bang shen	1
+骑士腰带	qi shi yao dai	1
 
 
+## 3.2版本活动
+妄想料理时光	wang xiang liao li shi guang	1
+咔滋香嫩鸡块	ka zi xiang nen ji kuai	1
+蜜汁焦香鸡腿	mi zhi jiao xiang ji tui	1
+啵啵黄油玉米杯	bo bo huang you yu mi bei	1
+吨吨冰摇橙汁	dun dun bing yao cheng zhi	1
+黄金炸鸡汉堡	huang jin za ji han bao	1
+极危通缉与悠游假期	ji wei tong ji yu you you jia qi	1
+烈阳倾覆之日	lie yang qing fu zhi ri	1
+
+## 3.3 版本活动
+弹球勇者	tan qiu yong zhe	1
 # 成就
 邦布代班	bang bu dai ban	1
 关于致富的尝试	guan yu zhi fu de chang shi	1
@@ -1834,7 +1986,7 @@ f
 西芙地产	xi fu di chan	1
 
 ## 罗斯凯利法势力
-跛脚乌鸦事务所	bo jiao wu ya shi wu suo
+跛脚乌鸦事务所	bo jiao wu ya shi wu suo	1
 阿跛	a bo	1
 布司康	bu si kang	1
 幸福爆炸面包	xing fu bao zha mian bao	1
